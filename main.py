@@ -10,6 +10,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import colorsys
+import leidenalg
+from copy import deepcopy
+
 
 # Global variables for graphs
 selected_graph = None
@@ -120,6 +123,8 @@ app.layout = html.Div([
     ]),
     html.Div(id='tabs-content')
 ])
+
+
 # Tab content update callback
 @app.callback(Output('tabs-content', 'children'),
               Input('tabs', 'value'))
@@ -268,7 +273,7 @@ def render_content(tab):
     Input('clustering-method', 'value')
 )
 def toggle_cluster_number_visibility(method):
-    if method in ['1', '6']:
+    if method in ['1']:
         # Show input field
         return {'display': 'flex', 'align-items': 'center', 'margin-bottom': '20px'}
     else:
@@ -282,24 +287,13 @@ def toggle_cluster_number_visibility(method):
      Input('cluster-number', 'value')]
 )
 def toggle_button(method, number):
-    if method in ['1', '6']:
+    if method in ['1']:
         # Requires number of clusters
         return number is None or number < 1
     else:
         # No need for cluster number
         return False
 
-
-# Import necessary libraries
-from copy import deepcopy
-from dash import ctx, Output, Input, State, callback, no_update
-import dash
-from dash import html, dcc
-import dash_cytoscape as cyto
-import pandas as pd
-import plotly.graph_objects as go
-import numpy as np
-import colorsys
 
 # Callback to update the graph visualization
 @app.callback(
@@ -415,7 +409,7 @@ def apply_clustering(n_clicks, method, cluster_number):
     metrics = []
     clustering = None
     partitions = []
-    cluster_param_methods = ['1', '6']  # Edge Betweenness, Leading Eigenvector
+    cluster_param_methods = ['1']  # Edge Betweenness
 
     # Clustering method selection
     if method == '1':
@@ -432,7 +426,7 @@ def apply_clustering(n_clicks, method, cluster_number):
         if selected_graph[0] == "all":
             g = g.as_undirected(mode="collapse")
             stylesheet[1] = get_edge_stylesheet("")
-        clustering = g.community_leading_eigenvector(clusters=cluster_number)
+        clustering = try_leading_eigenvector(g)
     elif method == '7':
         if selected_graph[0] == "all":
             g = g.as_undirected(mode="collapse")
@@ -444,10 +438,7 @@ def apply_clustering(n_clicks, method, cluster_number):
             stylesheet[1] = get_edge_stylesheet("")
         clustering = g.community_multilevel()
     elif method == '9':
-        if selected_graph[0] == "all":
-            g = g.as_undirected(mode="collapse")
-            stylesheet[1] = get_edge_stylesheet("")
-        clustering = g.community_leiden(n_iterations=5000)
+        clustering = leidenalg.find_partition(g_all, leidenalg.ModularityVertexPartition)
 
     if not clustering:
         return html.Div("Error applying clustering.")
@@ -571,6 +562,27 @@ def generate_colors(n):
         colors.append(hex_color)
 
     return colors
+
+
+def try_leading_eigenvector(g):
+  max_retries = 100
+  attempt = 0
+
+  leading_eigenvector = None
+
+  while attempt < max_retries:
+      try:
+          leading_eigenvector = g.community_leading_eigenvector()
+          break
+      except Exception as e:
+          print(f"Attempt {attempt+1} failed: {e}")
+          attempt += 1
+
+  if not leading_eigenvector:
+      print("Error: community_leading_eigenvector could not converge after several attempts.")
+
+  return leading_eigenvector
+
 
 # Get most common category within a cluster
 def most_common_in_cluster(g, membership):
