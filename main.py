@@ -1,18 +1,16 @@
+import colorsys
 import copy
+from copy import deepcopy
+
 import dash
 import dash_cytoscape as cyto
 import igraph as ig
-from dash import dcc, html, Output, Input, ctx
-from sklearn.metrics import normalized_mutual_info_score, adjusted_rand_score
-from dash.dependencies import Input, Output, State
-import plotly.graph_objs as go
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-import colorsys
 import leidenalg
-from copy import deepcopy
-
+import pandas as pd
+import plotly.graph_objs as go
+from dash import dcc, html, ctx
+from dash.dependencies import Input, Output, State
+from sklearn.metrics import normalized_mutual_info_score, adjusted_rand_score
 
 # Global variables for graphs
 selected_graph = None
@@ -208,7 +206,6 @@ def render_content(tab):
                         style={'width': '200px', 'display': 'inline-block'}
                     )
                 ], style={'display': 'flex', 'align-items': 'center', 'margin-bottom': '20px'}),
-
                 html.Div([
                     html.Label('Enter a Positive Number:', style={'margin-right': '10px'}),
                     dcc.Input(
@@ -223,12 +220,15 @@ def render_content(tab):
 
                 html.Button("Apply", id='apply-clustering', n_clicks=0, disabled=True, style={'margin-top': '10px'})
             ], id='clustering-container'),
-
+            html.H4("Partition Visualization"),
             html.Div([
-                html.Div(id='clustering-container2', children=[
-                    # Selection is already here; add results below:
-                    html.Div(id='clustering-result')
-                ], style={'width': '70%', 'height': '1000px'}),
+                cyto.Cytoscape(
+                    id='cytoscape-graph-c',
+                    layout={'name': 'preset'},
+                    style={'width': '70%', 'height': '1000px'},
+                    elements=[],
+                    stylesheet=[]
+                ),
                 html.Div([
                     html.H4("Legend (Click to Filter):"),
                     html.Div(id='legend-clusters', style={
@@ -263,7 +263,10 @@ def render_content(tab):
                     'flex-direction': 'column',
                     'height': '1000px'
                 })
-            ], style={'display': 'flex'})
+            ], style={'display': 'flex'}),
+            html.H4("Metrics Progression"),
+            dcc.Graph(id='metric-graph', figure=go.Figure()),
+            dcc.Graph(id='metric-table', figure=go.Figure())
         ])
     return None
 
@@ -316,6 +319,7 @@ def update_graph(tab, selected_values, tapped_node, legend_clicks, all_elements,
     global selected_graph
     global results_eb
     global results_ev
+    global list_table
 
     if tab != 'graph_visualization':
         raise dash.exceptions.PreventUpdate
@@ -361,193 +365,242 @@ def update_graph(tab, selected_values, tapped_node, legend_clicks, all_elements,
         elements = g_all_elements
         results_eb = []
         results_ev = []
+        list_table = []
     elif selected_values == 'disease':
         selected_graph = ("disease", g_disease.copy())
         elements = g_disease_elements
         results_eb = []
         results_ev = []
+        list_table = []
     elif selected_values == 'gene':
         selected_graph = ("gene", g_gene.copy())
         elements = g_gene_elements
         results_eb = []
         results_ev = []
+        list_table = []
     else:
         selected_graph = None
         elements = []
+        results_eb = []
+        results_ev = []
+        list_table = []
 
     node_info = get_node_info(tapped_node)
     legend_items = get_category_legend(selected_categories, elements, "legend-button")
 
     return elements, stylesheet, node_info, legend_items, elements, selected_categories
 
+list_table = []
+
 # Callback to apply clustering
 @app.callback(
-    Output('clustering-container2', 'children'),
+    Output('cytoscape-graph-c', 'elements'),
+    Output('cytoscape-graph-c', 'stylesheet'),
+    Output('metric-graph', 'figure'),
+    Output('metric-table', 'figure'),
+    Output('legend-categories', 'children'),
+    Output('legend-clusters', 'children'),
+    Output('c-selected-categories', 'data'),
+    Output('c-selected-clusters', 'data'),
+    Output('c-full', 'data'),
     Input('apply-clustering', 'n_clicks'),
+    Input({'type': 'c-legend-cat', 'index': dash.ALL}, 'n_clicks'),
+    Input({'type': 'c-legend-clu', 'index': dash.ALL}, 'n_clicks'),
     State('clustering-method', 'value'),
     State('cluster-number', 'value'),
+    State('c-selected-categories', 'data'),
+    State('c-selected-clusters', 'data'),
+    State('c-full', 'data'),
     prevent_initial_call=True
 )
-def apply_clustering(n_clicks, method, cluster_number):
-    if not selected_graph:
-        return html.Div("Please select a graph in the Graph Visualization tab first.")
+def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categories, selected_clusters, all_elements):
+    trigger = ctx.triggered_id
 
-    if selected_graph[0] == "gene":
-        return html.Div("Not available.")
+    if trigger == "apply-clustering":
+        if not selected_graph or selected_graph[0] == "gene":
+            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
 
-    g = selected_graph[1].copy()
+        g = selected_graph[1].copy()
 
-    stylesheet = [{
-        'selector': 'node',
-        'style': {
-            'background-color': 'data(fill_color)',
-            'border-width': 4,
-            'border-color': 'data(border_color)'
-        }
-    }, get_edge_stylesheet(selected_graph[0])]
+        stylesheet = [{
+            'selector': 'node',
+            'style': {
+                'background-color': 'data(fill_color)',
+                'border-width': 4,
+                'border-color': 'data(border_color)'
+            }
+        }, get_edge_stylesheet(selected_graph[0])]
 
-    metrics = []
-    clustering = None
-    partitions = []
-    cluster_param_methods = ['1']  # Edge Betweenness
+        method_name = ""
+        clustering = None
 
-    # Clustering method selection
-    if method == '1':
-        clustering = g.community_edge_betweenness(clusters=cluster_number).as_clustering(n=cluster_number)
-    elif method == '2':
-        clustering = g.community_infomap()
-    elif method == '3':
-        clustering = g.community_label_propagation()
-    elif method == '4':
-        clustering = g.community_spinglass()
-    elif method == '5':
-        clustering = g.community_walktrap().as_clustering()
-    elif method == '6':
-        if selected_graph[0] == "all":
-            g = g.as_undirected(mode="collapse")
-            stylesheet[1] = get_edge_stylesheet("")
-        clustering = try_leading_eigenvector(g)
-    elif method == '7':
-        if selected_graph[0] == "all":
-            g = g.as_undirected(mode="collapse")
-            stylesheet[1] = get_edge_stylesheet("")
-        clustering = g.community_fastgreedy().as_clustering()
-    elif method == '8':
-        if selected_graph[0] == "all":
-            g = g.as_undirected(mode="collapse")
-            stylesheet[1] = get_edge_stylesheet("")
-        clustering = g.community_multilevel()
-    elif method == '9':
-        clustering = leidenalg.find_partition(g_all, leidenalg.ModularityVertexPartition)
+        # Clustering method selection
+        if method == '1':
+            method_name = 'Edge Betweenness'
+            clustering = g.community_edge_betweenness(clusters=cluster_number).as_clustering(n=cluster_number)
+        elif method == '2':
+            method_name = 'Infomap'
+            clustering = g.community_infomap()
+        elif method == '3':
+            method_name = 'Label Propagation'
+            clustering = g.community_label_propagation()
+        elif method == '4':
+            method_name = 'Spinglass'
+            clustering = g.community_spinglass()
+        elif method == '5':
+            method_name = 'Walktrap'
+            clustering = g.community_walktrap().as_clustering()
+        elif method == '6':
+            method_name = 'Leading Eigenvector'
+            if selected_graph[0] == "all":
+                g = g.copy().as_undirected(mode="collapse")
+                stylesheet[1] = get_edge_stylesheet("")
 
-    if not clustering:
-        return html.Div("Error applying clustering.")
+            max_retries = 100
+            attempt = 0
 
-    g.vs['cluster'] = list(clustering.membership)
-    g.vs['cluster_str'] = most_common_in_cluster(g, g.vs['cluster'])
-    g.vs['size cluster'] = [list(clustering.sizes())[i] for i in g.vs['cluster']]
+            clustering = None
 
-    # Average assortativity per cluster
-    assortativity_clusters = []
-    for cluster_nodes in clustering:
-        if len(cluster_nodes) > 1:
-            subgraph = g.subgraph(cluster_nodes)
-            assort = subgraph.assortativity_degree(directed=g.is_directed())
-            assortativity_clusters.append(assort)
+            while attempt < max_retries:
+                try:
+                    clustering = g.community_leading_eigenvector()
+                    break
+                except Exception as e:
+                    print(f"Attempt {attempt + 1} failed: {e}")
+                    attempt += 1
 
-    g.vs['assortativity cluster'] = [assortativity_clusters[i] for i in g.vs['cluster']]
+        elif method == '7':
+            method_name = 'Fast Greedy'
+            if selected_graph[0] == "all":
+                g = g.as_undirected(mode="collapse")
+                stylesheet[1] = get_edge_stylesheet("")
+            clustering = g.community_fastgreedy().as_clustering()
+        elif method == '8':
+            method_name = 'Louvain'
+            if selected_graph[0] == "all":
+                g = g.as_undirected(mode="collapse")
+                stylesheet[1] = get_edge_stylesheet("")
+            clustering = g.community_multilevel()
+        elif method == '9':
+            method_name = 'Leiden'
+            clustering = leidenalg.find_partition(g_all, leidenalg.ModularityVertexPartition)
 
-    # Metrics calculation
-    NMI = normalized_mutual_info_score(g.vs['category'], g.vs['cluster'])
-    ARI = adjusted_rand_score(g.vs['category'], g.vs['cluster'])
-    NMI_LM = normalized_mutual_info_score(g.vs['category'], g.vs['cluster'])
-    ARI_LM = adjusted_rand_score(g.vs['category'], g.vs['cluster'])
-    AVG_ASS = [a for a in assortativity_clusters if not np.isnan(a)]
+        if not clustering:
+            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
 
-    AVG_ASS = sum(AVG_ASS) / len(AVG_ASS) if AVG_ASS else None
-    modularity = clustering.modularity
+        g.vs['cluster'] = list(clustering.membership)
+        g.vs['cluster_str'] = most_common_in_cluster(g, g.vs['cluster'])
+        g.vs['size cluster'] = [list(clustering.sizes())[i] for i in g.vs['cluster']]
 
-    # Color nodes by cluster
-    colors = generate_colors(len(set(clustering.membership)))
+        # Metrics calculation
+        NMI = normalized_mutual_info_score(g.vs['category'], g.vs['cluster'])
+        ARI = adjusted_rand_score(g.vs['category'], g.vs['cluster'])
+        NMI_LM = normalized_mutual_info_score(g.vs['category'], g.vs['cluster'])
+        ARI_LM = adjusted_rand_score(g.vs['category'], g.vs['cluster'])
 
-    for idx, cluster in enumerate(clustering):
-        color = colors[idx % len(colors)]
-        for v in cluster:
-            g.vs[v]['fill_color'] = color
-            g.vs[v]['border_color'] = g.vs[v]['color']
+        modularity = clustering.modularity
 
-    elements = get_elements_from_graph(g, mode=True)
+        # Color nodes by cluster
+        colors = generate_colors(len(set(clustering.membership)))
 
-    # Clustering output
-    if method in cluster_param_methods:
-        global results_eb, results_ev
+        g.vs['fill_color'] = [colors[c] for c in g.vs['cluster']]
+        g.vs['border_color'] = g.vs['color']
+
+        elements = get_elements_from_graph(g, mode=True)
+        selected_categories = []
+        selected_clusters = []
+
+        global results_eb
+        global list_table
 
         x = {
-            'Clusters': cluster_number,
+            'Clusters': len(clustering),
             'NMI': NMI,
             'ARI': ARI,
             'NMI LM': NMI_LM,
             'ARI LM': ARI_LM,
-            'AVG Assortativity Clusters': AVG_ASS,
             'Modularity': modularity
         }
 
         if method == '1':
             results_eb.append(x)
             results = deepcopy(results_eb)
+            results.sort(key=lambda x: x['Clusters'])
         else:
-            results_ev.append(x)
-            results = deepcopy(results_ev)
-
-        results.sort(key=lambda x: x['Clusters'])
+            results = []
 
         df = pd.DataFrame(results)
-        fig = go.Figure()
-        fig.add_trace(go.Scatter(x=df['Clusters'], y=df['NMI'], mode='lines+markers', name='NMI'))
-        fig.add_trace(go.Scatter(x=df['Clusters'], y=df['ARI'], mode='lines+markers', name='ARI'))
-        fig.add_trace(go.Scatter(x=df['Clusters'], y=df['NMI LM'], mode='lines+markers', name='NMI LM'))
-        fig.add_trace(go.Scatter(x=df['Clusters'], y=df['ARI LM'], mode='lines+markers', name='ARI LM'))
-        fig.add_trace(go.Scatter(x=df['Clusters'], y=df['Modularity'], mode='lines+markers', name='Modularity'))
+        fig_graph = go.Figure()
+        for key in df.keys():
+            if 'Clusters' not in key:
+                fig_graph.add_trace(go.Scatter(x=df['Clusters'], y=df[key], mode='lines+markers', name=key))
 
-        return html.Div([
-            html.H4("Partition Visualization"),
-            cyto.Cytoscape(
-                id='cytoscape-graph-c',
-                layout={'name': 'preset'},
-                style={'width': '100%', 'height': '600px'},
-                elements=elements,
-                stylesheet=stylesheet
-            ),
-            html.H4("Metrics Progression"),
-            dcc.Graph(figure=fig)
-        ])
-    else:
-        table = pd.DataFrame([{
-            'NMI': NMI,
-            'ARI': ARI,
-            'NMI LM': NMI_LM,
-            'ARI LM': ARI_LM,
-            'AVG Assortativity Clusters': AVG_ASS,
-            'Modularity': modularity
-        }])
+        list_table.append({
+            'Method': method_name,
+            'Clusters': len(clustering),
+            'NMI': round(NMI, 5),
+            'ARI': round(ARI, 5),
+            'NMI LM': round(NMI_LM, 5),
+            'ARI LM': round(ARI_LM, 5),
+            'Modularity': round(modularity, 5)
+        })
 
-        return html.Div([
-            html.H4("Partition Visualization"),
-            cyto.Cytoscape(
-                id='cytoscape-graph-c',
-                layout={'name': 'preset'},
-                style={'width': '100%', 'height': '600px'},
-                elements=elements,
-                stylesheet=stylesheet
-            ),
-            html.H4("Clustering Metrics"),
-            dcc.Graph(
-                figure=go.Figure(data=[go.Table(
-                    header=dict(values=list(table.columns)),
-                    cells=dict(values=[table[col] for col in table.columns])
-                )])
-            )
-        ])
+        list_table = [dict(t) for t in {frozenset(d.items()) for d in list_table}]
+        table = pd.DataFrame(list_table)
+        table = table[['Method', 'Clusters', 'Modularity', 'NMI', 'ARI', 'NMI LM', 'ARI LM']]
+
+        fig_table = go.Figure(data=[go.Table(
+            header=dict(values=list(table.columns)),
+            cells=dict(values=[table[col] for col in table.columns])
+        )])
+
+        legend_category = get_category_legend([], elements, 'c-legend-cat')
+        legend_clusters = get_cluster_legend([], elements, 'c-legend-clu')
+
+        return elements, stylesheet, fig_graph, fig_table, legend_category, legend_clusters, selected_categories, selected_clusters, elements
+
+    if isinstance(trigger, dict) and (trigger.get('type') == 'c-legend-cat' or trigger.get('type') == 'c-legend-clu') and all_elements:
+        to_do = False
+        # Clic su Legenda
+        if trigger.get('type') == 'c-legend-cat':
+            cat = trigger['index']
+            to_do = True
+            if cat in selected_categories:
+                selected_categories.remove(cat)
+            else:
+                selected_categories.append(cat)
+
+        if trigger.get('type') == 'c-legend-clu':
+            clu = trigger['index']
+            to_do = True
+            if clu in selected_clusters:
+                selected_clusters.remove(clu)
+            else:
+                selected_clusters.append(clu)
+
+        if to_do:
+            if  (not selected_categories) and (not selected_clusters):
+                elements = copy.deepcopy(all_elements)
+            else:
+                selected_nodes = {el['data']['id'] for el in all_elements if
+                                  ((el['data'].get('category') in selected_categories) or (el['data'].get('cluster') in selected_clusters))}
+                filtered_elements = [el for el in all_elements if ('data' in el and el['data'].get('id') in selected_nodes)]
+                filtered_edges = [el for el in all_elements if ('data' in el and 'source' in el['data'] and
+                                                                el['data']['source'] in selected_nodes and
+                                                                el['data']['target'] in selected_nodes)]
+                elements = filtered_elements + filtered_edges
+
+            legend_category = get_category_legend(selected_categories, all_elements, 'c-legend-cat')
+            legend_clusters = get_cluster_legend(selected_clusters, all_elements, 'c-legend-clu')
+
+            return elements, dash.no_update, dash.no_update, dash.no_update, legend_category, legend_clusters, selected_categories, selected_clusters, all_elements
+        else:
+            legend_category = get_category_legend(selected_categories, all_elements, 'c-legend-cat')
+            legend_clusters = get_cluster_legend(selected_clusters, all_elements, 'c-legend-clu')
+
+            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, legend_category, legend_clusters, selected_categories, selected_clusters, all_elements
+    return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
+
 
 # Utility function to generate distinct colors
 def generate_colors(n):
@@ -601,67 +654,11 @@ def most_common_in_cluster(g, membership):
 
 @app.callback(
     Output('node-info-c', 'children'),
-    Output('c-full', 'data'),
-    Output('legend-categories', 'children'),
-    Output('legend-clusters', 'children'),
-    Output('c-selected-categories', 'data'),
-    Output('c-selected-clusters', 'data'),
-    Output('cytoscape-graph-c', 'elements'),
     Input('cytoscape-graph-c', 'tapNodeData'),
-    Input({'type': 'c-legend-cat', 'index': dash.ALL}, 'n_clicks'),
-    Input({'type': 'c-legend-clu', 'index': dash.ALL}, 'n_clicks'),
-    State('c-full', 'data'),
-    State('c-selected-categories', 'data'),
-    State('c-selected-clusters', 'data'),
-    State('cytoscape-graph-c', 'elements'),
     prevent_initial_call=True
 )
-def update_node_c(tapped_node, l1, l2, all_elements, selected_categories, selected_clusters, elements):
-    node_info = get_node_info(tapped_node)
-
-    if not all_elements:
-        all_elements = copy.deepcopy(elements)
-
-    trigger = ctx.triggered_id
-    to_do = False
-    # Clic su Legenda
-    if isinstance(trigger, dict) and trigger.get('type') == 'c-legend-cat' and all_elements:
-        cat = trigger['index']
-        to_do = True
-        if cat in selected_categories:
-            selected_categories.remove(cat)
-        else:
-            selected_categories.append(cat)
-
-    if isinstance(trigger, dict) and trigger.get('type') == 'c-legend-clu' and all_elements:
-        clu = trigger['index']
-        to_do = True
-        if clu in selected_clusters:
-            selected_clusters.remove(clu)
-        else:
-            selected_clusters.append(clu)
-
-    if to_do:
-        if  (not selected_categories) and (not selected_clusters):
-            elements = copy.deepcopy(all_elements)
-        else:
-            selected_nodes = {el['data']['id'] for el in all_elements if
-                              ((el['data'].get('category') in selected_categories) or (el['data'].get('cluster') in selected_clusters))}
-            filtered_elements = [el for el in all_elements if ('data' in el and el['data'].get('id') in selected_nodes)]
-            filtered_edges = [el for el in all_elements if ('data' in el and 'source' in el['data'] and
-                                                            el['data']['source'] in selected_nodes and
-                                                            el['data']['target'] in selected_nodes)]
-            elements = filtered_elements + filtered_edges
-
-        legend_category = get_category_legend(selected_categories, all_elements, 'c-legend-cat')
-        legend_clusters = get_cluster_legend(selected_clusters, all_elements, 'c-legend-clu')
-
-        return node_info, all_elements, legend_category, legend_clusters, selected_categories, selected_clusters, elements
-
-    legend_category = get_category_legend(selected_categories, all_elements, 'c-legend-cat')
-    legend_clusters = get_cluster_legend(selected_clusters, all_elements, 'c-legend-clu')
-
-    return node_info, all_elements, legend_category, legend_clusters, selected_categories, selected_clusters, elements
+def update_node_c(tapped_node):
+    return get_node_info(tapped_node)
 
 
 def get_node_info(tapped_node):
