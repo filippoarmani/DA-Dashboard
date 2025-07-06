@@ -317,7 +317,7 @@ def update_graph(tab, selected_values, tapped_node, legend_clicks, all_elements,
     global results_eb
     global results_ev
 
-    if tab != 'visualizzazione_grafo':
+    if tab != 'graph_visualization':
         raise dash.exceptions.PreventUpdate
 
     # Define graph stylesheet
