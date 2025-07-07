@@ -206,7 +206,7 @@ def render_content(tab):
                     'height': '800px'
                 })
             ], style={'display': 'flex'}),
-            dcc.Graph(id='distribution', figure=go.Figure(), style={'height': '500px'}),
+            dcc.Graph(id='distribution', figure=go.Figure(), style={'display': 'none', 'height': '500px'}),
             dcc.Store(id='full-elements')
         ])
     elif tab == 'page-2':
@@ -360,6 +360,8 @@ def update_t_div(selector):
     Output('legend', 'children'),
     Output('full-elements', 'data'),
     Output('selected-categories', 'data'),
+    Output('distribution', 'figure'),
+    Output('distribution', 'style'),
     Input('tabs', 'value'),
     Input('graph-selector', 'value'),
     Input('apply-threshold', 'n_clicks'),
@@ -417,7 +419,7 @@ def update_graph(tab, selected_values, n, legend_clicks, all_elements, selected_
 
         legend_items = get_category_legend(selected_categories, all_elements, "legend-button")
 
-        return elements, stylesheet, legend_items, all_elements, selected_categories
+        return elements, stylesheet, legend_items, all_elements, selected_categories, dash.no_update, dash.no_update
     elif trigger == "graph-selector":
         # Graph selector or node tap
         if selected_values == 'all':
@@ -439,11 +441,10 @@ def update_graph(tab, selected_values, n, legend_clicks, all_elements, selected_
 
         legend_items = get_category_legend(selected_categories, elements, "legend-button")
 
-        return elements, stylesheet, legend_items, elements, []
+        return elements, stylesheet, legend_items, elements, [], dash.no_update, {'display': 'none', 'height': '500px'}
     elif trigger == "apply-threshold":
         selected_nodes = {el['data']['id'] for el in all_elements if prop in el['data'].keys() and float(el['data'].get(prop, "")) >= float(threshold)}
 
-        print(selected_nodes)
         highlight_elements = [{'data' : el['data'], 'classes': 'highlight'} for el in all_elements if 'data' in el and el['data'].get('id', "") in selected_nodes]
         faded_elements = [{'data': el['data'], 'classes': 'faded'} for el in all_elements if 'data' in el and el['data'].get('id', "") not in selected_nodes]
 
@@ -482,8 +483,22 @@ def update_graph(tab, selected_values, n, legend_clicks, all_elements, selected_
                 }
             }
         ]
-        return elements, stylesheet, dash.no_update, dash.no_update, dash.no_update
-    return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
+
+        boxplot = go.Figure(
+            data=[
+                go.Box(
+                    y=sorted([el['data'][prop] for el in all_elements if 'data' in el and ('source' not in el['data']) and ('target' not in el['data'])]),
+                    name="",
+                    boxmean=True
+                )
+            ]
+        )
+
+        boxplot.update_layout(
+            title="Boxplot of " + prop + " distribution"
+        )
+        return elements, stylesheet, dash.no_update, dash.no_update, dash.no_update, boxplot, {'display': 'block', 'height': '500px'}
+    return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
 
 list_table = []
 
@@ -659,7 +674,7 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
         boxplot = go.Figure(
             data=[
                 go.Box(
-                    y=clustering.sizes(),
+                    y=sorted(clustering.sizes()),
                     name="",
                     boxmean=True
                 )
@@ -765,7 +780,7 @@ def update_node_d(tapped_node):
 
 def get_node_info(tapped_node):
     node_info = ""
-    print(tapped_node)
+    
     if tapped_node:
         node_info = "Node Attribute:\n\n"
         for key, value in tapped_node.items():
