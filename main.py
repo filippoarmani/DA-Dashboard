@@ -45,6 +45,8 @@ def upload_graph(gml_file):
 def get_elements_from_graph(G, mode=True):
     elements = []
 
+    global g_all_elements
+
     try:
         if mode:
             # Compute automatic layout (Kamada-Kawai)
@@ -147,13 +149,13 @@ def render_content(tab):
                 dcc.Dropdown(
                     id='properties-method',
                     options=[
-                        {'label': 'all degree centrality', 'value': '1'},
-                        {'label': 'in degree centrality', 'value': '2'},
-                        {'label': 'out degree centrality', 'value': '3'},
-                        {'label': 'betweenness centrality', 'value': '4'},
-                        {'label': 'eigenvector centrality', 'value': '5'},
-                        {'label': 'pagerank', 'value': '6'},
-                        {'label': 'closeness', 'value': '7'}
+                        {'label': 'all degree centrality', 'value': 'alldegreecentrality'},
+                        {'label': 'in degree centrality', 'value': 'indegreecentrality'},
+                        {'label': 'out degree centrality', 'value': 'outdegreecentrality'},
+                        {'label': 'betweenness centrality', 'value': 'betweennesscentrality'},
+                        {'label': 'eigenvector centrality', 'value': 'eigenvectorcentrality'},
+                        {'label': 'pagerank', 'value': 'pagerank'},
+                        {'label': 'closeness', 'value': 'closeness'}
                     ],
                     placeholder="Select Properties",
                     value=None,
@@ -360,17 +362,23 @@ def update_t_div(selector):
     Output('selected-categories', 'data'),
     Input('tabs', 'value'),
     Input('graph-selector', 'value'),
+    Input('apply-threshold', 'n_clicks'),
     Input({'type': 'legend-button', 'index': dash.ALL}, 'n_clicks'),
     State('full-elements', 'data'),
     State('selected-categories', 'data'),
+    State('properties-method', 'value'),
+    State('threshold-number', 'value'),
     prevent_initial_call=True
 )
-def update_graph(tab, selected_values, legend_clicks, all_elements, selected_categories):
+def update_graph(tab, selected_values, n, legend_clicks, all_elements, selected_categories, prop, threshold):
     # Global variables to track selected graph and results
     global selected_graph
     global results_eb
     global results_ev
     global list_table
+    global g_all_elements
+    global g_disease_elements
+    global g_gene_elements
 
     if tab != 'graph_visualization':
         raise dash.exceptions.PreventUpdate
@@ -389,6 +397,7 @@ def update_graph(tab, selected_values, legend_clicks, all_elements, selected_cat
     ]
 
     trigger = ctx.triggered_id
+
     # Legend button click
     if isinstance(trigger, dict) and trigger.get('type') == 'legend-button' and all_elements:
         cat = trigger['index']
@@ -408,37 +417,73 @@ def update_graph(tab, selected_values, legend_clicks, all_elements, selected_cat
 
         legend_items = get_category_legend(selected_categories, all_elements, "legend-button")
 
-        return elements, stylesheet, "", legend_items, all_elements, selected_categories
+        return elements, stylesheet, legend_items, all_elements, selected_categories
+    elif trigger == "graph-selector":
+        # Graph selector or node tap
+        if selected_values == 'all':
+            selected_graph = ("all", g_all.copy())
+            elements = g_all_elements
+        elif selected_values == 'disease':
+            selected_graph = ("disease", g_disease.copy())
+            elements = g_disease_elements
+        elif selected_values == 'gene':
+            selected_graph = ("gene", g_gene.copy())
+            elements = g_gene_elements
+        else:
+            selected_graph = None
+            elements = []
 
-    # Graph selector or node tap
-    if selected_values == 'all':
-        selected_graph = ("all", g_all.copy())
-        elements = g_all_elements
-        results_eb = []
-        results_ev = []
-        list_table = []
-    elif selected_values == 'disease':
-        selected_graph = ("disease", g_disease.copy())
-        elements = g_disease_elements
-        results_eb = []
-        results_ev = []
-        list_table = []
-    elif selected_values == 'gene':
-        selected_graph = ("gene", g_gene.copy())
-        elements = g_gene_elements
-        results_eb = []
-        results_ev = []
-        list_table = []
-    else:
-        selected_graph = None
-        elements = []
         results_eb = []
         results_ev = []
         list_table = []
 
-    legend_items = get_category_legend(selected_categories, elements, "legend-button")
+        legend_items = get_category_legend(selected_categories, elements, "legend-button")
 
-    return elements, stylesheet, legend_items, elements, selected_categories
+        return elements, stylesheet, legend_items, elements, []
+    elif trigger == "apply-threshold":
+        selected_nodes = {el['data']['id'] for el in all_elements if prop in el['data'].keys() and float(el['data'].get(prop, "")) >= float(threshold)}
+
+        print(selected_nodes)
+        highlight_elements = [{'data' : el['data'], 'classes': 'highlight'} for el in all_elements if 'data' in el and el['data'].get('id', "") in selected_nodes]
+        faded_elements = [{'data': el['data'], 'classes': 'faded'} for el in all_elements if 'data' in el and el['data'].get('id', "") not in selected_nodes]
+
+        highlight_edge = [{'data' : el['data'], 'classes': 'highlight'} for el in all_elements if 'data' in el and 'source' in el['data'] and 'target' in el['data'] and
+                          (el['data']['source'] in selected_nodes or el['data']['target'] in selected_nodes)]
+
+        faded_edge = [{'data': el['data'], 'classes': 'faded'} for el in all_elements if 'data' in el and 'source' in el['data'].keys() and 'target' in el['data'].keys() and
+                          ((not el['data']['source'] in selected_nodes) and (not el['data']['target'] in selected_nodes))]
+
+        elements = highlight_elements + faded_elements + highlight_edge + faded_edge
+
+        edge_stylesheet = get_edge_stylesheet(selected_values)
+        edge_stylesheet['style'].update({'opacity': 0.2})
+
+        stylesheet = [
+            {
+                'selector': 'node',
+                'style': {
+                    'background-color': 'data(color)',
+                    'color': 'data(color)',
+                    'opacity': 0.2,
+                    'font-size': '12px'
+                }
+            },
+            edge_stylesheet,
+            {
+                'selector': '.highlight',
+                'style': {
+                    'opacity': 1
+                }
+            },
+            {
+                'selector': 'edge.highlight',
+                'style': {
+                    'opacity': 1
+                }
+            }
+        ]
+        return elements, stylesheet, dash.no_update, dash.no_update, dash.no_update
+    return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
 
 list_table = []
 
@@ -720,10 +765,11 @@ def update_node_d(tapped_node):
 
 def get_node_info(tapped_node):
     node_info = ""
+    print(tapped_node)
     if tapped_node:
         node_info = "Node Attribute:\n\n"
         for key, value in tapped_node.items():
-            if key not in ["id", "color", "x", "y", "timeStamp", "fill_color", "border_color"]:
+            if key not in ["id", "color", "x", "y", "timeStamp", "fill_color", "border_color", "igraphdegree", "igraphbtw"]:
                 labels = {
                     "alldegreecentrality": "all degree centrality",
                     "indegreecentrality": "in degree centrality",
