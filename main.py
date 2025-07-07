@@ -265,8 +265,9 @@ def render_content(tab):
                 })
             ], style={'display': 'flex'}),
             html.H4("Metrics Progression"),
-            dcc.Graph(id='metric-graph', figure=go.Figure()),
-            dcc.Graph(id='metric-table', figure=go.Figure())
+            dcc.Graph(id='metric-table', figure=go.Figure(), style={'height': '300px'}),
+            dcc.Graph(id='metric-sizes', figure=go.Figure(), style={'height': '300px'}),
+            dcc.Graph(id='metric-graph', figure=go.Figure(), style={'height': '300px'}),
         ])
     return None
 
@@ -403,6 +404,8 @@ list_table = []
     Output('c-selected-categories', 'data'),
     Output('c-selected-clusters', 'data'),
     Output('c-full', 'data'),
+    Output('metric-graph', 'style'),
+    Output('metric-sizes', 'figure'),
     Input('apply-clustering', 'n_clicks'),
     Input({'type': 'c-legend-cat', 'index': dash.ALL}, 'n_clicks'),
     Input({'type': 'c-legend-clu', 'index': dash.ALL}, 'n_clicks'),
@@ -418,7 +421,7 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
 
     if trigger == "apply-clustering":
         if not selected_graph or selected_graph[0] == "gene":
-            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
+            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
 
         g = selected_graph[1].copy()
 
@@ -433,6 +436,7 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
 
         method_name = ""
         clustering = None
+        style_graph = {'display': 'none', 'height': '300px'}
 
         # Clustering method selection
         if method == '1':
@@ -486,7 +490,7 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
             clustering = leidenalg.find_partition(g_all, leidenalg.ModularityVertexPartition)
 
         if not clustering:
-            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
+            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
 
         g.vs['cluster'] = list(clustering.membership)
         g.vs['cluster_str'] = most_common_in_cluster(g, g.vs['cluster'])
@@ -526,6 +530,7 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
             results_eb.append(x)
             results = deepcopy(results_eb)
             results.sort(key=lambda x: x['Clusters'])
+            style_graph = {'display': 'block', 'height': '300px'}
         else:
             results = []
 
@@ -557,7 +562,21 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
         legend_category = get_category_legend([], elements, 'c-legend-cat')
         legend_clusters = get_cluster_legend([], elements, 'c-legend-clu')
 
-        return elements, stylesheet, fig_graph, fig_table, legend_category, legend_clusters, selected_categories, selected_clusters, elements
+        boxplot = go.Figure(
+            data=[
+                go.Box(
+                    y=clustering.sizes(),
+                    name="",
+                    boxmean=True
+                )
+            ]
+        )
+
+        boxplot.update_layout(
+            title="Boxplot cluster size distribution"
+        )
+
+        return elements, stylesheet, fig_graph, fig_table, legend_category, legend_clusters, selected_categories, selected_clusters, elements, style_graph, boxplot
 
     if isinstance(trigger, dict) and (trigger.get('type') == 'c-legend-cat' or trigger.get('type') == 'c-legend-clu') and all_elements:
         to_do = False
@@ -593,13 +612,13 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
             legend_category = get_category_legend(selected_categories, all_elements, 'c-legend-cat')
             legend_clusters = get_cluster_legend(selected_clusters, all_elements, 'c-legend-clu')
 
-            return elements, dash.no_update, dash.no_update, dash.no_update, legend_category, legend_clusters, selected_categories, selected_clusters, all_elements
+            return elements, dash.no_update, dash.no_update, dash.no_update, legend_category, legend_clusters, selected_categories, selected_clusters, all_elements, dash.no_update, dash.no_update
         else:
             legend_category = get_category_legend(selected_categories, all_elements, 'c-legend-cat')
             legend_clusters = get_cluster_legend(selected_clusters, all_elements, 'c-legend-clu')
 
-            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, legend_category, legend_clusters, selected_categories, selected_clusters, all_elements
-    return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
+            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, legend_category, legend_clusters, selected_categories, selected_clusters, all_elements, dash.no_update, dash.no_update
+    return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
 
 
 # Utility function to generate distinct colors
