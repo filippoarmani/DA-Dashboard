@@ -130,7 +130,7 @@ def render_content(tab):
     if tab == 'graph_visualization':
         return html.Div([
             dcc.Store(id='selected-categories', data=[]),
-            html.H1("Dashboard"),
+            html.Label('Select the graph you want to view and analyze:', style={'margin-right': '10px'}),
             dcc.RadioItems(
                 id='graph-selector',
                 options=[
@@ -142,6 +142,34 @@ def render_content(tab):
                 value='None',
                 inputStyle={'margin-right': '10px'}
             ),
+            html.Div([
+                html.Label('Filter by properties:', style={'margin-right': '10px'}),
+                dcc.Dropdown(
+                    id='properties-method',
+                    options=[
+                        {'label': 'all degree centrality', 'value': '1'},
+                        {'label': 'in degree centrality', 'value': '2'},
+                        {'label': 'out degree centrality', 'value': '3'},
+                        {'label': 'betweenness centrality', 'value': '4'},
+                        {'label': 'eigenvector centrality', 'value': '5'},
+                        {'label': 'pagerank', 'value': '6'},
+                        {'label': 'closeness', 'value': '7'}
+                    ],
+                    placeholder="Select Properties",
+                    value=None,
+                    style={'width': '200px', 'display': 'inline-block'}
+                ),
+                html.Label('Select threshold:', style={'margin-left': '10px', 'margin-right': '10px'}),
+                dcc.Input(
+                    id='threshold-number',
+                    type='number',
+                    placeholder='Enter a number',
+                    value=0,
+                    style={'width': '150px'}
+                ),
+                html.Button("Apply", id='apply-threshold', n_clicks=0, disabled=True,
+                            style={'margin-left': '10px', 'margin-right': '10px'}),
+            ], id="t_div", style={'display': 'none', 'align-items': 'center', 'margin-top': '20px', 'margin-bottom': '20px'}),
             html.Div([
                 cyto.Cytoscape(
                     id='cytoscape-graph',
@@ -176,6 +204,7 @@ def render_content(tab):
                     'height': '800px'
                 })
             ], style={'display': 'flex'}),
+            dcc.Graph(id='distribution', figure=go.Figure(), style={'height': '500px'}),
             dcc.Store(id='full-elements')
         ])
     elif tab == 'page-2':
@@ -202,7 +231,7 @@ def render_content(tab):
                             {'label': 'Leiden', 'value': '9'}
                         ],
                         placeholder="Select Clustering Method",
-                        value='1',
+                        value=None,
                         style={'width': '200px', 'display': 'inline-block'}
                     )
                 ], style={'display': 'flex', 'align-items': 'center', 'margin-bottom': '20px'}),
@@ -265,9 +294,9 @@ def render_content(tab):
                 })
             ], style={'display': 'flex'}),
             html.H4("Metrics Progression"),
-            dcc.Graph(id='metric-table', figure=go.Figure(), style={'height': '300px'}),
-            dcc.Graph(id='metric-sizes', figure=go.Figure(), style={'height': '300px'}),
-            dcc.Graph(id='metric-graph', figure=go.Figure(), style={'height': '300px'}),
+            dcc.Graph(id='metric-table', figure=go.Figure(), style={'height': '500px'}),
+            dcc.Graph(id='metric-sizes', figure=go.Figure(), style={'height': '500px'}),
+            dcc.Graph(id='metric-graph', figure=go.Figure(), style={'height': '500px'}),
         ])
     return None
 
@@ -299,23 +328,44 @@ def toggle_button(method, number):
         return False
 
 
+# Enable/disable "Apply" button based on inputs
+@app.callback(
+    Output('apply-threshold', 'disabled'),
+    Input('properties-method', 'value'),
+    Input('graph-selector', 'value')
+)
+def toggle_button2(prop, selector):
+    return (prop is None) or (selector is None) or (selector == 'None')
+
+# Enable/disable "Apply" button based on inputs
+@app.callback(
+    Output('t_div', 'style'),
+    Output('properties-method', 'value'),
+    Output('threshold-number', 'value'),
+    Input('graph-selector', 'value')
+)
+def update_t_div(selector):
+    if (selector is None) or (selector == 'None'):
+        return {'display': 'none', 'align-items': 'center', 'margin-top': '20px', 'margin-bottom': '20px'}, None, 0
+    else:
+        return {'display': 'flex', 'align-items': 'center', 'margin-top': '20px', 'margin-bottom': '20px'}, None, 0
+
+
 # Callback to update the graph visualization
 @app.callback(
     Output('cytoscape-graph', 'elements'),
     Output('cytoscape-graph', 'stylesheet'),
-    Output('node-info', 'children'),
     Output('legend', 'children'),
     Output('full-elements', 'data'),
     Output('selected-categories', 'data'),
     Input('tabs', 'value'),
     Input('graph-selector', 'value'),
-    Input('cytoscape-graph', 'tapNodeData'),
     Input({'type': 'legend-button', 'index': dash.ALL}, 'n_clicks'),
     State('full-elements', 'data'),
     State('selected-categories', 'data'),
     prevent_initial_call=True
 )
-def update_graph(tab, selected_values, tapped_node, legend_clicks, all_elements, selected_categories):
+def update_graph(tab, selected_values, legend_clicks, all_elements, selected_categories):
     # Global variables to track selected graph and results
     global selected_graph
     global results_eb
@@ -386,10 +436,9 @@ def update_graph(tab, selected_values, tapped_node, legend_clicks, all_elements,
         results_ev = []
         list_table = []
 
-    node_info = get_node_info(tapped_node)
     legend_items = get_category_legend(selected_categories, elements, "legend-button")
 
-    return elements, stylesheet, node_info, legend_items, elements, selected_categories
+    return elements, stylesheet, legend_items, elements, selected_categories
 
 list_table = []
 
@@ -436,7 +485,7 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
 
         method_name = ""
         clustering = None
-        style_graph = {'display': 'none', 'height': '300px'}
+        style_graph = {'display': 'none', 'height': '500px'}
 
         # Clustering method selection
         if method == '1':
@@ -530,7 +579,7 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
             results_eb.append(x)
             results = deepcopy(results_eb)
             results.sort(key=lambda x: x['Clusters'])
-            style_graph = {'display': 'block', 'height': '300px'}
+            style_graph = {'display': 'block', 'height': '500px'}
         else:
             results = []
 
@@ -636,26 +685,6 @@ def generate_colors(n):
     return colors
 
 
-def try_leading_eigenvector(g):
-  max_retries = 100
-  attempt = 0
-
-  leading_eigenvector = None
-
-  while attempt < max_retries:
-      try:
-          leading_eigenvector = g.community_leading_eigenvector()
-          break
-      except Exception as e:
-          print(f"Attempt {attempt+1} failed: {e}")
-          attempt += 1
-
-  if not leading_eigenvector:
-      print("Error: community_leading_eigenvector could not converge after several attempts.")
-
-  return leading_eigenvector
-
-
 # Get most common category within a cluster
 def most_common_in_cluster(g, membership):
     b = {}
@@ -677,6 +706,15 @@ def most_common_in_cluster(g, membership):
     prevent_initial_call=True
 )
 def update_node_c(tapped_node):
+    return get_node_info(tapped_node)
+
+
+@app.callback(
+    Output('node-info', 'children'),
+    Input('cytoscape-graph', 'tapNodeData'),
+    prevent_initial_call=True
+)
+def update_node_d(tapped_node):
     return get_node_info(tapped_node)
 
 
