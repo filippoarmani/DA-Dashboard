@@ -487,7 +487,7 @@ def update_graph(tab, selected_values, n, legend_clicks, all_elements, selected_
         boxplot = go.Figure(
             data=[
                 go.Box(
-                    y=sorted([el['data'][prop] for el in all_elements if 'data' in el and ('source' not in el['data']) and ('target' not in el['data'])]),
+                    y=sorted([float(el['data'][prop]) for el in all_elements if 'data' in el and ('source' not in el['data']) and ('target' not in el['data'])]),
                     name="",
                     boxmean=True
                 )

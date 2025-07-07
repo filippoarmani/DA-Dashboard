@@ -1,4 +1,4 @@
-Creator "igraph version 0.10.16 Mon Jun 30 15:00:16 2025"
+Creator "igraph version 0.10.16 Mon Jul  7 23:58:44 2025"
 Version 1
 graph
 [
@@ -10,6 +10,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -18,6 +24,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -26,6 +38,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -34,6 +52,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -42,6 +66,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -50,6 +80,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -58,6 +94,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -66,6 +108,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -74,6 +122,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -82,6 +136,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -90,6 +150,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -98,6 +164,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -106,6 +178,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -114,6 +192,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -122,6 +206,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -130,6 +220,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -138,6 +234,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -146,6 +248,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -154,6 +262,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -162,6 +276,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -170,6 +290,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -178,6 +304,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -186,6 +318,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -194,6 +332,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -202,6 +346,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -210,6 +360,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -218,6 +374,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -226,6 +388,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -234,6 +402,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -242,6 +416,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -250,6 +430,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -258,6 +444,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -266,6 +458,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -274,6 +472,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -282,6 +486,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -290,6 +500,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -298,6 +514,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -306,6 +528,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -314,6 +542,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -322,6 +556,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -330,6 +570,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -338,6 +584,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -346,6 +598,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -354,6 +612,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -362,6 +626,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -370,6 +640,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -378,6 +654,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -386,6 +668,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -394,6 +682,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -402,6 +696,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -410,6 +710,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -418,6 +724,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -426,6 +738,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -434,6 +752,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -442,6 +766,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -450,6 +780,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -458,6 +794,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -466,6 +808,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -474,6 +822,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -482,6 +836,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -490,6 +850,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -498,6 +864,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -506,6 +878,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -514,6 +892,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -522,6 +906,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -530,6 +920,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -538,6 +934,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -546,6 +948,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -554,6 +962,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -562,6 +976,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -570,6 +990,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -578,6 +1004,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -586,6 +1018,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -594,6 +1032,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -602,6 +1046,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -610,6 +1060,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -618,6 +1074,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -626,6 +1088,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -634,6 +1102,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -642,6 +1116,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -650,6 +1130,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -658,6 +1144,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -666,6 +1158,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -674,6 +1172,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -682,6 +1186,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -690,6 +1200,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -698,6 +1214,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -706,6 +1228,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -714,6 +1242,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -722,6 +1256,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -730,6 +1270,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -738,6 +1284,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -746,6 +1298,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -754,6 +1312,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -762,6 +1326,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -770,6 +1340,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -778,6 +1354,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -786,6 +1368,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -794,6 +1382,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -802,6 +1396,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -810,6 +1410,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -818,6 +1424,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -826,6 +1438,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -834,6 +1452,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -842,6 +1466,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -850,6 +1480,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -858,6 +1494,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -866,6 +1508,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -874,6 +1522,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -882,6 +1536,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -890,6 +1550,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -898,6 +1564,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -906,6 +1578,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -914,6 +1592,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -922,6 +1606,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -930,6 +1620,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -938,6 +1634,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -946,6 +1648,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -954,6 +1662,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -962,6 +1676,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -970,6 +1690,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -978,6 +1704,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -986,6 +1718,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -994,6 +1732,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1002,6 +1746,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1010,6 +1760,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1018,6 +1774,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1026,6 +1788,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1034,6 +1802,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1042,6 +1816,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1050,6 +1830,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1058,6 +1844,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1066,6 +1858,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1074,6 +1872,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1082,6 +1886,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1090,6 +1900,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1098,6 +1914,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1106,6 +1928,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1114,6 +1942,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1122,6 +1956,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1130,6 +1970,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1138,6 +1984,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1146,6 +1998,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1154,6 +2012,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1162,6 +2026,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1170,6 +2040,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1178,6 +2054,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1186,6 +2068,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1194,6 +2082,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1202,6 +2096,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1210,6 +2110,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1218,6 +2124,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1226,6 +2138,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1234,6 +2152,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1242,6 +2166,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1250,6 +2180,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1258,6 +2194,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1266,6 +2208,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1274,6 +2222,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1282,6 +2236,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1290,6 +2250,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1298,6 +2264,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1306,6 +2278,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1314,6 +2292,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1322,6 +2306,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1330,6 +2320,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1338,6 +2334,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1346,6 +2348,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1354,6 +2362,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1362,6 +2376,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1370,6 +2390,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1378,6 +2404,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1386,6 +2418,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1394,6 +2432,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1402,6 +2446,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1410,6 +2460,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1418,6 +2474,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1426,6 +2488,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1434,6 +2502,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1442,6 +2516,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1450,6 +2530,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1458,6 +2544,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1466,6 +2558,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1474,6 +2572,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1482,6 +2586,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1490,6 +2600,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1498,6 +2614,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1506,6 +2628,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1514,6 +2642,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1522,6 +2656,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1530,6 +2670,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1538,6 +2684,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1546,6 +2698,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1554,6 +2712,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1562,6 +2726,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1570,6 +2740,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1578,6 +2754,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1586,6 +2768,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1594,6 +2782,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1602,6 +2796,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1610,6 +2810,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1618,6 +2824,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1626,6 +2838,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1634,6 +2852,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1642,6 +2866,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1650,6 +2880,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1658,6 +2894,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1666,6 +2908,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1674,6 +2922,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1682,6 +2936,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1690,6 +2950,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1698,6 +2964,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1706,6 +2978,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1714,6 +2992,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1722,6 +3006,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1730,6 +3020,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1738,6 +3034,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1746,6 +3048,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1754,6 +3062,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1762,6 +3076,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1770,6 +3090,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1778,6 +3104,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1786,6 +3118,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1794,6 +3132,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1802,6 +3146,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1810,6 +3160,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1818,6 +3174,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1826,6 +3188,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1834,6 +3202,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1842,6 +3216,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1850,6 +3230,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1858,6 +3244,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1866,6 +3258,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1874,6 +3272,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1882,6 +3286,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1890,6 +3300,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1898,6 +3314,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1906,6 +3328,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1914,6 +3342,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1922,6 +3356,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1930,6 +3370,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1938,6 +3384,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1946,6 +3398,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1954,6 +3412,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1962,6 +3426,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1970,6 +3440,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1978,6 +3454,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1986,6 +3468,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -1994,6 +3482,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2002,6 +3496,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2010,6 +3510,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2018,6 +3524,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2026,6 +3538,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2034,6 +3552,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2042,6 +3566,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2050,6 +3580,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2058,6 +3594,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2066,6 +3608,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2074,6 +3622,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2082,6 +3636,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2090,6 +3650,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2098,6 +3664,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2106,6 +3678,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2114,6 +3692,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2122,6 +3706,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2130,6 +3720,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2138,6 +3734,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2146,6 +3748,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2154,6 +3762,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2162,6 +3776,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2170,6 +3790,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2178,6 +3804,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2186,6 +3818,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2194,6 +3832,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2202,6 +3846,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2210,6 +3860,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2218,6 +3874,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2226,6 +3888,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2234,6 +3902,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2242,6 +3916,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2250,6 +3930,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2258,6 +3944,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2266,6 +3958,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2274,6 +3972,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2282,6 +3986,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2290,6 +4000,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2298,6 +4014,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2306,6 +4028,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2314,6 +4042,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2322,6 +4056,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2330,6 +4070,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2338,6 +4084,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2346,6 +4098,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2354,6 +4112,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2362,6 +4126,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2370,6 +4140,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2378,6 +4154,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2386,6 +4168,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2394,6 +4182,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2402,6 +4196,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2410,6 +4210,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2418,6 +4224,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2426,6 +4238,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2434,6 +4252,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2442,6 +4266,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2450,6 +4280,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2458,6 +4294,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2466,6 +4308,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2474,6 +4322,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2482,6 +4336,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2490,6 +4350,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2498,6 +4364,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2506,6 +4378,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2514,6 +4392,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2522,6 +4406,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2530,6 +4420,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2538,6 +4434,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2546,6 +4448,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2554,6 +4462,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2562,6 +4476,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2570,6 +4490,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2578,6 +4504,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2586,6 +4518,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2594,6 +4532,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2602,6 +4546,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2610,6 +4560,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2618,6 +4574,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2626,6 +4588,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2634,6 +4602,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2642,6 +4616,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2650,6 +4630,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2658,6 +4644,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2666,6 +4658,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2674,6 +4672,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2682,6 +4686,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2690,6 +4700,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2698,6 +4714,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2706,6 +4728,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2714,6 +4742,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2722,6 +4756,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2730,6 +4770,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2738,6 +4784,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2746,6 +4798,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2754,6 +4812,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2762,6 +4826,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2770,6 +4840,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2778,6 +4854,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2786,6 +4868,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2794,6 +4882,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2802,6 +4896,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2810,6 +4910,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2818,6 +4924,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2826,6 +4938,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2834,6 +4952,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2842,6 +4966,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2850,6 +4980,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2858,6 +4994,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2866,6 +5008,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2874,6 +5022,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2882,6 +5036,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2890,6 +5050,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2898,6 +5064,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2906,6 +5078,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2914,6 +5092,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2922,6 +5106,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2930,6 +5120,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2938,6 +5134,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2946,6 +5148,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2954,6 +5162,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2962,6 +5176,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2970,6 +5190,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2978,6 +5204,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2986,6 +5218,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -2994,6 +5232,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3002,6 +5246,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3010,6 +5260,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3018,6 +5274,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3026,6 +5288,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3034,6 +5302,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3042,6 +5316,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3050,6 +5330,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3058,6 +5344,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3066,6 +5358,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3074,6 +5372,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3082,6 +5386,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3090,6 +5400,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3098,6 +5414,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3106,6 +5428,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3114,6 +5442,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3122,6 +5456,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3130,6 +5470,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3138,6 +5484,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3146,6 +5498,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3154,6 +5512,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3162,6 +5526,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3170,6 +5540,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3178,6 +5554,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3186,6 +5568,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3194,6 +5582,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3202,6 +5596,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3210,6 +5610,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3218,6 +5624,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3226,6 +5638,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3234,6 +5652,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3242,6 +5666,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3250,6 +5680,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3258,6 +5694,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3266,6 +5708,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3274,6 +5722,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3282,6 +5736,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3290,6 +5750,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3298,6 +5764,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3306,6 +5778,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3314,6 +5792,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3322,6 +5806,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3330,6 +5820,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3338,6 +5834,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3346,6 +5848,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3354,6 +5862,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3362,6 +5876,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3370,6 +5890,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3378,6 +5904,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3386,6 +5918,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3394,6 +5932,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3402,6 +5946,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3410,6 +5960,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3418,6 +5974,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3426,6 +5988,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3434,6 +6002,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3442,6 +6016,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3450,6 +6030,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3458,6 +6044,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3466,6 +6058,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3474,6 +6072,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3482,6 +6086,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3490,6 +6100,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3498,6 +6114,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3506,6 +6128,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3514,6 +6142,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3522,6 +6156,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3530,6 +6170,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3538,6 +6184,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3546,6 +6198,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3554,6 +6212,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3562,6 +6226,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3570,6 +6240,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3578,6 +6254,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3586,6 +6268,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3594,6 +6282,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3602,6 +6296,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3610,6 +6310,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3618,6 +6324,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3626,6 +6338,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3634,6 +6352,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3642,6 +6366,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3650,6 +6380,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3658,6 +6394,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3666,6 +6408,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3674,6 +6422,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3682,6 +6436,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3690,6 +6450,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3698,6 +6464,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3706,6 +6478,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3714,6 +6492,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3722,6 +6506,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3730,6 +6520,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3738,6 +6534,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3746,6 +6548,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3754,6 +6562,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3762,6 +6576,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3770,6 +6590,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3778,6 +6604,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3786,6 +6618,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3794,6 +6632,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3802,6 +6646,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3810,6 +6660,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3818,6 +6674,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3826,6 +6688,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3834,6 +6702,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3842,6 +6716,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3850,6 +6730,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3858,6 +6744,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3866,6 +6758,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3874,6 +6772,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3882,6 +6786,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3890,6 +6800,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3898,6 +6814,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3906,6 +6828,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3914,6 +6842,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3922,6 +6856,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3930,6 +6870,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3938,6 +6884,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3946,6 +6898,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3954,6 +6912,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3962,6 +6926,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3970,6 +6940,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3978,6 +6954,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3986,6 +6968,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -3994,6 +6982,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4002,6 +6996,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4010,6 +7010,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4018,6 +7024,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4026,6 +7038,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4034,6 +7052,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4042,6 +7066,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4050,6 +7080,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4058,6 +7094,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4066,6 +7108,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4074,6 +7122,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4082,6 +7136,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4090,6 +7150,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4098,6 +7164,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4106,6 +7178,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4114,6 +7192,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4122,6 +7206,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4130,6 +7220,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4138,6 +7234,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4146,6 +7248,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4154,6 +7262,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4162,6 +7276,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4170,6 +7290,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4178,6 +7304,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4186,6 +7318,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4194,6 +7332,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4202,6 +7346,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4210,6 +7360,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4218,6 +7374,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4226,6 +7388,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4234,6 +7402,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4242,6 +7416,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4250,6 +7430,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4258,6 +7444,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4266,6 +7458,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4274,6 +7472,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4282,6 +7486,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4290,6 +7500,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4298,6 +7514,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4306,6 +7528,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4314,6 +7542,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4322,6 +7556,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4330,6 +7570,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4338,6 +7584,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4346,6 +7598,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4354,6 +7612,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4362,6 +7626,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4370,6 +7640,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4378,6 +7654,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4386,6 +7668,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4394,6 +7682,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4402,6 +7696,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4410,6 +7710,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4418,6 +7724,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4426,6 +7738,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4434,6 +7752,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4442,6 +7766,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4450,6 +7780,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4458,6 +7794,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4466,6 +7808,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4474,6 +7822,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4482,6 +7836,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4490,6 +7850,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4498,6 +7864,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4506,6 +7878,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4514,6 +7892,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4522,6 +7906,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4530,6 +7920,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4538,6 +7934,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4546,6 +7948,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4554,6 +7962,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4562,6 +7976,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4570,6 +7990,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4578,6 +8004,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4586,6 +8018,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4594,6 +8032,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4602,6 +8046,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4610,6 +8060,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4618,6 +8074,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4626,6 +8088,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4634,6 +8102,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4642,6 +8116,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4650,6 +8130,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4658,6 +8144,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4666,6 +8158,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4674,6 +8172,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4682,6 +8186,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4690,6 +8200,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4698,6 +8214,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4706,6 +8228,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4714,6 +8242,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4722,6 +8256,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4730,6 +8270,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4738,6 +8284,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4746,6 +8298,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4754,6 +8312,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4762,6 +8326,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4770,6 +8340,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4778,6 +8354,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4786,6 +8368,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4794,6 +8382,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4802,6 +8396,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4810,6 +8410,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4818,6 +8424,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4826,6 +8438,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4834,6 +8452,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4842,6 +8466,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4850,6 +8480,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4858,6 +8494,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4866,6 +8508,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4874,6 +8522,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4882,6 +8536,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4890,6 +8550,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4898,6 +8564,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4906,6 +8578,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4914,6 +8592,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4922,6 +8606,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4930,6 +8620,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4938,6 +8634,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4946,6 +8648,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4954,6 +8662,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4962,6 +8676,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4970,6 +8690,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4978,6 +8704,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4986,6 +8718,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -4994,6 +8732,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5002,6 +8746,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5010,6 +8760,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5018,6 +8774,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5026,6 +8788,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5034,6 +8802,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5042,6 +8816,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5050,6 +8830,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5058,6 +8844,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5066,6 +8858,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5074,6 +8872,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5082,6 +8886,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5090,6 +8900,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5098,6 +8914,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5106,6 +8928,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5114,6 +8942,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5122,6 +8956,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5130,6 +8970,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5138,6 +8984,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5146,6 +8998,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5154,6 +9012,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5162,6 +9026,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5170,6 +9040,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5178,6 +9054,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5186,6 +9068,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5194,6 +9082,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5202,6 +9096,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5210,6 +9110,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5218,6 +9124,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5226,6 +9138,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5234,6 +9152,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5242,6 +9166,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5250,6 +9180,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5258,6 +9194,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5266,6 +9208,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5274,6 +9222,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5282,6 +9236,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5290,6 +9250,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5298,6 +9264,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5306,6 +9278,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5314,6 +9292,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5322,6 +9306,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5330,6 +9320,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5338,6 +9334,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5346,6 +9348,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5354,6 +9362,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5362,6 +9376,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5370,6 +9390,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5378,6 +9404,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5386,6 +9418,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5394,6 +9432,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5402,6 +9446,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5410,6 +9460,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5418,6 +9474,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5426,6 +9488,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5434,6 +9502,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5442,6 +9516,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5450,6 +9530,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5458,6 +9544,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5466,6 +9558,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5474,6 +9572,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5482,6 +9586,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5490,6 +9600,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5498,6 +9614,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5506,6 +9628,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5514,6 +9642,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5522,6 +9656,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5530,6 +9670,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5538,6 +9684,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5546,6 +9698,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5554,6 +9712,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5562,6 +9726,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5570,6 +9740,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5578,6 +9754,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5586,6 +9768,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5594,6 +9782,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5602,6 +9796,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5610,6 +9810,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5618,6 +9824,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5626,6 +9838,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5634,6 +9852,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5642,6 +9866,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5650,6 +9880,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5658,6 +9894,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5666,6 +9908,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5674,6 +9922,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5682,6 +9936,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5690,6 +9950,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5698,6 +9964,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5706,6 +9978,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5714,6 +9992,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5722,6 +10006,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5730,6 +10020,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5738,6 +10034,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5746,6 +10048,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5754,6 +10062,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5762,6 +10076,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5770,6 +10090,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5778,6 +10104,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5786,6 +10118,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5794,6 +10132,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5802,6 +10146,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5810,6 +10160,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5818,6 +10174,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5826,6 +10188,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5834,6 +10202,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5842,6 +10216,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5850,6 +10230,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5858,6 +10244,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5866,6 +10258,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5874,6 +10272,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5882,6 +10286,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5890,6 +10300,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5898,6 +10314,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5906,6 +10328,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5914,6 +10342,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5922,6 +10356,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5930,6 +10370,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5938,6 +10384,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5946,6 +10398,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5954,6 +10412,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5962,6 +10426,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5970,6 +10440,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5978,6 +10454,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5986,6 +10468,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -5994,6 +10482,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6002,6 +10496,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6010,6 +10510,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6018,6 +10524,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6026,6 +10538,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6034,6 +10552,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6042,6 +10566,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6050,6 +10580,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6058,6 +10594,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6066,6 +10608,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6074,6 +10622,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6082,6 +10636,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6090,6 +10650,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6098,6 +10664,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6106,6 +10678,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6114,6 +10692,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6122,6 +10706,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6130,6 +10720,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6138,6 +10734,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6146,6 +10748,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6154,6 +10762,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6162,6 +10776,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6170,6 +10790,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6178,6 +10804,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6186,6 +10818,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6194,6 +10832,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6202,6 +10846,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6210,6 +10860,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6218,6 +10874,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6226,6 +10888,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6234,6 +10902,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6242,6 +10916,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6250,6 +10930,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6258,6 +10944,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6266,6 +10958,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6274,6 +10972,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6282,6 +10986,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6290,6 +11000,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6298,6 +11014,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6306,6 +11028,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6314,6 +11042,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6322,6 +11056,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6330,6 +11070,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6338,6 +11084,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6346,6 +11098,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6354,6 +11112,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6362,6 +11126,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6370,6 +11140,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6378,6 +11154,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6386,6 +11168,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6394,6 +11182,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6402,6 +11196,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6410,6 +11210,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6418,6 +11224,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6426,6 +11238,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6434,6 +11252,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6442,6 +11266,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6450,6 +11280,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6458,6 +11294,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6466,6 +11308,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6474,6 +11322,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6482,6 +11336,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6490,6 +11350,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6498,6 +11364,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6506,6 +11378,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6514,6 +11392,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6522,6 +11406,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6530,6 +11420,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6538,6 +11434,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6546,6 +11448,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6554,6 +11462,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6562,6 +11476,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6570,6 +11490,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6578,6 +11504,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6586,6 +11518,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6594,6 +11532,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6602,6 +11546,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6610,6 +11560,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6618,6 +11574,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6626,6 +11588,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6634,6 +11602,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6642,6 +11616,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6650,6 +11630,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6658,6 +11644,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6666,6 +11658,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6674,6 +11672,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6682,6 +11686,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6690,6 +11700,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6698,6 +11714,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6706,6 +11728,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6714,6 +11742,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6722,6 +11756,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6730,6 +11770,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6738,6 +11784,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6746,6 +11798,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6754,6 +11812,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6762,6 +11826,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6770,6 +11840,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6778,6 +11854,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6786,6 +11868,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6794,6 +11882,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6802,6 +11896,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6810,6 +11910,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6818,6 +11924,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6826,6 +11938,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6834,6 +11952,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6842,6 +11966,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6850,6 +11980,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6858,6 +11994,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6866,6 +12008,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6874,6 +12022,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6882,6 +12036,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6890,6 +12050,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6898,6 +12064,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6906,6 +12078,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6914,6 +12092,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6922,6 +12106,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6930,6 +12120,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6938,6 +12134,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6946,6 +12148,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6954,6 +12162,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6962,6 +12176,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6970,6 +12190,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6978,6 +12204,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6986,6 +12218,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -6994,6 +12232,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7002,6 +12246,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7010,6 +12260,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7018,6 +12274,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7026,6 +12288,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7034,6 +12302,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7042,6 +12316,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7050,6 +12330,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7058,6 +12344,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7066,6 +12358,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7074,6 +12372,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7082,6 +12386,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7090,6 +12400,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7098,6 +12414,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7106,6 +12428,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7114,6 +12442,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7122,6 +12456,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7130,6 +12470,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7138,6 +12484,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7146,6 +12498,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7154,6 +12512,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7162,6 +12526,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7170,6 +12540,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7178,6 +12554,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7186,6 +12568,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7194,6 +12582,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7202,6 +12596,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7210,6 +12610,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7218,6 +12624,12 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
   node
   [
@@ -7226,5 +12638,11 @@ graph
     types "gene"
     category "gene"
     color "#f0e68c"
+    alldegreecentrality 0
+    indegreecentrality 0
+    outdegreecentrality 0
+    betweennesscentrality 0
+    eigenvectorcentrality 1
+    pagerank 0.00110741971207087
   ]
 ]

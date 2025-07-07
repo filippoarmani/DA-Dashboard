@@ -1,4 +1,4 @@
-Creator "igraph version 0.10.16 Mon Jun 30 15:00:16 2025"
+Creator "igraph version 0.10.16 Mon Jul  7 23:58:44 2025"
 Version 1
 graph
 [
@@ -13,10 +13,10 @@ graph
     alldegreecentrality 42
     indegreecentrality 15
     outdegreecentrality 27
-    betweennesscentrality 125763.3
-    eigenvectorcentrality 0.011
-    pagerank 0.005
-    closeness 0.217
+    betweennesscentrality 87848.5222689591
+    eigenvectorcentrality 0.0113450950614617
+    pagerank 0.00203953151783608
+    closeness 0.217297960435516
   ]
   node
   [
@@ -28,10 +28,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 3
     outdegreecentrality 5
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.132
+    betweennesscentrality 514
+    eigenvectorcentrality 7.7385854770018e-06
+    pagerank 0.00079054126213335
+    closeness 0.132306255835668
   ]
   node
   [
@@ -43,10 +43,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 3
     outdegreecentrality 9
-    betweennesscentrality 7070
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.132
+    betweennesscentrality 2570
+    eigenvectorcentrality 7.73858547700009e-06
+    pagerank 0.000845116699519205
+    closeness 0.132355688399029
   ]
   node
   [
@@ -58,10 +58,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 5
     outdegreecentrality 7
-    betweennesscentrality 14070
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.152
+    betweennesscentrality 9331
+    eigenvectorcentrality 8.59281786937601e-05
+    pagerank 0.00107532480693291
+    closeness 0.152300085984523
   ]
   node
   [
@@ -74,9 +74,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.132
+    eigenvectorcentrality 7.73858547699903e-06
+    pagerank 0.000762831568409087
+    closeness 0.132293903463729
   ]
   node
   [
@@ -88,10 +88,10 @@ graph
     alldegreecentrality 15
     indegreecentrality 3
     outdegreecentrality 12
-    betweennesscentrality 12707
-    eigenvectorcentrality 0
-    pagerank 0.003
-    closeness 0.123
+    betweennesscentrality 6032
+    eigenvectorcentrality 3.78134855704326e-06
+    pagerank 0.000759146370173713
+    closeness 0.122546052062614
   ]
   node
   [
@@ -103,10 +103,10 @@ graph
     alldegreecentrality 19
     indegreecentrality 6
     outdegreecentrality 13
-    betweennesscentrality 6098.2
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.151
+    betweennesscentrality 3297.4928755455
+    eigenvectorcentrality 7.76783661616031e-06
+    pagerank 0.000879427405759748
+    closeness 0.15076071922545
   ]
   node
   [
@@ -118,10 +118,10 @@ graph
     alldegreecentrality 15
     indegreecentrality 6
     outdegreecentrality 9
-    betweennesscentrality 1433
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.142
+    betweennesscentrality 532.833333333333
+    eigenvectorcentrality 2.60366005661297e-06
+    pagerank 0.00100374063559284
+    closeness 0.141685831416858
   ]
   node
   [
@@ -133,10 +133,10 @@ graph
     alldegreecentrality 21
     indegreecentrality 8
     outdegreecentrality 13
-    betweennesscentrality 6373
-    eigenvectorcentrality 0
-    pagerank 0.003
-    closeness 0.142
+    betweennesscentrality 5144.33333333333
+    eigenvectorcentrality 2.63489563541533e-06
+    pagerank 0.00140834999600315
+    closeness 0.141742522756827
   ]
   node
   [
@@ -148,10 +148,10 @@ graph
     alldegreecentrality 62
     indegreecentrality 16
     outdegreecentrality 46
-    betweennesscentrality 93873.5
-    eigenvectorcentrality 0
-    pagerank 0.009
-    closeness 0.165
+    betweennesscentrality 62171.2301403275
+    eigenvectorcentrality 1.79553683820205e-05
+    pagerank 0.00210790289621559
+    closeness 0.164729132759823
   ]
   node
   [
@@ -163,10 +163,10 @@ graph
     alldegreecentrality 10
     indegreecentrality 4
     outdegreecentrality 6
-    betweennesscentrality 704
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.142
+    betweennesscentrality 254.5
+    eigenvectorcentrality 2.36279676023713e-06
+    pagerank 0.000701381373340783
+    closeness 0.141643342662935
   ]
   node
   [
@@ -178,10 +178,10 @@ graph
     alldegreecentrality 87
     indegreecentrality 25
     outdegreecentrality 62
-    betweennesscentrality 129194.6
-    eigenvectorcentrality 0.325
-    pagerank 0.011
-    closeness 0.205
+    betweennesscentrality 92117.5537902154
+    eigenvectorcentrality 0.322682113031334
+    pagerank 0.00351459178309394
+    closeness 0.204739199537639
   ]
   node
   [
@@ -193,10 +193,10 @@ graph
     alldegreecentrality 39
     indegreecentrality 8
     outdegreecentrality 31
-    betweennesscentrality 86547
-    eigenvectorcentrality 0
-    pagerank 0.008
-    closeness 0.161
+    betweennesscentrality 50913
+    eigenvectorcentrality 0.000241839729202545
+    pagerank 0.00127015105294574
+    closeness 0.16094956837801
   ]
   node
   [
@@ -208,10 +208,10 @@ graph
     alldegreecentrality 28
     indegreecentrality 9
     outdegreecentrality 19
-    betweennesscentrality 144815.2
-    eigenvectorcentrality 0
-    pagerank 0.004
-    closeness 0.193
+    betweennesscentrality 116799.166666667
+    eigenvectorcentrality 0.000451185429701832
+    pagerank 0.00129624235515139
+    closeness 0.192867837212468
   ]
   node
   [
@@ -223,10 +223,10 @@ graph
     alldegreecentrality 55
     indegreecentrality 15
     outdegreecentrality 40
-    betweennesscentrality 446727.7
-    eigenvectorcentrality 0.004
-    pagerank 0.008
-    closeness 0.227
+    betweennesscentrality 333350.686441044
+    eigenvectorcentrality 0.00389412622353463
+    pagerank 0.00205595435885993
+    closeness 0.226756281004961
   ]
   node
   [
@@ -238,10 +238,10 @@ graph
     alldegreecentrality 91
     indegreecentrality 25
     outdegreecentrality 66
-    betweennesscentrality 190917.4
-    eigenvectorcentrality 0
-    pagerank 0.013
-    closeness 0.197
+    betweennesscentrality 142320.469774378
+    eigenvectorcentrality 0.000360033853656621
+    pagerank 0.00407400638360456
+    closeness 0.197079276773296
   ]
   node
   [
@@ -253,10 +253,10 @@ graph
     alldegreecentrality 55
     indegreecentrality 23
     outdegreecentrality 32
-    betweennesscentrality 25925.1
-    eigenvectorcentrality 0.587
-    pagerank 0.004
-    closeness 0.2
+    betweennesscentrality 19537.0470479899
+    eigenvectorcentrality 0.612049367812104
+    pagerank 0.00252977683442974
+    closeness 0.199577464788732
   ]
   node
   [
@@ -269,9 +269,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.132
+    eigenvectorcentrality 1.72054516399669e-05
+    pagerank 0.000484904518754076
+    closeness 0.131764924679189
   ]
   node
   [
@@ -283,10 +283,10 @@ graph
     alldegreecentrality 16
     indegreecentrality 4
     outdegreecentrality 12
-    betweennesscentrality 33582.5
-    eigenvectorcentrality 0
-    pagerank 0.003
-    closeness 0.152
+    betweennesscentrality 17870
+    eigenvectorcentrality 0.000225457849445979
+    pagerank 0.000943859254758197
+    closeness 0.151729307206339
   ]
   node
   [
@@ -298,10 +298,10 @@ graph
     alldegreecentrality 30
     indegreecentrality 9
     outdegreecentrality 21
-    betweennesscentrality 54990.1
-    eigenvectorcentrality 0.009
-    pagerank 0.004
-    closeness 0.208
+    betweennesscentrality 41074.761976912
+    eigenvectorcentrality 0.00876972983908039
+    pagerank 0.00135542246264049
+    closeness 0.207679906199619
   ]
   node
   [
@@ -313,10 +313,10 @@ graph
     alldegreecentrality 35
     indegreecentrality 11
     outdegreecentrality 24
-    betweennesscentrality 83672.7
-    eigenvectorcentrality 0.006
-    pagerank 0.005
-    closeness 0.205
+    betweennesscentrality 53777.8402819402
+    eigenvectorcentrality 0.00595993581020782
+    pagerank 0.00171183764854383
+    closeness 0.205183898059658
   ]
   node
   [
@@ -329,9 +329,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0.001
-    closeness 0.192
+    eigenvectorcentrality 0.0031014821861354
+    pagerank 0.000514436878639246
+    closeness 0.191564147627417
   ]
   node
   [
@@ -343,10 +343,10 @@ graph
     alldegreecentrality 37
     indegreecentrality 8
     outdegreecentrality 29
-    betweennesscentrality 96396.7
-    eigenvectorcentrality 0.034
-    pagerank 0.006
-    closeness 0.228
+    betweennesscentrality 57758.6522010153
+    eigenvectorcentrality 0.0346814561400399
+    pagerank 0.0012200973383852
+    closeness 0.228033472803347
   ]
   node
   [
@@ -358,10 +358,10 @@ graph
     alldegreecentrality 11
     indegreecentrality 3
     outdegreecentrality 8
-    betweennesscentrality 7069
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.125
+    betweennesscentrality 3980
+    eigenvectorcentrality 3.16071480665841e-07
+    pagerank 0.000838167445493648
+    closeness 0.125431530494822
   ]
   node
   [
@@ -374,9 +374,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0.001
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253321
+    closeness 0.185738628915979
   ]
   node
   [
@@ -389,9 +389,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 3.17125247640565e-05
+    pagerank 0.000572247854506214
+    closeness 0.165151515151515
   ]
   node
   [
@@ -403,10 +403,10 @@ graph
     alldegreecentrality 11
     indegreecentrality 4
     outdegreecentrality 7
-    betweennesscentrality 4773.7
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.166
+    betweennesscentrality 3540
+    eigenvectorcentrality 5.55226678129786e-05
+    pagerank 0.000837791038271002
+    closeness 0.165634132086499
   ]
   node
   [
@@ -418,10 +418,10 @@ graph
     alldegreecentrality 9
     indegreecentrality 3
     outdegreecentrality 6
-    betweennesscentrality 7064
-    eigenvectorcentrality 0.001
-    pagerank 0.001
-    closeness 0.174
+    betweennesscentrality 3978
+    eigenvectorcentrality 0.00148043132466145
+    pagerank 0.000665314167227995
+    closeness 0.173758430410791
   ]
   node
   [
@@ -433,10 +433,10 @@ graph
     alldegreecentrality 20
     indegreecentrality 8
     outdegreecentrality 12
-    betweennesscentrality 9618.2
-    eigenvectorcentrality 0.01
-    pagerank 0.002
-    closeness 0.208
+    betweennesscentrality 6788.4880952381
+    eigenvectorcentrality 0.0105166599673432
+    pagerank 0.00117938989071276
+    closeness 0.208106917315318
   ]
   node
   [
@@ -448,10 +448,10 @@ graph
     alldegreecentrality 52
     indegreecentrality 14
     outdegreecentrality 38
-    betweennesscentrality 50293
-    eigenvectorcentrality 0
-    pagerank 0.008
-    closeness 0.144
+    betweennesscentrality 30876
+    eigenvectorcentrality 0.000198452750379731
+    pagerank 0.00236974263667022
+    closeness 0.144312048070068
   ]
   node
   [
@@ -463,10 +463,10 @@ graph
     alldegreecentrality 26
     indegreecentrality 8
     outdegreecentrality 18
-    betweennesscentrality 18325
-    eigenvectorcentrality 0
-    pagerank 0.004
-    closeness 0.139
+    betweennesscentrality 12288
+    eigenvectorcentrality 2.46517814138317e-05
+    pagerank 0.00145457094508758
+    closeness 0.139331366764995
   ]
   node
   [
@@ -478,10 +478,10 @@ graph
     alldegreecentrality 75
     indegreecentrality 24
     outdegreecentrality 51
-    betweennesscentrality 289043.3
-    eigenvectorcentrality 0.085
-    pagerank 0.01
-    closeness 0.244
+    betweennesscentrality 206168.901045008
+    eigenvectorcentrality 0.085791020023775
+    pagerank 0.00321505308352354
+    closeness 0.244226128921062
   ]
   node
   [
@@ -494,9 +494,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.17
+    eigenvectorcentrality 0.000454822875370467
+    pagerank 0.000478675404927963
+    closeness 0.170292032207667
   ]
   node
   [
@@ -508,10 +508,10 @@ graph
     alldegreecentrality 30
     indegreecentrality 10
     outdegreecentrality 20
-    betweennesscentrality 90352.7
-    eigenvectorcentrality 0.01
-    pagerank 0.004
-    closeness 0.21
+    betweennesscentrality 62411.093754199
+    eigenvectorcentrality 0.010154026891056
+    pagerank 0.00135867858559108
+    closeness 0.210331007867003
   ]
   node
   [
@@ -523,10 +523,10 @@ graph
     alldegreecentrality 4
     indegreecentrality 1
     outdegreecentrality 3
-    betweennesscentrality 1416
-    eigenvectorcentrality 0.001
-    pagerank 0.001
-    closeness 0.174
+    betweennesscentrality 514
+    eigenvectorcentrality 0.00077488816226329
+    pagerank 0.000475791661429656
+    closeness 0.173865030674847
   ]
   node
   [
@@ -538,10 +538,10 @@ graph
     alldegreecentrality 7
     indegreecentrality 2
     outdegreecentrality 5
-    betweennesscentrality 2831
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.11
+    betweennesscentrality 1028
+    eigenvectorcentrality 2.81989251782452e-08
+    pagerank 0.000686951706412208
+    closeness 0.110075351510914
   ]
   node
   [
@@ -553,10 +553,10 @@ graph
     alldegreecentrality 17
     indegreecentrality 6
     outdegreecentrality 11
-    betweennesscentrality 11942
-    eigenvectorcentrality 0
-    pagerank 0.003
-    closeness 0.139
+    betweennesscentrality 6450.5
+    eigenvectorcentrality 2.46308494863184e-05
+    pagerank 0.000869530815431395
+    closeness 0.139358772619984
   ]
   node
   [
@@ -568,10 +568,10 @@ graph
     alldegreecentrality 21
     indegreecentrality 7
     outdegreecentrality 14
-    betweennesscentrality 13401.5
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.157
+    betweennesscentrality 11898.5
+    eigenvectorcentrality 2.63628390874464e-05
+    pagerank 0.00154901182241088
+    closeness 0.15732208282447
   ]
   node
   [
@@ -584,9 +584,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 7
     betweennesscentrality 0
-    eigenvectorcentrality 0.158
-    pagerank 0.001
-    closeness 0.181
+    eigenvectorcentrality 0.163723847793975
+    pagerank 0.000962771961456205
+    closeness 0.181341182492961
   ]
   node
   [
@@ -598,10 +598,10 @@ graph
     alldegreecentrality 15
     indegreecentrality 6
     outdegreecentrality 9
-    betweennesscentrality 1417.7
-    eigenvectorcentrality 0.16
-    pagerank 0.001
-    closeness 0.181
+    betweennesscentrality 515.333333333333
+    eigenvectorcentrality 0.163723847793975
+    pagerank 0.000986509631281634
+    closeness 0.181387608806964
   ]
   node
   [
@@ -613,10 +613,10 @@ graph
     alldegreecentrality 134
     indegreecentrality 50
     outdegreecentrality 84
-    betweennesscentrality 121593.1
+    betweennesscentrality 92641.3684835028
     eigenvectorcentrality 1
-    pagerank 0.011
-    closeness 0.22
+    pagerank 0.0053549010841056
+    closeness 0.21968992248062
   ]
   node
   [
@@ -629,9 +629,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 7
     betweennesscentrality 0
-    eigenvectorcentrality 0.158
-    pagerank 0.001
-    closeness 0.181
+    eigenvectorcentrality 0.163723847793975
+    pagerank 0.000962771961455875
+    closeness 0.181341182492961
   ]
   node
   [
@@ -644,9 +644,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 7
     betweennesscentrality 0
-    eigenvectorcentrality 0.158
-    pagerank 0.001
-    closeness 0.181
+    eigenvectorcentrality 0.163723847793975
+    pagerank 0.000962771961455656
+    closeness 0.181341182492961
   ]
   node
   [
@@ -658,10 +658,10 @@ graph
     alldegreecentrality 64
     indegreecentrality 27
     outdegreecentrality 37
-    betweennesscentrality 47906.7
-    eigenvectorcentrality 0.437
-    pagerank 0.005
-    closeness 0.21
+    betweennesscentrality 39028.9447155357
+    eigenvectorcentrality 0.452148347810875
+    pagerank 0.00305110850838713
+    closeness 0.209739490822972
   ]
   node
   [
@@ -673,10 +673,10 @@ graph
     alldegreecentrality 21
     indegreecentrality 9
     outdegreecentrality 12
-    betweennesscentrality 74.2
-    eigenvectorcentrality 0.198
-    pagerank 0.002
-    closeness 0.181
+    betweennesscentrality 75.391341991342
+    eigenvectorcentrality 0.202094678506477
+    pagerank 0.0013194099628313
+    closeness 0.181457292867204
   ]
   node
   [
@@ -688,10 +688,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 4
     outdegreecentrality 8
-    betweennesscentrality 7528.2
-    eigenvectorcentrality 0.073
-    pagerank 0.001
-    closeness 0.183
+    betweennesscentrality 4344.45992063492
+    eigenvectorcentrality 0.0768895146650765
+    pagerank 0.000817211700003478
+    closeness 0.183240656924867
   ]
   node
   [
@@ -703,10 +703,10 @@ graph
     alldegreecentrality 28
     indegreecentrality 11
     outdegreecentrality 17
-    betweennesscentrality 72197.1
-    eigenvectorcentrality 0.001
-    pagerank 0.003
-    closeness 0.188
+    betweennesscentrality 50278.3799779168
+    eigenvectorcentrality 0.00101646522402579
+    pagerank 0.00169841333659647
+    closeness 0.187781606148953
   ]
   node
   [
@@ -718,10 +718,10 @@ graph
     alldegreecentrality 14
     indegreecentrality 5
     outdegreecentrality 9
-    betweennesscentrality 19667
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.163
+    betweennesscentrality 11369
+    eigenvectorcentrality 0.000101513109526237
+    pagerank 0.00085700253324312
+    closeness 0.16259323006311
   ]
   node
   [
@@ -733,10 +733,10 @@ graph
     alldegreecentrality 21
     indegreecentrality 7
     outdegreecentrality 14
-    betweennesscentrality 12704
-    eigenvectorcentrality 0
-    pagerank 0.003
-    closeness 0.163
+    betweennesscentrality 8842
+    eigenvectorcentrality 0.000102715992697434
+    pagerank 0.00140158728750762
+    closeness 0.1625
   ]
   node
   [
@@ -748,10 +748,10 @@ graph
     alldegreecentrality 14
     indegreecentrality 5
     outdegreecentrality 9
-    betweennesscentrality 43504.5
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.172
+    betweennesscentrality 28168.4802665171
+    eigenvectorcentrality 0.000102229908022592
+    pagerank 0.000835092925889977
+    closeness 0.171945152287344
   ]
   node
   [
@@ -764,9 +764,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.162
+    eigenvectorcentrality 0.000100956826262852
+    pagerank 0.000747873874983894
+    closeness 0.162332455034941
   ]
   node
   [
@@ -778,10 +778,10 @@ graph
     alldegreecentrality 14
     indegreecentrality 3
     outdegreecentrality 11
-    betweennesscentrality 14109
-    eigenvectorcentrality 0
-    pagerank 0.003
-    closeness 0.14
+    betweennesscentrality 7946
+    eigenvectorcentrality 7.84574191120426e-06
+    pagerank 0.000814378240197014
+    closeness 0.140158259149357
   ]
   node
   [
@@ -793,10 +793,10 @@ graph
     alldegreecentrality 6
     indegreecentrality 2
     outdegreecentrality 4
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.123
+    betweennesscentrality 514
+    eigenvectorcentrality 6.48201578734025e-07
+    pagerank 0.000656798630687814
+    closeness 0.122982121159521
   ]
   node
   [
@@ -809,9 +809,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.123
+    eigenvectorcentrality 6.48201578733101e-07
+    pagerank 0.000620546758214785
+    closeness 0.122971448407533
   ]
   node
   [
@@ -823,10 +823,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 3
     outdegreecentrality 5
-    betweennesscentrality 1416
-    eigenvectorcentrality 0.002
-    pagerank 0.001
-    closeness 0.18
+    betweennesscentrality 514
+    eigenvectorcentrality 0.00177622013937364
+    pagerank 0.000679288238989918
+    closeness 0.180142384947877
   ]
   node
   [
@@ -839,9 +839,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0.001
-    closeness 0.18
+    eigenvectorcentrality 0.00177622013937364
+    pagerank 0.000655478135767588
+    closeness 0.180119486462438
   ]
   node
   [
@@ -853,10 +853,10 @@ graph
     alldegreecentrality 23
     indegreecentrality 7
     outdegreecentrality 16
-    betweennesscentrality 24587.1
-    eigenvectorcentrality 0.001
-    pagerank 0.003
-    closeness 0.183
+    betweennesscentrality 18326.2357864358
+    eigenvectorcentrality 0.000982971857892627
+    pagerank 0.00130357678132817
+    closeness 0.182626627142673
   ]
   node
   [
@@ -868,10 +868,10 @@ graph
     alldegreecentrality 4
     indegreecentrality 1
     outdegreecentrality 3
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.101
+    betweennesscentrality 514
+    eigenvectorcentrality 7.17368485480371e-09
+    pagerank 0.000510723981697277
+    closeness 0.101402604837555
   ]
   node
   [
@@ -883,10 +883,10 @@ graph
     alldegreecentrality 5
     indegreecentrality 1
     outdegreecentrality 4
-    betweennesscentrality 2831
-    eigenvectorcentrality 0.005
-    pagerank 0.001
-    closeness 0.155
+    betweennesscentrality 1028
+    eigenvectorcentrality 0.00586769912620764
+    pagerank 0.000504876564667253
+    closeness 0.154965004374453
   ]
   node
   [
@@ -898,10 +898,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 2
     outdegreecentrality 6
-    betweennesscentrality 4245
-    eigenvectorcentrality 0.009
-    pagerank 0.001
-    closeness 0.202
+    betweennesscentrality 1542
+    eigenvectorcentrality 0.00921095922508452
+    pagerank 0.000530430594113991
+    closeness 0.202139800285307
   ]
   node
   [
@@ -914,9 +914,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138663274292984
   ]
   node
   [
@@ -929,9 +929,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0.106
-    pagerank 0.001
-    closeness 0.191
+    eigenvectorcentrality 0.111161790266427
+    pagerank 0.0007213138596795
+    closeness 0.190893169877408
   ]
   node
   [
@@ -943,10 +943,10 @@ graph
     alldegreecentrality 79
     indegreecentrality 30
     outdegreecentrality 49
-    betweennesscentrality 91109.7
-    eigenvectorcentrality 0.754
-    pagerank 0.007
-    closeness 0.216
+    betweennesscentrality 62782.6152369215
+    eigenvectorcentrality 0.768878202188701
+    pagerank 0.00291880037710629
+    closeness 0.215513307984791
   ]
   node
   [
@@ -959,9 +959,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0.106
-    pagerank 0.001
-    closeness 0.191
+    eigenvectorcentrality 0.111161790266427
+    pagerank 0.000721313859679419
+    closeness 0.190893169877408
   ]
   node
   [
@@ -973,10 +973,10 @@ graph
     alldegreecentrality 52
     indegreecentrality 20
     outdegreecentrality 32
-    betweennesscentrality 32209.6
-    eigenvectorcentrality 0.439
-    pagerank 0.004
-    closeness 0.199
+    betweennesscentrality 23638.1546011436
+    eigenvectorcentrality 0.459612582492665
+    pagerank 0.00226027060083705
+    closeness 0.198598458304135
   ]
   node
   [
@@ -988,10 +988,10 @@ graph
     alldegreecentrality 25
     indegreecentrality 9
     outdegreecentrality 16
-    betweennesscentrality 121726
-    eigenvectorcentrality 0.112
-    pagerank 0.003
-    closeness 0.217
+    betweennesscentrality 81657.7963672292
+    eigenvectorcentrality 0.116996090746616
+    pagerank 0.00131711986292202
+    closeness 0.216832440703902
   ]
   node
   [
@@ -1003,10 +1003,10 @@ graph
     alldegreecentrality 23
     indegreecentrality 8
     outdegreecentrality 15
-    betweennesscentrality 15507
-    eigenvectorcentrality 0
-    pagerank 0.003
-    closeness 0.124
+    betweennesscentrality 10559.5
+    eigenvectorcentrality 3.41315875194133e-07
+    pagerank 0.00161393346702774
+    closeness 0.123615109482683
   ]
   node
   [
@@ -1019,9 +1019,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.11
+    eigenvectorcentrality 2.60469697478267e-08
+    pagerank 0.000509504051340275
+    closeness 0.110032613759901
   ]
   node
   [
@@ -1033,10 +1033,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 3
     outdegreecentrality 5
-    betweennesscentrality 1416
-    eigenvectorcentrality 0.095
-    pagerank 0.001
-    closeness 0.18
+    betweennesscentrality 514
+    eigenvectorcentrality 0.0979231235867449
+    pagerank 0.000623863852210126
+    closeness 0.180188199389624
   ]
   node
   [
@@ -1048,10 +1048,10 @@ graph
     alldegreecentrality 38
     indegreecentrality 14
     outdegreecentrality 24
-    betweennesscentrality 13784.5
-    eigenvectorcentrality 0.341
-    pagerank 0.003
-    closeness 0.207
+    betweennesscentrality 8155.82162063942
+    eigenvectorcentrality 0.34546712004821
+    pagerank 0.0016344227221496
+    closeness 0.206680280046674
   ]
   node
   [
@@ -1063,10 +1063,10 @@ graph
     alldegreecentrality 10
     indegreecentrality 4
     outdegreecentrality 6
-    betweennesscentrality 137.8
-    eigenvectorcentrality 0.164
-    pagerank 0.001
-    closeness 0.183
+    betweennesscentrality 74.248717948718
+    eigenvectorcentrality 0.168825693373666
+    pagerank 0.000686809231665089
+    closeness 0.183193277310924
   ]
   node
   [
@@ -1079,9 +1079,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 7.77246517301901e-05
+    pagerank 0.000515858347756118
+    closeness 0.151957104557641
   ]
   node
   [
@@ -1093,10 +1093,10 @@ graph
     alldegreecentrality 18
     indegreecentrality 7
     outdegreecentrality 11
-    betweennesscentrality 22457
-    eigenvectorcentrality 0.001
-    pagerank 0.002
-    closeness 0.179
+    betweennesscentrality 16563
+    eigenvectorcentrality 0.00101849304480426
+    pagerank 0.00126578328041752
+    closeness 0.179140328697851
   ]
   node
   [
@@ -1108,10 +1108,10 @@ graph
     alldegreecentrality 13
     indegreecentrality 4
     outdegreecentrality 9
-    betweennesscentrality 5658
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.139
+    betweennesscentrality 2056
+    eigenvectorcentrality 2.40961962118305e-05
+    pagerank 0.000662137371992635
+    closeness 0.139208173690932
   ]
   node
   [
@@ -1123,10 +1123,10 @@ graph
     alldegreecentrality 13
     indegreecentrality 5
     outdegreecentrality 8
-    betweennesscentrality 8475
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.143
+    betweennesscentrality 8716
+    eigenvectorcentrality 5.80521216042805e-06
+    pagerank 0.00139335878432876
+    closeness 0.142727639000806
   ]
   node
   [
@@ -1139,9 +1139,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.125
+    eigenvectorcentrality 4.79616552498973e-07
+    pagerank 0.000789896082386468
+    closeness 0.124933874096279
   ]
   node
   [
@@ -1154,9 +1154,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.125
+    eigenvectorcentrality 4.79616552499683e-07
+    pagerank 0.000789896082386468
+    closeness 0.124933874096279
   ]
   node
   [
@@ -1168,10 +1168,10 @@ graph
     alldegreecentrality 5
     indegreecentrality 1
     outdegreecentrality 4
-    betweennesscentrality 2831
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.148
+    betweennesscentrality 1028
+    eigenvectorcentrality 0.000112976725473756
+    pagerank 0.000512300661899332
+    closeness 0.14812878946268
   ]
   node
   [
@@ -1183,10 +1183,10 @@ graph
     alldegreecentrality 6
     indegreecentrality 1
     outdegreecentrality 5
-    betweennesscentrality 4245
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.157
+    betweennesscentrality 1542
+    eigenvectorcentrality 2.34068467575549e-05
+    pagerank 0.000463418354442581
+    closeness 0.157043112046991
   ]
   node
   [
@@ -1198,10 +1198,10 @@ graph
     alldegreecentrality 14
     indegreecentrality 6
     outdegreecentrality 8
-    betweennesscentrality 8952.2
-    eigenvectorcentrality 0.115
-    pagerank 0.001
-    closeness 0.187
+    betweennesscentrality 8063.9712842713
+    eigenvectorcentrality 0.117390095319662
+    pagerank 0.00098164188058068
+    closeness 0.187161537445516
   ]
   node
   [
@@ -1214,9 +1214,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.157
+    eigenvectorcentrality 2.54899963138437e-05
+    pagerank 0.000524932638044448
+    closeness 0.157008310249307
   ]
   node
   [
@@ -1228,10 +1228,10 @@ graph
     alldegreecentrality 24
     indegreecentrality 6
     outdegreecentrality 18
-    betweennesscentrality 35037.5
-    eigenvectorcentrality 0
-    pagerank 0.004
-    closeness 0.186
+    betweennesscentrality 19772.5
+    eigenvectorcentrality 0.000306720070051095
+    pagerank 0.000960787755540979
+    closeness 0.186104544260573
   ]
   node
   [
@@ -1243,10 +1243,10 @@ graph
     alldegreecentrality 13
     indegreecentrality 3
     outdegreecentrality 10
-    betweennesscentrality 4253.5
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.157
+    betweennesscentrality 1546.5
+    eigenvectorcentrality 2.72973025563591e-05
+    pagerank 0.000723697454139618
+    closeness 0.157147610069868
   ]
   node
   [
@@ -1258,10 +1258,10 @@ graph
     alldegreecentrality 21
     indegreecentrality 8
     outdegreecentrality 13
-    betweennesscentrality 4321.4
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.156
+    betweennesscentrality 3987.27554112554
+    eigenvectorcentrality 0.00049642619731333
+    pagerank 0.00150872051646611
+    closeness 0.155765637023194
   ]
   node
   [
@@ -1274,9 +1274,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.14
+    eigenvectorcentrality 4.86130292350091e-05
+    pagerank 0.000641802799825513
+    closeness 0.139578408195429
   ]
   node
   [
@@ -1288,10 +1288,10 @@ graph
     alldegreecentrality 17
     indegreecentrality 7
     outdegreecentrality 10
-    betweennesscentrality 6319.2
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.157
+    betweennesscentrality 5700.68658008658
+    eigenvectorcentrality 0.000140592188238249
+    pagerank 0.00147185726578188
+    closeness 0.156973523872826
   ]
   node
   [
@@ -1303,10 +1303,10 @@ graph
     alldegreecentrality 20
     indegreecentrality 9
     outdegreecentrality 11
-    betweennesscentrality 1093.9
-    eigenvectorcentrality 0.179
-    pagerank 0.001
-    closeness 0.173
+    betweennesscentrality 569.214141414141
+    eigenvectorcentrality 0.193608002281223
+    pagerank 0.00128437068320237
+    closeness 0.17329093799682
   ]
   node
   [
@@ -1318,10 +1318,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 3
     outdegreecentrality 5
-    betweennesscentrality 514.3
-    eigenvectorcentrality 0.061
-    pagerank 0.001
-    closeness 0.167
+    betweennesscentrality 209.724161072845
+    eigenvectorcentrality 0.0654278874221414
+    pagerank 0.000758512974463201
+    closeness 0.166784369114878
   ]
   node
   [
@@ -1333,10 +1333,10 @@ graph
     alldegreecentrality 40
     indegreecentrality 16
     outdegreecentrality 24
-    betweennesscentrality 9292.8
-    eigenvectorcentrality 0.406
-    pagerank 0.003
-    closeness 0.209
+    betweennesscentrality 6330.61380459925
+    eigenvectorcentrality 0.412526629174512
+    pagerank 0.00177394952060566
+    closeness 0.209120425029516
   ]
   node
   [
@@ -1349,9 +1349,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.087
-    pagerank 0
-    closeness 0.181
+    eigenvectorcentrality 0.0901570016000632
+    pagerank 0.000531507451836141
+    closeness 0.181248401125608
   ]
   node
   [
@@ -1363,10 +1363,10 @@ graph
     alldegreecentrality 20
     indegreecentrality 8
     outdegreecentrality 12
-    betweennesscentrality 47290.9
-    eigenvectorcentrality 0.189
-    pagerank 0.002
-    closeness 0.209
+    betweennesscentrality 33646.6641701263
+    eigenvectorcentrality 0.194456736747725
+    pagerank 0.00103893655148246
+    closeness 0.208966229169739
   ]
   node
   [
@@ -1378,10 +1378,10 @@ graph
     alldegreecentrality 21
     indegreecentrality 8
     outdegreecentrality 13
-    betweennesscentrality 4888.4
-    eigenvectorcentrality 0.217
-    pagerank 0.002
-    closeness 0.186
+    betweennesscentrality 3356.35521145522
+    eigenvectorcentrality 0.223792182845754
+    pagerank 0.00121362871005964
+    closeness 0.185519769573187
   ]
   node
   [
@@ -1393,10 +1393,10 @@ graph
     alldegreecentrality 17
     indegreecentrality 7
     outdegreecentrality 10
-    betweennesscentrality 1465.3
-    eigenvectorcentrality 0.15
-    pagerank 0.001
-    closeness 0.183
+    betweennesscentrality 1024.26764346764
+    eigenvectorcentrality 0.155259931221072
+    pagerank 0.00100353837074003
+    closeness 0.183382942927397
   ]
   node
   [
@@ -1408,10 +1408,10 @@ graph
     alldegreecentrality 19
     indegreecentrality 4
     outdegreecentrality 15
-    betweennesscentrality 12726.2
-    eigenvectorcentrality 0.148
-    pagerank 0.003
-    closeness 0.179
+    betweennesscentrality 4634.625
+    eigenvectorcentrality 0.152498669065678
+    pagerank 0.000699270197254334
+    closeness 0.178778703002776
   ]
   node
   [
@@ -1423,10 +1423,10 @@ graph
     alldegreecentrality 22
     indegreecentrality 9
     outdegreecentrality 13
-    betweennesscentrality 11289
-    eigenvectorcentrality 0.15
-    pagerank 0.002
-    closeness 0.179
+    betweennesscentrality 11135
+    eigenvectorcentrality 0.157781233679659
+    pagerank 0.00158071571830478
+    closeness 0.178733602421796
   ]
   node
   [
@@ -1438,10 +1438,10 @@ graph
     alldegreecentrality 15
     indegreecentrality 1
     outdegreecentrality 14
-    betweennesscentrality 16926
-    eigenvectorcentrality 0
-    pagerank 0.004
-    closeness 0.117
+    betweennesscentrality 6168
+    eigenvectorcentrality 1.32069764317786e-06
+    pagerank 0.000527900896016057
+    closeness 0.116943137740365
   ]
   node
   [
@@ -1453,10 +1453,10 @@ graph
     alldegreecentrality 6
     indegreecentrality 2
     outdegreecentrality 4
-    betweennesscentrality 19642
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.132
+    betweennesscentrality 8585
+    eigenvectorcentrality 1.73062385475254e-05
+    pagerank 0.000516955644583622
+    closeness 0.132108894275592
   ]
   node
   [
@@ -1468,10 +1468,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 5
     outdegreecentrality 7
-    betweennesscentrality 4242
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.138
+    betweennesscentrality 4364
+    eigenvectorcentrality 0.000128229268617915
+    pagerank 0.00119921508492809
+    closeness 0.138041889917194
   ]
   node
   [
@@ -1483,10 +1483,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 3
     outdegreecentrality 5
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.138
+    betweennesscentrality 514
+    eigenvectorcentrality 0.000126726973681045
+    pagerank 0.000768499174932704
+    closeness 0.138014999513003
   ]
   node
   [
@@ -1499,9 +1499,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.138
+    eigenvectorcentrality 0.000126726973681041
+    pagerank 0.000741562090450524
+    closeness 0.13800155823919
   ]
   node
   [
@@ -1513,10 +1513,10 @@ graph
     alldegreecentrality 23
     indegreecentrality 5
     outdegreecentrality 18
-    betweennesscentrality 26705
-    eigenvectorcentrality 0.001
-    pagerank 0.004
-    closeness 0.16
+    betweennesscentrality 16716
+    eigenvectorcentrality 0.00140565642575495
+    pagerank 0.00100059743798525
+    closeness 0.159950332994695
   ]
   node
   [
@@ -1528,10 +1528,10 @@ graph
     alldegreecentrality 7
     indegreecentrality 1
     outdegreecentrality 6
-    betweennesscentrality 4245.5
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.142
+    betweennesscentrality 1542
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.141558441558442
   ]
   node
   [
@@ -1543,10 +1543,10 @@ graph
     alldegreecentrality 17
     indegreecentrality 7
     outdegreecentrality 10
-    betweennesscentrality 19655
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.138
+    betweennesscentrality 14146
+    eigenvectorcentrality 2.22442142115504e-06
+    pagerank 0.00140199978268945
+    closeness 0.13782705962455
   ]
   node
   [
@@ -1558,10 +1558,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 3
     outdegreecentrality 5
-    betweennesscentrality 23800
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.159
+    betweennesscentrality 18419
+    eigenvectorcentrality 2.57890178789366e-05
+    pagerank 0.000842729387768871
+    closeness 0.159302979201799
   ]
   node
   [
@@ -1574,9 +1574,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.138
+    eigenvectorcentrality 2.13780037524228e-06
+    pagerank 0.000680481798991284
+    closeness 0.137639630888781
   ]
   node
   [
@@ -1588,10 +1588,10 @@ graph
     alldegreecentrality 7
     indegreecentrality 1
     outdegreecentrality 6
-    betweennesscentrality 5658
-    eigenvectorcentrality 0.002
-    pagerank 0.002
-    closeness 0.165
+    betweennesscentrality 2056
+    eigenvectorcentrality 0.00162041375895457
+    pagerank 0.00045460291748875
+    closeness 0.16534422403734
   ]
   node
   [
@@ -1603,10 +1603,10 @@ graph
     alldegreecentrality 27
     indegreecentrality 5
     outdegreecentrality 22
-    betweennesscentrality 100881
-    eigenvectorcentrality 0.021
-    pagerank 0.005
-    closeness 0.198
+    betweennesscentrality 64094
+    eigenvectorcentrality 0.0212336769153933
+    pagerank 0.000946131895091666
+    closeness 0.197822141560799
   ]
   node
   [
@@ -1618,10 +1618,10 @@ graph
     alldegreecentrality 30
     indegreecentrality 12
     outdegreecentrality 18
-    betweennesscentrality 28023
-    eigenvectorcentrality 0
-    pagerank 0.003
-    closeness 0.113
+    betweennesscentrality 23654.6666666667
+    eigenvectorcentrality 9.40029703156243e-08
+    pagerank 0.00196255397978055
+    closeness 0.112809489690311
   ]
   node
   [
@@ -1633,10 +1633,10 @@ graph
     alldegreecentrality 34
     indegreecentrality 8
     outdegreecentrality 26
-    betweennesscentrality 95306.3
-    eigenvectorcentrality 0
-    pagerank 0.005
-    closeness 0.191
+    betweennesscentrality 70324.3333333333
+    eigenvectorcentrality 0.000403661861891693
+    pagerank 0.00126096753028905
+    closeness 0.191305521803699
   ]
   node
   [
@@ -1648,10 +1648,10 @@ graph
     alldegreecentrality 40
     indegreecentrality 16
     outdegreecentrality 24
-    betweennesscentrality 71041.4
-    eigenvectorcentrality 0.49
-    pagerank 0.003
-    closeness 0.217
+    betweennesscentrality 53621.707828274
+    eigenvectorcentrality 0.509160807700723
+    pagerank 0.00166239592692135
+    closeness 0.216865625956535
   ]
   node
   [
@@ -1664,9 +1664,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.038
-    pagerank 0.001
-    closeness 0.174
+    eigenvectorcentrality 0.0403726700175265
+    pagerank 0.000574969597967693
+    closeness 0.173737126042178
   ]
   node
   [
@@ -1678,10 +1678,10 @@ graph
     alldegreecentrality 7
     indegreecentrality 2
     outdegreecentrality 5
-    betweennesscentrality 15476
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.123
+    betweennesscentrality 14030
+    eigenvectorcentrality 2.50464083718033e-07
+    pagerank 0.000651352265786797
+    closeness 0.123485838779956
   ]
   node
   [
@@ -1693,10 +1693,10 @@ graph
     alldegreecentrality 21
     indegreecentrality 9
     outdegreecentrality 12
-    betweennesscentrality 4948
-    eigenvectorcentrality 0.004
-    pagerank 0.001
-    closeness 0.15
+    betweennesscentrality 4619.5
+    eigenvectorcentrality 0.00388270750848244
+    pagerank 0.00178390125724918
+    closeness 0.150296987696224
   ]
   node
   [
@@ -1709,9 +1709,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.131
+    eigenvectorcentrality 0.000320782555078078
+    pagerank 0.00075963836362185
+    closeness 0.130695443645084
   ]
   node
   [
@@ -1724,9 +1724,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.131
+    eigenvectorcentrality 0.000320782555078079
+    pagerank 0.000759638363620895
+    closeness 0.130695443645084
   ]
   node
   [
@@ -1739,9 +1739,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.189
+    eigenvectorcentrality 0.000392351948956475
+    pagerank 0.000675844071964397
+    closeness 0.189413180056142
   ]
   node
   [
@@ -1754,9 +1754,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.189
+    eigenvectorcentrality 0.000392351948956486
+    pagerank 0.000675844071964216
+    closeness 0.189413180056142
   ]
   node
   [
@@ -1768,10 +1768,10 @@ graph
     alldegreecentrality 14
     indegreecentrality 5
     outdegreecentrality 9
-    betweennesscentrality 45939.5
-    eigenvectorcentrality 0.028
-    pagerank 0.002
-    closeness 0.195
+    betweennesscentrality 29597.9380420749
+    eigenvectorcentrality 0.0281738286844696
+    pagerank 0.000733447988635255
+    closeness 0.194509265614276
   ]
   node
   [
@@ -1783,10 +1783,10 @@ graph
     alldegreecentrality 24
     indegreecentrality 8
     outdegreecentrality 16
-    betweennesscentrality 85832.9
-    eigenvectorcentrality 0.035
-    pagerank 0.004
-    closeness 0.214
+    betweennesscentrality 52751.2508241757
+    eigenvectorcentrality 0.034908110791116
+    pagerank 0.00110679632024934
+    closeness 0.214210128495843
   ]
   node
   [
@@ -1798,10 +1798,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 4
     outdegreecentrality 8
-    betweennesscentrality 3537
-    eigenvectorcentrality 0.052
-    pagerank 0.001
-    closeness 0.174
+    betweennesscentrality 1284.5
+    eigenvectorcentrality 0.0547024382243706
+    pagerank 0.000797024766280218
+    closeness 0.173822374877331
   ]
   node
   [
@@ -1813,10 +1813,10 @@ graph
     alldegreecentrality 4
     indegreecentrality 1
     outdegreecentrality 3
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.15
+    betweennesscentrality 514
+    eigenvectorcentrality 6.25316397283769e-05
+    pagerank 0.000483514497754634
+    closeness 0.149646213961348
   ]
   node
   [
@@ -1828,10 +1828,10 @@ graph
     alldegreecentrality 23
     indegreecentrality 7
     outdegreecentrality 16
-    betweennesscentrality 36448.4
-    eigenvectorcentrality 0.001
-    pagerank 0.003
-    closeness 0.176
+    betweennesscentrality 26464.1002886002
+    eigenvectorcentrality 0.00081940592496496
+    pagerank 0.00123231390517828
+    closeness 0.175893743793446
   ]
   node
   [
@@ -1843,10 +1843,10 @@ graph
     alldegreecentrality 17
     indegreecentrality 6
     outdegreecentrality 11
-    betweennesscentrality 94802.2
-    eigenvectorcentrality 0.003
-    pagerank 0.002
-    closeness 0.189
+    betweennesscentrality 56827.8000666001
+    eigenvectorcentrality 0.00301565773228665
+    pagerank 0.000867672114153227
+    closeness 0.18855622089155
   ]
   node
   [
@@ -1858,10 +1858,10 @@ graph
     alldegreecentrality 32
     indegreecentrality 14
     outdegreecentrality 18
-    betweennesscentrality 3680.8
-    eigenvectorcentrality 0.377
-    pagerank 0.002
-    closeness 0.186
+    betweennesscentrality 2788.61126441498
+    eigenvectorcentrality 0.3964668775496
+    pagerank 0.00163469407186522
+    closeness 0.185714285714286
   ]
   node
   [
@@ -1874,9 +1874,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0.148
-    pagerank 0.001
-    closeness 0.183
+    eigenvectorcentrality 0.154917701911725
+    pagerank 0.000678794371863308
+    closeness 0.182626627142673
   ]
   node
   [
@@ -1889,9 +1889,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0.065
-    pagerank 0.001
-    closeness 0.168
+    eigenvectorcentrality 0.0690557781328332
+    pagerank 0.000716949416042265
+    closeness 0.167751864567302
   ]
   node
   [
@@ -1904,9 +1904,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0.065
-    pagerank 0.001
-    closeness 0.168
+    eigenvectorcentrality 0.0690557781328332
+    pagerank 0.000716949416042146
+    closeness 0.167751864567302
   ]
   node
   [
@@ -1918,10 +1918,10 @@ graph
     alldegreecentrality 17
     indegreecentrality 5
     outdegreecentrality 12
-    betweennesscentrality 8481
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.121
+    betweennesscentrality 3084
+    eigenvectorcentrality 2.44338240953288e-07
+    pagerank 0.001106710591673
+    closeness 0.121328880897337
   ]
   node
   [
@@ -1933,10 +1933,10 @@ graph
     alldegreecentrality 7
     indegreecentrality 2
     outdegreecentrality 5
-    betweennesscentrality 4244
-    eigenvectorcentrality 0.002
-    pagerank 0.001
-    closeness 0.165
+    betweennesscentrality 2954
+    eigenvectorcentrality 0.00162990589523496
+    pagerank 0.000681512521308664
+    closeness 0.165305646290247
   ]
   node
   [
@@ -1948,10 +1948,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 5
     outdegreecentrality 7
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.121
+    betweennesscentrality 514
+    eigenvectorcentrality 2.44338240950478e-07
+    pagerank 0.00105677938132681
+    closeness 0.121276959945224
   ]
   node
   [
@@ -1963,10 +1963,10 @@ graph
     alldegreecentrality 16
     indegreecentrality 6
     outdegreecentrality 10
-    betweennesscentrality 4245
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.101
+    betweennesscentrality 1542
+    eigenvectorcentrality 1.16167689063224e-08
+    pagerank 0.00119729928341512
+    closeness 0.101497027433565
   ]
   node
   [
@@ -1978,10 +1978,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 2
     outdegreecentrality 6
-    betweennesscentrality 4245
-    eigenvectorcentrality 0.003
-    pagerank 0.001
-    closeness 0.177
+    betweennesscentrality 1542
+    eigenvectorcentrality 0.00288404752303876
+    pagerank 0.000637543121798687
+    closeness 0.176617225476754
   ]
   node
   [
@@ -1993,10 +1993,10 @@ graph
     alldegreecentrality 5
     indegreecentrality 1
     outdegreecentrality 4
-    betweennesscentrality 2831
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.143
+    betweennesscentrality 1028
+    eigenvectorcentrality 5.65880751015833e-06
+    pagerank 0.000498143224290762
+    closeness 0.142612721417069
   ]
   node
   [
@@ -2009,9 +2009,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.101
+    eigenvectorcentrality 2.2476866392206e-08
+    pagerank 0.000855550044237018
+    closeness 0.101475221999427
   ]
   node
   [
@@ -2024,9 +2024,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.101
+    eigenvectorcentrality 2.24768663938233e-08
+    pagerank 0.000855550044236034
+    closeness 0.101475221999427
   ]
   node
   [
@@ -2038,10 +2038,10 @@ graph
     alldegreecentrality 23
     indegreecentrality 7
     outdegreecentrality 16
-    betweennesscentrality 14090
-    eigenvectorcentrality 0
-    pagerank 0.003
-    closeness 0.113
+    betweennesscentrality 8859.66666666667
+    eigenvectorcentrality 8.9511278849024e-08
+    pagerank 0.00146583901463955
+    closeness 0.112719751809721
   ]
   node
   [
@@ -2053,10 +2053,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 5
     outdegreecentrality 7
-    betweennesscentrality 1384
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.113
+    betweennesscentrality 1421.66666666667
+    eigenvectorcentrality 8.85426208927516e-08
+    pagerank 0.00100066941360968
+    closeness 0.112639109697933
   ]
   node
   [
@@ -2068,10 +2068,10 @@ graph
     alldegreecentrality 18
     indegreecentrality 8
     outdegreecentrality 10
-    betweennesscentrality 48370
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.127
+    betweennesscentrality 39542
+    eigenvectorcentrality 9.31782228674411e-07
+    pagerank 0.00142571434384456
+    closeness 0.126506561914115
   ]
   node
   [
@@ -2084,9 +2084,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.143
+    eigenvectorcentrality 3.74813736497223e-06
+    pagerank 0.00112916630487708
+    closeness 0.142713264175647
   ]
   node
   [
@@ -2099,9 +2099,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.143
+    eigenvectorcentrality 3.74813736497112e-06
+    pagerank 0.00112916630487706
+    closeness 0.142713264175647
   ]
   node
   [
@@ -2113,10 +2113,10 @@ graph
     alldegreecentrality 18
     indegreecentrality 7
     outdegreecentrality 11
-    betweennesscentrality 32105
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.143
+    betweennesscentrality 25552
+    eigenvectorcentrality 3.79352777359626e-06
+    pagerank 0.00137091841411633
+    closeness 0.143044619422572
   ]
   node
   [
@@ -2129,9 +2129,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.143
+    eigenvectorcentrality 3.74813736497141e-06
+    pagerank 0.00112916630487701
+    closeness 0.142713264175647
   ]
   node
   [
@@ -2143,10 +2143,10 @@ graph
     alldegreecentrality 21
     indegreecentrality 9
     outdegreecentrality 12
-    betweennesscentrality 43024
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.166
+    betweennesscentrality 37673
+    eigenvectorcentrality 3.40771317620605e-05
+    pagerank 0.00176877457461399
+    closeness 0.165905631659056
   ]
   node
   [
@@ -2159,9 +2159,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.143
+    eigenvectorcentrality 3.74813736497349e-06
+    pagerank 0.00112916630487698
+    closeness 0.142713264175647
   ]
   node
   [
@@ -2174,9 +2174,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.101
+    eigenvectorcentrality 6.8309086727159e-09
+    pagerank 0.000495920519193716
+    closeness 0.101315601315601
   ]
   node
   [
@@ -2189,9 +2189,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.14
+    eigenvectorcentrality 2.94199871917772e-06
+    pagerank 0.000852449634866135
+    closeness 0.139867732701609
   ]
   node
   [
@@ -2203,10 +2203,10 @@ graph
     alldegreecentrality 29
     indegreecentrality 9
     outdegreecentrality 20
-    betweennesscentrality 71558
-    eigenvectorcentrality 0
-    pagerank 0.004
-    closeness 0.163
+    betweennesscentrality 57368
+    eigenvectorcentrality 3.26675453039282e-05
+    pagerank 0.00169672278837628
+    closeness 0.162537279192475
   ]
   node
   [
@@ -2219,9 +2219,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.14
+    eigenvectorcentrality 2.94199871917748e-06
+    pagerank 0.000852449634866132
+    closeness 0.139867732701609
   ]
   node
   [
@@ -2234,9 +2234,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.14
+    eigenvectorcentrality 2.94199871918044e-06
+    pagerank 0.000852449634866128
+    closeness 0.139867732701609
   ]
   node
   [
@@ -2249,9 +2249,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 7.8386050844939e-06
+    pagerank 0.000503144192569285
+    closeness 0.139812530833744
   ]
   node
   [
@@ -2263,10 +2263,10 @@ graph
     alldegreecentrality 20
     indegreecentrality 7
     outdegreecentrality 13
-    betweennesscentrality 18305.5
-    eigenvectorcentrality 0
-    pagerank 0.003
-    closeness 0.126
+    betweennesscentrality 16470
+    eigenvectorcentrality 3.24108540440324e-07
+    pagerank 0.00150901241489511
+    closeness 0.125520418106121
   ]
   node
   [
@@ -2278,10 +2278,10 @@ graph
     alldegreecentrality 4
     indegreecentrality 1
     outdegreecentrality 3
-    betweennesscentrality 0.5
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.112
+    betweennesscentrality 0
+    eigenvectorcentrality 2.47338197869868e-08
+    pagerank 0.000516714017900556
+    closeness 0.11154845312131
   ]
   node
   [
@@ -2294,9 +2294,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 2.60054127192446e-06
+    pagerank 0.00054333602057718
+    closeness 0.142326235435918
   ]
   node
   [
@@ -2309,9 +2309,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 3.25607655509793e-05
+    pagerank 0.000756576869344058
+    closeness 0.165305646290247
   ]
   node
   [
@@ -2324,9 +2324,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 3.25607655509825e-05
+    pagerank 0.000756576869344047
+    closeness 0.165305646290247
   ]
   node
   [
@@ -2339,9 +2339,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.112
+    eigenvectorcentrality 2.47338197869868e-08
+    pagerank 0.000516714017900556
+    closeness 0.111539672544081
   ]
   node
   [
@@ -2353,10 +2353,10 @@ graph
     alldegreecentrality 16
     indegreecentrality 6
     outdegreecentrality 10
-    betweennesscentrality 4804.8
-    eigenvectorcentrality 0.171
-    pagerank 0.002
-    closeness 0.185
+    betweennesscentrality 2436.28888888889
+    eigenvectorcentrality 0.17771031265363
+    pagerank 0.000865946497239522
+    closeness 0.184938658313756
   ]
   node
   [
@@ -2369,9 +2369,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.121
+    eigenvectorcentrality 1.05940796037741e-05
+    pagerank 0.000786511808568064
+    closeness 0.121328880897337
   ]
   node
   [
@@ -2384,9 +2384,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.121
+    eigenvectorcentrality 1.05940796037752e-05
+    pagerank 0.000786511808568062
+    closeness 0.121328880897337
   ]
   node
   [
@@ -2398,10 +2398,10 @@ graph
     alldegreecentrality 4
     indegreecentrality 1
     outdegreecentrality 3
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.162
+    betweennesscentrality 514
+    eigenvectorcentrality 3.44314873510508e-05
+    pagerank 0.0004760376111146
+    closeness 0.16175799086758
   ]
   node
   [
@@ -2413,10 +2413,10 @@ graph
     alldegreecentrality 4
     indegreecentrality 1
     outdegreecentrality 3
-    betweennesscentrality 1416
-    eigenvectorcentrality 0.075
-    pagerank 0.001
-    closeness 0.18
+    betweennesscentrality 514
+    eigenvectorcentrality 0.0763133848843601
+    pagerank 0.000472234320607267
+    closeness 0.180211115350375
   ]
   node
   [
@@ -2428,10 +2428,10 @@ graph
     alldegreecentrality 13
     indegreecentrality 3
     outdegreecentrality 10
-    betweennesscentrality 2111.4
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.142
+    betweennesscentrality 770.061904761904
+    eigenvectorcentrality 2.07970374843627e-06
+    pagerank 0.000659874013308874
+    closeness 0.141629185407296
   ]
   node
   [
@@ -2443,10 +2443,10 @@ graph
     alldegreecentrality 37
     indegreecentrality 11
     outdegreecentrality 26
-    betweennesscentrality 133734
-    eigenvectorcentrality 0
-    pagerank 0.004
-    closeness 0.165
+    betweennesscentrality 110175
+    eigenvectorcentrality 4.01788470018621e-05
+    pagerank 0.00162610282267488
+    closeness 0.165498715253445
   ]
   node
   [
@@ -2458,10 +2458,10 @@ graph
     alldegreecentrality 15
     indegreecentrality 5
     outdegreecentrality 10
-    betweennesscentrality 30312.4
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.186
+    betweennesscentrality 25968.35
+    eigenvectorcentrality 0.000307526204115611
+    pagerank 0.000910525694549378
+    closeness 0.186104544260573
   ]
   node
   [
@@ -2473,10 +2473,10 @@ graph
     alldegreecentrality 13
     indegreecentrality 5
     outdegreecentrality 8
-    betweennesscentrality 7064
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.161
+    betweennesscentrality 6794
+    eigenvectorcentrality 2.82887475919395e-05
+    pagerank 0.00120229060283206
+    closeness 0.161150915500967
   ]
   node
   [
@@ -2488,10 +2488,10 @@ graph
     alldegreecentrality 4
     indegreecentrality 1
     outdegreecentrality 3
-    betweennesscentrality 1416
-    eigenvectorcentrality 0.004
-    pagerank 0.001
-    closeness 0.14
+    betweennesscentrality 514
+    eigenvectorcentrality 0.00414919789637856
+    pagerank 0.000497710280624141
+    closeness 0.14001976284585
   ]
   node
   [
@@ -2503,10 +2503,10 @@ graph
     alldegreecentrality 17
     indegreecentrality 5
     outdegreecentrality 12
-    betweennesscentrality 21104
-    eigenvectorcentrality 0.051
-    pagerank 0.002
-    closeness 0.163
+    betweennesscentrality 16079
+    eigenvectorcentrality 0.0543705131500323
+    pagerank 0.0011246464811597
+    closeness 0.162742620879752
   ]
   node
   [
@@ -2519,9 +2519,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0.142
-    pagerank 0.001
-    closeness 0.187
+    eigenvectorcentrality 0.146650472997699
+    pagerank 0.000593938221873571
+    closeness 0.187384289870405
   ]
   node
   [
@@ -2533,10 +2533,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 2
     outdegreecentrality 6
-    betweennesscentrality 8475
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.125
+    betweennesscentrality 5898
+    eigenvectorcentrality 6.14613880197382e-07
+    pagerank 0.000686089844649907
+    closeness 0.125420428394406
   ]
   node
   [
@@ -2548,10 +2548,10 @@ graph
     alldegreecentrality 22
     indegreecentrality 10
     outdegreecentrality 12
-    betweennesscentrality 11272
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.143
+    betweennesscentrality 8315
+    eigenvectorcentrality 8.00663693371656e-06
+    pagerank 0.00149900540429418
+    closeness 0.143203638201112
   ]
   node
   [
@@ -2564,9 +2564,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.142
+    eigenvectorcentrality 0.000124383635908352
+    pagerank 0.000533904950164505
+    closeness 0.14188444978472
   ]
   node
   [
@@ -2579,9 +2579,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0.001
-    closeness 0.159
+    eigenvectorcentrality 0.00126828536403212
+    pagerank 0.000471694519994647
+    closeness 0.159088357471652
   ]
   node
   [
@@ -2593,10 +2593,10 @@ graph
     alldegreecentrality 23
     indegreecentrality 6
     outdegreecentrality 17
-    betweennesscentrality 60195.7
-    eigenvectorcentrality 0.016
-    pagerank 0.003
-    closeness 0.189
+    betweennesscentrality 40631.0655905498
+    eigenvectorcentrality 0.0166194353186402
+    pagerank 0.00107293396905226
+    closeness 0.18913507741591
   ]
   node
   [
@@ -2609,9 +2609,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0.009
-    pagerank 0.001
-    closeness 0.206
+    eigenvectorcentrality 0.00973299349757792
+    pagerank 0.000788881713153598
+    closeness 0.206319161327897
   ]
   node
   [
@@ -2624,9 +2624,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0.009
-    pagerank 0.001
-    closeness 0.206
+    eigenvectorcentrality 0.00973299349757792
+    pagerank 0.000788881713153591
+    closeness 0.206319161327897
   ]
   node
   [
@@ -2638,10 +2638,10 @@ graph
     alldegreecentrality 14
     indegreecentrality 4
     outdegreecentrality 10
-    betweennesscentrality 23869
-    eigenvectorcentrality 0.009
-    pagerank 0.002
-    closeness 0.179
+    betweennesscentrality 14300
+    eigenvectorcentrality 0.0090964100267881
+    pagerank 0.000917290779415289
+    closeness 0.17900454775139
   ]
   node
   [
@@ -2654,9 +2654,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0.001
-    closeness 0.152
+    eigenvectorcentrality 0.000694177839440227
+    pagerank 0.000496017537792323
+    closeness 0.151859393419784
   ]
   node
   [
@@ -2668,10 +2668,10 @@ graph
     alldegreecentrality 16
     indegreecentrality 6
     outdegreecentrality 10
-    betweennesscentrality 5655.5
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.144
+    betweennesscentrality 3466
+    eigenvectorcentrality 0.00018830136345345
+    pagerank 0.00109994619204723
+    closeness 0.143843264643183
   ]
   node
   [
@@ -2683,10 +2683,10 @@ graph
     alldegreecentrality 4
     indegreecentrality 1
     outdegreecentrality 3
-    betweennesscentrality 0.5
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.126
+    betweennesscentrality 0
+    eigenvectorcentrality 1.43699144234743e-05
+    pagerank 0.000511543247866051
+    closeness 0.125787838437639
   ]
   node
   [
@@ -2699,9 +2699,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 2.97453720729693e-05
+    pagerank 0.000656534072892985
+    closeness 0.164690841469084
   ]
   node
   [
@@ -2714,9 +2714,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 2.97453720729765e-05
+    pagerank 0.000656534072892983
+    closeness 0.164690841469084
   ]
   node
   [
@@ -2729,9 +2729,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573306
+    closeness 0.164671702498547
   ]
   node
   [
@@ -2744,9 +2744,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.024
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148916
+    closeness 0.169985604606526
   ]
   node
   [
@@ -2758,10 +2758,10 @@ graph
     alldegreecentrality 33
     indegreecentrality 14
     outdegreecentrality 19
-    betweennesscentrality 234467.1
-    eigenvectorcentrality 0.264
-    pagerank 0.003
-    closeness 0.24
+    betweennesscentrality 170968.820839773
+    eigenvectorcentrality 0.27167961599505
+    pagerank 0.00136317293290199
+    closeness 0.240332428765265
   ]
   node
   [
@@ -2773,10 +2773,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 3
     outdegreecentrality 5
-    betweennesscentrality 715.8
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.188
+    betweennesscentrality 318.833333333333
+    eigenvectorcentrality 0.000356359131240604
+    pagerank 0.000683472683466553
+    closeness 0.187682119205298
   ]
   node
   [
@@ -2789,9 +2789,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.185
+    eigenvectorcentrality 0.000324368924824328
+    pagerank 0.000577927207857104
+    closeness 0.184938658313756
   ]
   node
   [
@@ -2803,10 +2803,10 @@ graph
     alldegreecentrality 28
     indegreecentrality 5
     outdegreecentrality 23
-    betweennesscentrality 36428.2
-    eigenvectorcentrality 0.009
-    pagerank 0.005
-    closeness 0.179
+    betweennesscentrality 18891.3333333333
+    eigenvectorcentrality 0.00917086179499698
+    pagerank 0.000897340181124422
+    closeness 0.179412509496075
   ]
   node
   [
@@ -2818,10 +2818,10 @@ graph
     alldegreecentrality 20
     indegreecentrality 8
     outdegreecentrality 12
-    betweennesscentrality 27977
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.141
+    betweennesscentrality 21312
+    eigenvectorcentrality 3.33937612673652e-06
+    pagerank 0.00138005280295504
+    closeness 0.140631202858277
   ]
   node
   [
@@ -2833,10 +2833,10 @@ graph
     alldegreecentrality 13
     indegreecentrality 5
     outdegreecentrality 8
-    betweennesscentrality 19655
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.141
+    betweennesscentrality 16926
+    eigenvectorcentrality 3.2620966621944e-06
+    pagerank 0.00098222411916687
+    closeness 0.1405475104146
   ]
   node
   [
@@ -2849,9 +2849,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.14
+    eigenvectorcentrality 3.24433811502212e-06
+    pagerank 0.000834064569781693
+    closeness 0.140352614896989
   ]
   node
   [
@@ -2864,9 +2864,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.14
+    eigenvectorcentrality 3.24433811502021e-06
+    pagerank 0.000834064569781682
+    closeness 0.140352614896989
   ]
   node
   [
@@ -2879,9 +2879,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 2.97453720729747e-05
+    pagerank 0.000656534072892985
+    closeness 0.164690841469084
   ]
   node
   [
@@ -2894,9 +2894,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 2.97453720729716e-05
+    pagerank 0.000656534072892983
+    closeness 0.164690841469084
   ]
   node
   [
@@ -2909,9 +2909,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.112
+    eigenvectorcentrality 2.92200097504283e-08
+    pagerank 0.000863243672382044
+    closeness 0.111583589258997
   ]
   node
   [
@@ -2923,10 +2923,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 5
     outdegreecentrality 7
-    betweennesscentrality 4242
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.112
+    betweennesscentrality 4364
+    eigenvectorcentrality 2.95664006685214e-08
+    pagerank 0.00134309719847312
+    closeness 0.111609955891619
   ]
   node
   [
@@ -2939,9 +2939,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.112
+    eigenvectorcentrality 2.92200097482581e-08
+    pagerank 0.000863243672382025
+    closeness 0.111583589258997
   ]
   node
   [
@@ -2953,10 +2953,10 @@ graph
     alldegreecentrality 25
     indegreecentrality 9
     outdegreecentrality 16
-    betweennesscentrality 27182
-    eigenvectorcentrality 0.001
-    pagerank 0.003
-    closeness 0.175
+    betweennesscentrality 24627.8621212121
+    eigenvectorcentrality 0.00111799609709518
+    pagerank 0.0016216145911296
+    closeness 0.175132863675689
   ]
   node
   [
@@ -2968,10 +2968,10 @@ graph
     alldegreecentrality 16
     indegreecentrality 4
     outdegreecentrality 12
-    betweennesscentrality 22499
-    eigenvectorcentrality 0
-    pagerank 0.003
-    closeness 0.165
+    betweennesscentrality 16583
+    eigenvectorcentrality 2.79938751698958e-05
+    pagerank 0.000976396596255854
+    closeness 0.165286364166569
   ]
   node
   [
@@ -2984,9 +2984,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.149
+    eigenvectorcentrality 0.000123202029919092
+    pagerank 0.000602843207387609
+    closeness 0.149378030782205
   ]
   node
   [
@@ -2999,9 +2999,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.149
+    eigenvectorcentrality 9.24574502857683e-05
+    pagerank 0.00066754363032798
+    closeness 0.149126499684277
   ]
   node
   [
@@ -3013,10 +3013,10 @@ graph
     alldegreecentrality 10
     indegreecentrality 4
     outdegreecentrality 6
-    betweennesscentrality 4242
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.149
+    betweennesscentrality 4364
+    eigenvectorcentrality 9.35534944459439e-05
+    pagerank 0.00115304141387567
+    closeness 0.14917359722076
   ]
   node
   [
@@ -3028,10 +3028,10 @@ graph
     alldegreecentrality 10
     indegreecentrality 3
     outdegreecentrality 7
-    betweennesscentrality 1417.2
-    eigenvectorcentrality 0.001
-    pagerank 0.002
-    closeness 0.152
+    betweennesscentrality 514.333333333333
+    eigenvectorcentrality 0.000825916468581207
+    pagerank 0.000596352153083051
+    closeness 0.152316457056863
   ]
   node
   [
@@ -3043,10 +3043,10 @@ graph
     alldegreecentrality 14
     indegreecentrality 3
     outdegreecentrality 11
-    betweennesscentrality 5662.2
-    eigenvectorcentrality 0.001
-    pagerank 0.002
-    closeness 0.152
+    betweennesscentrality 2057.33333333333
+    eigenvectorcentrality 0.000825916468581208
+    pagerank 0.000620795761527682
+    closeness 0.152381976556619
   ]
   node
   [
@@ -3059,9 +3059,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.116
+    eigenvectorcentrality 4.37667947943255e-07
+    pagerank 0.000531738524515744
+    closeness 0.115550844002283
   ]
   node
   [
@@ -3073,10 +3073,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 4
     outdegreecentrality 8
-    betweennesscentrality 8477
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.131
+    betweennesscentrality 5901
+    eigenvectorcentrality 5.73514002305705e-06
+    pagerank 0.00107003014563488
+    closeness 0.130623156342183
   ]
   node
   [
@@ -3089,9 +3089,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.125
+    eigenvectorcentrality 4.79616552499122e-07
+    pagerank 0.000789896082386468
+    closeness 0.124933874096279
   ]
   node
   [
@@ -3104,9 +3104,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.125
+    eigenvectorcentrality 4.79616552502881e-07
+    pagerank 0.000789896082386468
+    closeness 0.124933874096279
   ]
   node
   [
@@ -3118,10 +3118,10 @@ graph
     alldegreecentrality 6
     indegreecentrality 2
     outdegreecentrality 4
-    betweennesscentrality 1416
-    eigenvectorcentrality 0.003
-    pagerank 0.001
-    closeness 0.211
+    betweennesscentrality 514
+    eigenvectorcentrality 0.00357018949000734
+    pagerank 0.000529016059371425
+    closeness 0.210674992566161
   ]
   node
   [
@@ -3133,10 +3133,10 @@ graph
     alldegreecentrality 16
     indegreecentrality 6
     outdegreecentrality 10
-    betweennesscentrality 10527
-    eigenvectorcentrality 0
-    pagerank 0.003
-    closeness 0.139
+    betweennesscentrality 5936.5
+    eigenvectorcentrality 2.46308494863245e-05
+    pagerank 0.000863338094919316
+    closeness 0.13934506834497
   ]
   node
   [
@@ -3149,9 +3149,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.152
+    eigenvectorcentrality 8.42821219032583e-05
+    pagerank 0.000646433502883685
+    closeness 0.152136568606399
   ]
   node
   [
@@ -3163,10 +3163,10 @@ graph
     alldegreecentrality 16
     indegreecentrality 6
     outdegreecentrality 10
-    betweennesscentrality 14093
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.142
+    betweennesscentrality 13545
+    eigenvectorcentrality 3.18156811589327e-06
+    pagerank 0.00133276699386799
+    closeness 0.142311941347796
   ]
   node
   [
@@ -3179,9 +3179,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.125
+    eigenvectorcentrality 2.42796232165678e-07
+    pagerank 0.000531333016020318
+    closeness 0.124604291241646
   ]
   node
   [
@@ -3193,10 +3193,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 3
     outdegreecentrality 5
-    betweennesscentrality 2830
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.15
+    betweennesscentrality 2441
+    eigenvectorcentrality 6.81640172561525e-05
+    pagerank 0.000817390608110724
+    closeness 0.149867794817557
   ]
   node
   [
@@ -3208,10 +3208,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 4
     outdegreecentrality 8
-    betweennesscentrality 15485
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.15
+    betweennesscentrality 11242
+    eigenvectorcentrality 6.86040662277154e-05
+    pagerank 0.000914346491903295
+    closeness 0.150010586491637
   ]
   node
   [
@@ -3223,10 +3223,10 @@ graph
     alldegreecentrality 16
     indegreecentrality 4
     outdegreecentrality 12
-    betweennesscentrality 41958
-    eigenvectorcentrality 0.001
-    pagerank 0.003
-    closeness 0.18
+    betweennesscentrality 28142.9999591052
+    eigenvectorcentrality 0.000791462158400409
+    pagerank 0.000857506609860389
+    closeness 0.180394653087206
   ]
   node
   [
@@ -3239,9 +3239,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.126
+    eigenvectorcentrality 9.12492697474582e-07
+    pagerank 0.00109913110764213
+    closeness 0.126112495550018
   ]
   node
   [
@@ -3253,10 +3253,10 @@ graph
     alldegreecentrality 30
     indegreecentrality 14
     outdegreecentrality 16
-    betweennesscentrality 57750
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.144
+    betweennesscentrality 49581
+    eigenvectorcentrality 8.28791729336462e-06
+    pagerank 0.002119577327723
+    closeness 0.143697393773451
   ]
   node
   [
@@ -3269,9 +3269,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.126
+    eigenvectorcentrality 9.12492697466931e-07
+    pagerank 0.00109913110763658
+    closeness 0.126112495550018
   ]
   node
   [
@@ -3284,9 +3284,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.126
+    eigenvectorcentrality 9.12492697453055e-07
+    pagerank 0.00109913110763029
+    closeness 0.126112495550018
   ]
   node
   [
@@ -3298,10 +3298,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 5
     outdegreecentrality 7
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.126
+    betweennesscentrality 514
+    eigenvectorcentrality 9.12492697462131e-07
+    pagerank 0.00111896680701762
+    closeness 0.126123720516244
   ]
   node
   [
@@ -3313,10 +3313,10 @@ graph
     alldegreecentrality 4
     indegreecentrality 1
     outdegreecentrality 3
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.116
+    betweennesscentrality 514
+    eigenvectorcentrality 4.37667947943255e-07
+    pagerank 0.000531738524515744
+    closeness 0.115569692521002
   ]
   node
   [
@@ -3328,10 +3328,10 @@ graph
     alldegreecentrality 5
     indegreecentrality 1
     outdegreecentrality 4
-    betweennesscentrality 1416.5
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.161
+    betweennesscentrality 514
+    eigenvectorcentrality 3.08048030296724e-05
+    pagerank 0.000459271760032257
+    closeness 0.160675813584307
   ]
   node
   [
@@ -3343,10 +3343,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 3
     outdegreecentrality 5
-    betweennesscentrality 1286.5
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.159
+    betweennesscentrality 836.747619047621
+    eigenvectorcentrality 0.000152113150746383
+    pagerank 0.000671502365661127
+    closeness 0.159464325905919
   ]
   node
   [
@@ -3358,10 +3358,10 @@ graph
     alldegreecentrality 11
     indegreecentrality 4
     outdegreecentrality 7
-    betweennesscentrality 1844.7
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.16
+    betweennesscentrality 1308.51428571429
+    eigenvectorcentrality 0.000157398458652501
+    pagerank 0.000848788714749046
+    closeness 0.159500225123818
   ]
   node
   [
@@ -3374,9 +3374,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.00047105522262545
+    closeness 0.126134947480862
   ]
   node
   [
@@ -3388,10 +3388,10 @@ graph
     alldegreecentrality 20
     indegreecentrality 9
     outdegreecentrality 11
-    betweennesscentrality 2119.5
-    eigenvectorcentrality 0.095
-    pagerank 0.001
-    closeness 0.174
+    betweennesscentrality 1474.5
+    eigenvectorcentrality 0.102132874717316
+    pagerank 0.00141180167958871
+    closeness 0.174014490973843
   ]
   node
   [
@@ -3403,10 +3403,10 @@ graph
     alldegreecentrality 6
     indegreecentrality 2
     outdegreecentrality 4
-    betweennesscentrality 1416
-    eigenvectorcentrality 0.014
-    pagerank 0.001
-    closeness 0.148
+    betweennesscentrality 514
+    eigenvectorcentrality 0.0155882107552975
+    pagerank 0.000636235353841142
+    closeness 0.148299319727891
   ]
   node
   [
@@ -3418,10 +3418,10 @@ graph
     alldegreecentrality 20
     indegreecentrality 9
     outdegreecentrality 11
-    betweennesscentrality 2119.5
-    eigenvectorcentrality 0.095
-    pagerank 0.001
-    closeness 0.174
+    betweennesscentrality 1474.5
+    eigenvectorcentrality 0.102132874717316
+    pagerank 0.00141180167958732
+    closeness 0.174014490973843
   ]
   node
   [
@@ -3434,9 +3434,9 @@ graph
     indegreecentrality 7
     outdegreecentrality 8
     betweennesscentrality 0
-    eigenvectorcentrality 0.172
-    pagerank 0.001
-    closeness 0.181
+    eigenvectorcentrality 0.180381799751441
+    pagerank 0.00115270347674232
+    closeness 0.18085513720485
   ]
   node
   [
@@ -3448,10 +3448,10 @@ graph
     alldegreecentrality 34
     indegreecentrality 15
     outdegreecentrality 19
-    betweennesscentrality 8135.8
-    eigenvectorcentrality 0.363
-    pagerank 0.003
-    closeness 0.192
+    betweennesscentrality 7336.96703633483
+    eigenvectorcentrality 0.379393051944728
+    pagerank 0.00198099699471981
+    closeness 0.191512366536018
   ]
   node
   [
@@ -3464,9 +3464,9 @@ graph
     indegreecentrality 7
     outdegreecentrality 8
     betweennesscentrality 0
-    eigenvectorcentrality 0.172
-    pagerank 0.001
-    closeness 0.181
+    eigenvectorcentrality 0.180381799751441
+    pagerank 0.00115270347674186
+    closeness 0.18085513720485
   ]
   node
   [
@@ -3478,10 +3478,10 @@ graph
     alldegreecentrality 32
     indegreecentrality 15
     outdegreecentrality 17
-    betweennesscentrality 2298.9
-    eigenvectorcentrality 0.249
-    pagerank 0.002
-    closeness 0.182
+    betweennesscentrality 2270.48937908497
+    eigenvectorcentrality 0.262777808371324
+    pagerank 0.00203893257513759
+    closeness 0.181923225060983
   ]
   node
   [
@@ -3494,9 +3494,9 @@ graph
     indegreecentrality 7
     outdegreecentrality 8
     betweennesscentrality 0
-    eigenvectorcentrality 0.172
-    pagerank 0.001
-    closeness 0.181
+    eigenvectorcentrality 0.180381799751441
+    pagerank 0.00115270347674065
+    closeness 0.18085513720485
   ]
   node
   [
@@ -3509,9 +3509,9 @@ graph
     indegreecentrality 7
     outdegreecentrality 8
     betweennesscentrality 0
-    eigenvectorcentrality 0.172
-    pagerank 0.001
-    closeness 0.181
+    eigenvectorcentrality 0.180381799751441
+    pagerank 0.00115270347673998
+    closeness 0.18085513720485
   ]
   node
   [
@@ -3524,9 +3524,9 @@ graph
     indegreecentrality 7
     outdegreecentrality 8
     betweennesscentrality 0
-    eigenvectorcentrality 0.172
-    pagerank 0.001
-    closeness 0.181
+    eigenvectorcentrality 0.180381799751441
+    pagerank 0.00115270347673924
+    closeness 0.18085513720485
   ]
   node
   [
@@ -3539,9 +3539,9 @@ graph
     indegreecentrality 8
     outdegreecentrality 9
     betweennesscentrality 0
-    eigenvectorcentrality 0.094
-    pagerank 0.001
-    closeness 0.174
+    eigenvectorcentrality 0.101027630516386
+    pagerank 0.00126611765455947
+    closeness 0.173950405106801
   ]
   node
   [
@@ -3554,9 +3554,9 @@ graph
     indegreecentrality 8
     outdegreecentrality 9
     betweennesscentrality 0
-    eigenvectorcentrality 0.094
-    pagerank 0.001
-    closeness 0.174
+    eigenvectorcentrality 0.101027630516386
+    pagerank 0.00126611765455838
+    closeness 0.173950405106801
   ]
   node
   [
@@ -3569,9 +3569,9 @@ graph
     indegreecentrality 8
     outdegreecentrality 9
     betweennesscentrality 0
-    eigenvectorcentrality 0.094
-    pagerank 0.001
-    closeness 0.174
+    eigenvectorcentrality 0.101027630516386
+    pagerank 0.00126611765455718
+    closeness 0.173950405106801
   ]
   node
   [
@@ -3583,10 +3583,10 @@ graph
     alldegreecentrality 20
     indegreecentrality 9
     outdegreecentrality 11
-    betweennesscentrality 4242
-    eigenvectorcentrality 0.094
-    pagerank 0.001
-    closeness 0.174
+    betweennesscentrality 2953
+    eigenvectorcentrality 0.101577246213755
+    pagerank 0.00142521560323825
+    closeness 0.174014490973843
   ]
   node
   [
@@ -3598,10 +3598,10 @@ graph
     alldegreecentrality 18
     indegreecentrality 8
     outdegreecentrality 10
-    betweennesscentrality 1416
-    eigenvectorcentrality 0.094
-    pagerank 0.001
-    closeness 0.174
+    betweennesscentrality 514
+    eigenvectorcentrality 0.101027630516386
+    pagerank 0.00127713864796338
+    closeness 0.173971761817066
   ]
   node
   [
@@ -3613,10 +3613,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 3
     outdegreecentrality 5
-    betweennesscentrality 1416
-    eigenvectorcentrality 0.134
-    pagerank 0.001
-    closeness 0.181
+    betweennesscentrality 514
+    eigenvectorcentrality 0.138050417731945
+    pagerank 0.000612255586188603
+    closeness 0.180878223129946
   ]
   node
   [
@@ -3629,9 +3629,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.152
+    eigenvectorcentrality 7.45432488837317e-05
+    pagerank 0.000586581698831302
+    closeness 0.151599443671766
   ]
   node
   [
@@ -3644,9 +3644,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.125
+    eigenvectorcentrality 3.15569735566737e-07
+    pagerank 0.000997499660443949
+    closeness 0.124659100906132
   ]
   node
   [
@@ -3658,10 +3658,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 5
     outdegreecentrality 7
-    betweennesscentrality 1414
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.125
+    betweennesscentrality 1219
+    eigenvectorcentrality 3.19022074479197e-07
+    pagerank 0.00122125995002316
+    closeness 0.124681038275407
   ]
   node
   [
@@ -3674,9 +3674,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.125
+    eigenvectorcentrality 3.15569735568275e-07
+    pagerank 0.000997499660442949
+    closeness 0.124659100906132
   ]
   node
   [
@@ -3688,10 +3688,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 5
     outdegreecentrality 7
-    betweennesscentrality 1414
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.125
+    betweennesscentrality 1219
+    eigenvectorcentrality 3.19022074480252e-07
+    pagerank 0.00122125995002191
+    closeness 0.124681038275407
   ]
   node
   [
@@ -3703,10 +3703,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 4
     outdegreecentrality 8
-    betweennesscentrality 16881
-    eigenvectorcentrality 0.071
-    pagerank 0.002
-    closeness 0.178
+    betweennesscentrality 11748
+    eigenvectorcentrality 0.0731658634136839
+    pagerank 0.000823880601293822
+    closeness 0.177948009544142
   ]
   node
   [
@@ -3719,9 +3719,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.1
+    eigenvectorcentrality 2.44272470205746e-09
+    pagerank 0.000810890505547438
+    closeness 0.100425230333097
   ]
   node
   [
@@ -3734,9 +3734,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.1
+    eigenvectorcentrality 2.44272470182587e-09
+    pagerank 0.000810890505547428
+    closeness 0.100425230333097
   ]
   node
   [
@@ -3749,9 +3749,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.122
+    eigenvectorcentrality 2.03668739194781e-06
+    pagerank 0.000679166363649699
+    closeness 0.122323895027624
   ]
   node
   [
@@ -3764,9 +3764,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.122
+    eigenvectorcentrality 2.03668739194698e-06
+    pagerank 0.000679166363649699
+    closeness 0.122323895027624
   ]
   node
   [
@@ -3778,10 +3778,10 @@ graph
     alldegreecentrality 10
     indegreecentrality 4
     outdegreecentrality 6
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.138
+    betweennesscentrality 514
+    eigenvectorcentrality 0.000140382778601516
+    pagerank 0.000974434417974813
+    closeness 0.137867289355906
   ]
   node
   [
@@ -3793,10 +3793,10 @@ graph
     alldegreecentrality 15
     indegreecentrality 6
     outdegreecentrality 9
-    betweennesscentrality 64436
-    eigenvectorcentrality 0.002
-    pagerank 0.002
-    closeness 0.167
+    betweennesscentrality 44018
+    eigenvectorcentrality 0.00169280475891981
+    pagerank 0.00099142488800033
+    closeness 0.167020273455917
   ]
   node
   [
@@ -3809,9 +3809,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.026
-    pagerank 0.001
-    closeness 0.17
+    eigenvectorcentrality 0.0266594360945415
+    pagerank 0.000650555917882192
+    closeness 0.17000599880024
   ]
   node
   [
@@ -3824,9 +3824,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.026
-    pagerank 0.001
-    closeness 0.17
+    eigenvectorcentrality 0.0266594360945415
+    pagerank 0.000650555917882149
+    closeness 0.17000599880024
   ]
   node
   [
@@ -3839,9 +3839,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.01
-    pagerank 0.001
-    closeness 0.196
+    eigenvectorcentrality 0.0102115939303572
+    pagerank 0.00055799010229205
+    closeness 0.196423620737455
   ]
   node
   [
@@ -3853,10 +3853,10 @@ graph
     alldegreecentrality 18
     indegreecentrality 6
     outdegreecentrality 12
-    betweennesscentrality 3558.1
-    eigenvectorcentrality 0.046
-    pagerank 0.002
-    closeness 0.203
+    betweennesscentrality 3059.72599067599
+    eigenvectorcentrality 0.0480202890386018
+    pagerank 0.00121917264975986
+    closeness 0.203387397732166
   ]
   node
   [
@@ -3869,9 +3869,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138663274292984
   ]
   node
   [
@@ -3883,10 +3883,10 @@ graph
     alldegreecentrality 6
     indegreecentrality 2
     outdegreecentrality 4
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.157
+    betweennesscentrality 514
+    eigenvectorcentrality 2.54899963138437e-05
+    pagerank 0.000524932638044447
+    closeness 0.157043112046991
   ]
   node
   [
@@ -3898,10 +3898,10 @@ graph
     alldegreecentrality 4
     indegreecentrality 1
     outdegreecentrality 3
-    betweennesscentrality 1416
-    eigenvectorcentrality 0.024
-    pagerank 0.001
-    closeness 0.17
+    betweennesscentrality 514
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148916
+    closeness 0.170026397888169
   ]
   node
   [
@@ -3914,9 +3914,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.139
+    eigenvectorcentrality 2.54764961395603e-06
+    pagerank 0.000949202083639894
+    closeness 0.138839898099157
   ]
   node
   [
@@ -3929,9 +3929,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.139
+    eigenvectorcentrality 2.54764961396027e-06
+    pagerank 0.00094920208363989
+    closeness 0.138839898099157
   ]
   node
   [
@@ -3944,9 +3944,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.139
+    eigenvectorcentrality 2.54764961395874e-06
+    pagerank 0.000949202083639885
+    closeness 0.138839898099157
   ]
   node
   [
@@ -3959,9 +3959,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 3.97863027020143e-05
+    pagerank 0.00103192408326805
+    closeness 0.164767441860465
   ]
   node
   [
@@ -3974,9 +3974,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 3.97863027020039e-05
+    pagerank 0.00103192408326804
+    closeness 0.164767441860465
   ]
   node
   [
@@ -3989,9 +3989,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 3.97863027020176e-05
+    pagerank 0.00103192408326804
+    closeness 0.164767441860465
   ]
   node
   [
@@ -4004,9 +4004,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 3.97863027020152e-05
+    pagerank 0.00103192408326803
+    closeness 0.164767441860465
   ]
   node
   [
@@ -4018,10 +4018,10 @@ graph
     alldegreecentrality 14
     indegreecentrality 6
     outdegreecentrality 8
-    betweennesscentrality 714
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.165
+    betweennesscentrality 265
+    eigenvectorcentrality 4.19614248239307e-05
+    pagerank 0.00115614364523128
+    closeness 0.164824938932186
   ]
   node
   [
@@ -4033,10 +4033,10 @@ graph
     alldegreecentrality 7
     indegreecentrality 2
     outdegreecentrality 5
-    betweennesscentrality 2121.5
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    betweennesscentrality 769
+    eigenvectorcentrality 3.06776204083054e-05
+    pagerank 0.000593356347879122
+    closeness 0.164767441860465
   ]
   node
   [
@@ -4049,9 +4049,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.011
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.012040820013325
+    pagerank 0.000521402310815676
+    closeness 0.151664347639944
   ]
   node
   [
@@ -4063,10 +4063,10 @@ graph
     alldegreecentrality 14
     indegreecentrality 5
     outdegreecentrality 9
-    betweennesscentrality 2132
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.126
+    betweennesscentrality 778
+    eigenvectorcentrality 2.09458962181893e-05
+    pagerank 0.000954371893802998
+    closeness 0.126258576138287
   ]
   node
   [
@@ -4078,10 +4078,10 @@ graph
     alldegreecentrality 15
     indegreecentrality 6
     outdegreecentrality 9
-    betweennesscentrality 11279
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.11
+    betweennesscentrality 11122
+    eigenvectorcentrality 1.99499158146507e-08
+    pagerank 0.00136528021676428
+    closeness 0.110066801304956
   ]
   node
   [
@@ -4093,10 +4093,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 5
     outdegreecentrality 7
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.099
+    betweennesscentrality 514
+    eigenvectorcentrality 2.19136864103777e-09
+    pagerank 0.00123368843848969
+    closeness 0.0992088496814395
   ]
   node
   [
@@ -4109,9 +4109,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.099
+    eigenvectorcentrality 2.19136863459515e-09
+    pagerank 0.00121181909182144
+    closeness 0.0992019042285074
   ]
   node
   [
@@ -4124,9 +4124,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.099
+    eigenvectorcentrality 2.19136863172e-09
+    pagerank 0.00121181909182074
+    closeness 0.0992019042285074
   ]
   node
   [
@@ -4139,9 +4139,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.099
+    eigenvectorcentrality 2.1913686377375e-09
+    pagerank 0.00121181909181992
+    closeness 0.0992019042285074
   ]
   node
   [
@@ -4154,9 +4154,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.099
+    eigenvectorcentrality 2.19136864353686e-09
+    pagerank 0.00121181909181897
+    closeness 0.0992019042285074
   ]
   node
   [
@@ -4169,9 +4169,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.122
+    eigenvectorcentrality 1.88126088311685e-06
+    pagerank 0.000486735893948951
+    closeness 0.122313336210617
   ]
   node
   [
@@ -4183,10 +4183,10 @@ graph
     alldegreecentrality 16
     indegreecentrality 6
     outdegreecentrality 10
-    betweennesscentrality 12687
-    eigenvectorcentrality 0.001
-    pagerank 0.002
-    closeness 0.16
+    betweennesscentrality 10230
+    eigenvectorcentrality 0.00141840810392415
+    pagerank 0.00111831928744582
+    closeness 0.159769985342203
   ]
   node
   [
@@ -4199,9 +4199,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.008
-    pagerank 0
-    closeness 0.178
+    eigenvectorcentrality 0.00892836770311204
+    pagerank 0.000488019814259706
+    closeness 0.178238993710692
   ]
   node
   [
@@ -4214,9 +4214,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.157
+    eigenvectorcentrality 7.15155581390568e-05
+    pagerank 0.000709693048663542
+    closeness 0.156782473998672
   ]
   node
   [
@@ -4228,10 +4228,10 @@ graph
     alldegreecentrality 19
     indegreecentrality 7
     outdegreecentrality 12
-    betweennesscentrality 38814.8
-    eigenvectorcentrality 0
-    pagerank 0.003
-    closeness 0.166
+    betweennesscentrality 28291.3666257719
+    eigenvectorcentrality 7.41522279313019e-05
+    pagerank 0.00113075862704081
+    closeness 0.166217008797654
   ]
   node
   [
@@ -4244,9 +4244,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.157
+    eigenvectorcentrality 7.15155581390616e-05
+    pagerank 0.000709693048663542
+    closeness 0.156782473998672
   ]
   node
   [
@@ -4258,10 +4258,10 @@ graph
     alldegreecentrality 10
     indegreecentrality 4
     outdegreecentrality 6
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.138
+    betweennesscentrality 514
+    eigenvectorcentrality 0.000140382778601512
+    pagerank 0.000974434417974806
+    closeness 0.137867289355906
   ]
   node
   [
@@ -4274,9 +4274,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0.001
-    closeness 0.152
+    eigenvectorcentrality 0.00069985950588287
+    pagerank 0.000451210393453152
+    closeness 0.152152904542038
   ]
   node
   [
@@ -4289,9 +4289,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.073
-    pagerank 0
-    closeness 0.167
+    eigenvectorcentrality 0.0782356463074075
+    pagerank 0.000576962413656542
+    closeness 0.167197640117994
   ]
   node
   [
@@ -4303,10 +4303,10 @@ graph
     alldegreecentrality 63
     indegreecentrality 26
     outdegreecentrality 37
-    betweennesscentrality 49459
-    eigenvectorcentrality 0.614
-    pagerank 0.005
-    closeness 0.193
+    betweennesscentrality 40003.9837859509
+    eigenvectorcentrality 0.645795994851722
+    pagerank 0.00305972772587457
+    closeness 0.193499931721972
   ]
   node
   [
@@ -4319,9 +4319,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.172
+    eigenvectorcentrality 0.000669247768541591
+    pagerank 0.00047291015931557
+    closeness 0.172007768875941
   ]
   node
   [
@@ -4333,10 +4333,10 @@ graph
     alldegreecentrality 15
     indegreecentrality 3
     outdegreecentrality 12
-    betweennesscentrality 12707
-    eigenvectorcentrality 0.001
-    pagerank 0.003
-    closeness 0.152
+    betweennesscentrality 6032
+    eigenvectorcentrality 0.000755957893507012
+    pagerank 0.000857236831748445
+    closeness 0.152169243986254
   ]
   node
   [
@@ -4349,9 +4349,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.155
+    eigenvectorcentrality 0.000101186788106599
+    pagerank 0.000927891220668747
+    closeness 0.155202628696605
   ]
   node
   [
@@ -4364,9 +4364,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.155
+    eigenvectorcentrality 0.000101186788106595
+    pagerank 0.000927891220668659
+    closeness 0.155202628696605
   ]
   node
   [
@@ -4379,9 +4379,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.155
+    eigenvectorcentrality 0.000101186788106601
+    pagerank 0.000927891220668549
+    closeness 0.155202628696605
   ]
   node
   [
@@ -4393,10 +4393,10 @@ graph
     alldegreecentrality 11
     indegreecentrality 3
     outdegreecentrality 8
-    betweennesscentrality 7069
-    eigenvectorcentrality 0.003
-    pagerank 0.002
-    closeness 0.178
+    betweennesscentrality 3980
+    eigenvectorcentrality 0.00262012199762274
+    pagerank 0.000759931472451773
+    closeness 0.178082191780822
   ]
   node
   [
@@ -4409,9 +4409,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0.001
-    closeness 0.177
+    eigenvectorcentrality 0.00288404752303876
+    pagerank 0.00056716498497675
+    closeness 0.176551208572141
   ]
   node
   [
@@ -4424,9 +4424,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.17
+    eigenvectorcentrality 0.000454822875370467
+    pagerank 0.000478675404927963
+    closeness 0.170292032207667
   ]
   node
   [
@@ -4439,9 +4439,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.169
+    eigenvectorcentrality 0.00366459079966103
+    pagerank 0.000504405884233333
+    closeness 0.169052732044858
   ]
   node
   [
@@ -4454,9 +4454,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.007
-    pagerank 0.001
-    closeness 0.196
+    eigenvectorcentrality 0.00708790516562435
+    pagerank 0.000658091218047562
+    closeness 0.196369179600887
   ]
   node
   [
@@ -4469,9 +4469,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.007
-    pagerank 0.001
-    closeness 0.196
+    eigenvectorcentrality 0.00708790516562435
+    pagerank 0.000658091218047554
+    closeness 0.196369179600887
   ]
   node
   [
@@ -4484,9 +4484,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.01
-    pagerank 0.001
-    closeness 0.196
+    eigenvectorcentrality 0.0102115939303572
+    pagerank 0.00055799010229205
+    closeness 0.196423620737455
   ]
   node
   [
@@ -4499,9 +4499,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0.052
-    pagerank 0.001
-    closeness 0.174
+    eigenvectorcentrality 0.0547024382243706
+    pagerank 0.000753597134784005
+    closeness 0.173758430410791
   ]
   node
   [
@@ -4513,10 +4513,10 @@ graph
     alldegreecentrality 11
     indegreecentrality 4
     outdegreecentrality 7
-    betweennesscentrality 2122
-    eigenvectorcentrality 0.052
-    pagerank 0.001
-    closeness 0.174
+    betweennesscentrality 770.5
+    eigenvectorcentrality 0.0547024382243706
+    pagerank 0.000786237010685166
+    closeness 0.173801054826444
   ]
   node
   [
@@ -4529,9 +4529,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0.001
-    closeness 0.14
+    eigenvectorcentrality 0.0019736184531104
+    pagerank 0.000705680045991202
+    closeness 0.14028314028314
   ]
   node
   [
@@ -4543,10 +4543,10 @@ graph
     alldegreecentrality 14
     indegreecentrality 6
     outdegreecentrality 8
-    betweennesscentrality 5652
-    eigenvectorcentrality 0.023
-    pagerank 0.001
-    closeness 0.163
+    betweennesscentrality 4874
+    eigenvectorcentrality 0.0238884037347547
+    pagerank 0.00121331613679746
+    closeness 0.163098526703499
   ]
   node
   [
@@ -4558,10 +4558,10 @@ graph
     alldegreecentrality 6
     indegreecentrality 2
     outdegreecentrality 4
-    betweennesscentrality 1416
-    eigenvectorcentrality 0.002
-    pagerank 0.001
-    closeness 0.14
+    betweennesscentrality 514
+    eigenvectorcentrality 0.0019736184531104
+    pagerank 0.00074690534077414
+    closeness 0.14029702970297
   ]
   node
   [
@@ -4573,10 +4573,10 @@ graph
     alldegreecentrality 6
     indegreecentrality 2
     outdegreecentrality 4
-    betweennesscentrality 702.5
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.157
+    betweennesscentrality 254
+    eigenvectorcentrality 2.54802030626177e-05
+    pagerank 0.000589489651939386
+    closeness 0.157147610069868
   ]
   node
   [
@@ -4589,9 +4589,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 2.01183748592501e-06
+    pagerank 0.000512094967902696
+    closeness 0.135962387257724
   ]
   node
   [
@@ -4604,9 +4604,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.006
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600755
+    closeness 0.19634197034779
   ]
   node
   [
@@ -4619,9 +4619,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 0.00162041375895457
+    pagerank 0.00045460291748875
+    closeness 0.165190020983912
   ]
   node
   [
@@ -4633,10 +4633,10 @@ graph
     alldegreecentrality 14
     indegreecentrality 6
     outdegreecentrality 8
-    betweennesscentrality 2830
-    eigenvectorcentrality 0.047
-    pagerank 0.001
-    closeness 0.17
+    betweennesscentrality 2441
+    eigenvectorcentrality 0.0481510168062571
+    pagerank 0.00122338167921076
+    closeness 0.170332972713066
   ]
   node
   [
@@ -4648,10 +4648,10 @@ graph
     alldegreecentrality 20
     indegreecentrality 9
     outdegreecentrality 11
-    betweennesscentrality 2508.7
-    eigenvectorcentrality 0.157
-    pagerank 0.002
-    closeness 0.187
+    betweennesscentrality 2541.81327838828
+    eigenvectorcentrality 0.160936117049907
+    pagerank 0.00138643473221503
+    closeness 0.18696397941681
   ]
   node
   [
@@ -4664,9 +4664,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0.047
-    pagerank 0.001
-    closeness 0.17
+    eigenvectorcentrality 0.0478904805575647
+    pagerank 0.0009814180988493
+    closeness 0.170292032207667
   ]
   node
   [
@@ -4679,9 +4679,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0.047
-    pagerank 0.001
-    closeness 0.17
+    eigenvectorcentrality 0.0478904805575647
+    pagerank 0.000981418098849177
+    closeness 0.170292032207667
   ]
   node
   [
@@ -4694,9 +4694,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0.047
-    pagerank 0.001
-    closeness 0.17
+    eigenvectorcentrality 0.0478904805575647
+    pagerank 0.000981418098849034
+    closeness 0.170292032207667
   ]
   node
   [
@@ -4709,9 +4709,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0.165
-    pagerank 0.001
-    closeness 0.185
+    eigenvectorcentrality 0.172522664916921
+    pagerank 0.000746290191781559
+    closeness 0.18455326908049
   ]
   node
   [
@@ -4724,9 +4724,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.123
+    eigenvectorcentrality 3.31808360585213e-07
+    pagerank 0.000869873981428293
+    closeness 0.123485838779956
   ]
   node
   [
@@ -4738,10 +4738,10 @@ graph
     alldegreecentrality 13
     indegreecentrality 5
     outdegreecentrality 8
-    betweennesscentrality 2819
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.124
+    betweennesscentrality 1724.5
+    eigenvectorcentrality 3.35470325580588e-07
+    pagerank 0.00107988341680845
+    closeness 0.123518131101813
   ]
   node
   [
@@ -4754,9 +4754,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.123
+    eigenvectorcentrality 3.31808360587006e-07
+    pagerank 0.000869873981428288
+    closeness 0.123485838779956
   ]
   node
   [
@@ -4769,9 +4769,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.11
+    eigenvectorcentrality 5.16478458231649e-08
+    pagerank 0.00062424166437617
+    closeness 0.110049704877291
   ]
   node
   [
@@ -4784,9 +4784,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 2.49297095800465e-06
+    pagerank 0.00049015854004803
+    closeness 0.139840126319945
   ]
   node
   [
@@ -4798,10 +4798,10 @@ graph
     alldegreecentrality 21
     indegreecentrality 8
     outdegreecentrality 13
-    betweennesscentrality 401978.5
-    eigenvectorcentrality 0.041
-    pagerank 0.003
-    closeness 0.245
+    betweennesscentrality 294827.307072314
+    eigenvectorcentrality 0.0428891411602582
+    pagerank 0.00102897611782084
+    closeness 0.245367965367965
   ]
   node
   [
@@ -4813,10 +4813,10 @@ graph
     alldegreecentrality 23
     indegreecentrality 10
     outdegreecentrality 13
-    betweennesscentrality 22080.3
-    eigenvectorcentrality 0.027
-    pagerank 0.002
-    closeness 0.173
+    betweennesscentrality 23121.5634199134
+    eigenvectorcentrality 0.0270329193562574
+    pagerank 0.00183344162274998
+    closeness 0.172615422097698
   ]
   node
   [
@@ -4829,9 +4829,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 7
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.101
+    eigenvectorcentrality 1.16167689073912e-08
+    pagerank 0.00115840612197864
+    closeness 0.101475221999427
   ]
   node
   [
@@ -4843,10 +4843,10 @@ graph
     alldegreecentrality 19
     indegreecentrality 8
     outdegreecentrality 11
-    betweennesscentrality 5655
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.102
+    betweennesscentrality 4876
+    eigenvectorcentrality 1.17544807969062e-08
+    pagerank 0.0016036822303137
+    closeness 0.101504297994269
   ]
   node
   [
@@ -4859,9 +4859,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 7
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.101
+    eigenvectorcentrality 1.16167689056286e-08
+    pagerank 0.00115840612197665
+    closeness 0.101475221999427
   ]
   node
   [
@@ -4874,9 +4874,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 7
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.101
+    eigenvectorcentrality 1.16167689047425e-08
+    pagerank 0.00115840612197536
+    closeness 0.101475221999427
   ]
   node
   [
@@ -4889,9 +4889,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 7
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.101
+    eigenvectorcentrality 1.16167689076256e-08
+    pagerank 0.00115840612197391
+    closeness 0.101475221999427
   ]
   node
   [
@@ -4904,9 +4904,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.049
-    pagerank 0
-    closeness 0.166
+    eigenvectorcentrality 0.0517005825290907
+    pagerank 0.000614192224365058
+    closeness 0.166470864661654
   ]
   node
   [
@@ -4918,10 +4918,10 @@ graph
     alldegreecentrality 26
     indegreecentrality 10
     outdegreecentrality 16
-    betweennesscentrality 57464
-    eigenvectorcentrality 0.003
-    pagerank 0.003
-    closeness 0.192
+    betweennesscentrality 38578.2020429862
+    eigenvectorcentrality 0.00312174913484851
+    pagerank 0.0015815417106547
+    closeness 0.191538253582049
   ]
   node
   [
@@ -4934,9 +4934,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.161
+    eigenvectorcentrality 0.000281140865371794
+    pagerank 0.000873160391166187
+    closeness 0.160821700147543
   ]
   node
   [
@@ -4949,9 +4949,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.161
+    eigenvectorcentrality 0.000281140865371793
+    pagerank 0.000873160391166181
+    closeness 0.160821700147543
   ]
   node
   [
@@ -4964,9 +4964,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.161
+    eigenvectorcentrality 0.000281140865371793
+    pagerank 0.000873160391166174
+    closeness 0.160821700147543
   ]
   node
   [
@@ -4978,10 +4978,10 @@ graph
     alldegreecentrality 10
     indegreecentrality 4
     outdegreecentrality 6
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.126
+    betweennesscentrality 514
+    eigenvectorcentrality 1.97587707088145e-05
+    pagerank 0.000810441519938705
+    closeness 0.126224835203991
   ]
   node
   [
@@ -4994,9 +4994,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.126
+    eigenvectorcentrality 1.97587707088164e-05
+    pagerank 0.000790815443245032
+    closeness 0.12621359223301
   ]
   node
   [
@@ -5008,10 +5008,10 @@ graph
     alldegreecentrality 10
     indegreecentrality 4
     outdegreecentrality 6
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.126
+    betweennesscentrality 514
+    eigenvectorcentrality 1.97587707088237e-05
+    pagerank 0.000810441519938703
+    closeness 0.126224835203991
   ]
   node
   [
@@ -5024,9 +5024,9 @@ graph
     indegreecentrality 7
     outdegreecentrality 8
     betweennesscentrality 0
-    eigenvectorcentrality 0.004
-    pagerank 0.001
-    closeness 0.15
+    eigenvectorcentrality 0.00383721889348676
+    pagerank 0.0013376715844065
+    closeness 0.150233248515691
   ]
   node
   [
@@ -5039,9 +5039,9 @@ graph
     indegreecentrality 7
     outdegreecentrality 8
     betweennesscentrality 0
-    eigenvectorcentrality 0.004
-    pagerank 0.001
-    closeness 0.15
+    eigenvectorcentrality 0.00383721889348674
+    pagerank 0.00133767158440483
+    closeness 0.150233248515691
   ]
   node
   [
@@ -5054,9 +5054,9 @@ graph
     indegreecentrality 7
     outdegreecentrality 8
     betweennesscentrality 0
-    eigenvectorcentrality 0.004
-    pagerank 0.001
-    closeness 0.15
+    eigenvectorcentrality 0.00383721889348674
+    pagerank 0.00133767158440296
+    closeness 0.150233248515691
   ]
   node
   [
@@ -5068,10 +5068,10 @@ graph
     alldegreecentrality 24
     indegreecentrality 11
     outdegreecentrality 13
-    betweennesscentrality 9860.8
-    eigenvectorcentrality 0.004
-    pagerank 0.002
-    closeness 0.163
+    betweennesscentrality 9991.28405483405
+    eigenvectorcentrality 0.00401788117332822
+    pagerank 0.00182464926399029
+    closeness 0.162817419280708
   ]
   node
   [
@@ -5083,10 +5083,10 @@ graph
     alldegreecentrality 16
     indegreecentrality 7
     outdegreecentrality 9
-    betweennesscentrality 706
-    eigenvectorcentrality 0.004
-    pagerank 0.001
-    closeness 0.15
+    betweennesscentrality 255.5
+    eigenvectorcentrality 0.00383721889348674
+    pagerank 0.00135210078296357
+    closeness 0.150249178241968
   ]
   node
   [
@@ -5099,9 +5099,9 @@ graph
     indegreecentrality 7
     outdegreecentrality 8
     betweennesscentrality 0
-    eigenvectorcentrality 0.004
-    pagerank 0.001
-    closeness 0.15
+    eigenvectorcentrality 0.00383721889348675
+    pagerank 0.00133767158439878
+    closeness 0.150233248515691
   ]
   node
   [
@@ -5113,10 +5113,10 @@ graph
     alldegreecentrality 23
     indegreecentrality 8
     outdegreecentrality 15
-    betweennesscentrality 17277.6
-    eigenvectorcentrality 0.14
-    pagerank 0.002
-    closeness 0.188
+    betweennesscentrality 12935.525052725
+    eigenvectorcentrality 0.144014842377061
+    pagerank 0.00131713357436297
+    closeness 0.188205604994023
   ]
   node
   [
@@ -5128,10 +5128,10 @@ graph
     alldegreecentrality 11
     indegreecentrality 3
     outdegreecentrality 8
-    betweennesscentrality 7069
-    eigenvectorcentrality 0.003
-    pagerank 0.002
-    closeness 0.177
+    betweennesscentrality 3980
+    eigenvectorcentrality 0.00290236985998227
+    pagerank 0.000797353942199506
+    closeness 0.177280120105092
   ]
   node
   [
@@ -5143,10 +5143,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 3
     outdegreecentrality 5
-    betweennesscentrality 36166
-    eigenvectorcentrality 0.003
-    pagerank 0.001
-    closeness 0.178
+    betweennesscentrality 20189
+    eigenvectorcentrality 0.00290265121422987
+    pagerank 0.000628421929626007
+    closeness 0.177747114902158
   ]
   node
   [
@@ -5159,9 +5159,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.131
+    eigenvectorcentrality 0.000466770485493185
+    pagerank 0.000525849863886476
+    closeness 0.131471516051215
   ]
   node
   [
@@ -5173,10 +5173,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 4
     outdegreecentrality 8
-    betweennesscentrality 9884
-    eigenvectorcentrality 0.006
-    pagerank 0.002
-    closeness 0.151
+    betweennesscentrality 6412
+    eigenvectorcentrality 0.00611649563442247
+    pagerank 0.00101460745735967
+    closeness 0.151340382356082
   ]
   node
   [
@@ -5188,10 +5188,10 @@ graph
     alldegreecentrality 18
     indegreecentrality 8
     outdegreecentrality 10
-    betweennesscentrality 452.4
-    eigenvectorcentrality 0.219
-    pagerank 0.001
-    closeness 0.203
+    betweennesscentrality 360.004032809294
+    eigenvectorcentrality 0.224720477503524
+    pagerank 0.0010171096121492
+    closeness 0.202544311034877
   ]
   node
   [
@@ -5203,10 +5203,10 @@ graph
     alldegreecentrality 18
     indegreecentrality 8
     outdegreecentrality 10
-    betweennesscentrality 452.4
-    eigenvectorcentrality 0.219
-    pagerank 0.001
-    closeness 0.203
+    betweennesscentrality 360.004032809294
+    eigenvectorcentrality 0.224720477503524
+    pagerank 0.00101710961214851
+    closeness 0.202544311034877
   ]
   node
   [
@@ -5218,10 +5218,10 @@ graph
     alldegreecentrality 10
     indegreecentrality 2
     outdegreecentrality 8
-    betweennesscentrality 8478.5
-    eigenvectorcentrality 0.001
-    pagerank 0.002
-    closeness 0.172
+    betweennesscentrality 4492
+    eigenvectorcentrality 0.000673168119741543
+    pagerank 0.000609711911075482
+    closeness 0.172258691952346
   ]
   node
   [
@@ -5233,10 +5233,10 @@ graph
     alldegreecentrality 28
     indegreecentrality 12
     outdegreecentrality 16
-    betweennesscentrality 6315.2
-    eigenvectorcentrality 0.199
-    pagerank 0.002
-    closeness 0.181
+    betweennesscentrality 5540.50010092247
+    eigenvectorcentrality 0.213833050890742
+    pagerank 0.0018215176200446
+    closeness 0.180901314949572
   ]
   node
   [
@@ -5249,9 +5249,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.179
+    eigenvectorcentrality 0.000865782605974973
+    pagerank 0.000482255295251688
+    closeness 0.178553427419355
   ]
   node
   [
@@ -5263,10 +5263,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 3
     outdegreecentrality 5
-    betweennesscentrality 0.2
-    eigenvectorcentrality 0.001
-    pagerank 0.001
-    closeness 0.152
+    betweennesscentrality 0
+    eigenvectorcentrality 0.000825916468581211
+    pagerank 0.000571595165042969
+    closeness 0.152283718430951
   ]
   node
   [
@@ -5279,9 +5279,9 @@ graph
     indegreecentrality 7
     outdegreecentrality 8
     betweennesscentrality 0
-    eigenvectorcentrality 0.204
-    pagerank 0.001
-    closeness 0.202
+    eigenvectorcentrality 0.210391445457153
+    pagerank 0.0009130899195305
+    closeness 0.202486424692769
   ]
   node
   [
@@ -5293,10 +5293,10 @@ graph
     alldegreecentrality 29
     indegreecentrality 13
     outdegreecentrality 16
-    betweennesscentrality 18247.5
-    eigenvectorcentrality 0.268
-    pagerank 0.002
-    closeness 0.209
+    betweennesscentrality 15119.0811754036
+    eigenvectorcentrality 0.277825969816897
+    pagerank 0.0016235243105867
+    closeness 0.208997050147493
   ]
   node
   [
@@ -5308,10 +5308,10 @@ graph
     alldegreecentrality 11
     indegreecentrality 4
     outdegreecentrality 7
-    betweennesscentrality 8471
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.142
+    betweennesscentrality 7302
+    eigenvectorcentrality 2.3426124139691e-06
+    pagerank 0.00103170456029637
+    closeness 0.142055137844612
   ]
   node
   [
@@ -5323,10 +5323,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 3
     outdegreecentrality 5
-    betweennesscentrality 2830
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.124
+    betweennesscentrality 2441
+    eigenvectorcentrality 1.94682994772453e-07
+    pagerank 0.000994719836036569
+    closeness 0.124462011418533
   ]
   node
   [
@@ -5339,9 +5339,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.124
+    eigenvectorcentrality 1.93629601085295e-07
+    pagerank 0.000712428604561385
+    closeness 0.124440151049442
   ]
   node
   [
@@ -5353,10 +5353,10 @@ graph
     alldegreecentrality 4
     indegreecentrality 1
     outdegreecentrality 3
-    betweennesscentrality 1416
-    eigenvectorcentrality 0.007
-    pagerank 0.001
-    closeness 0.148
+    betweennesscentrality 514
+    eigenvectorcentrality 0.00775170348580378
+    pagerank 0.000528178118154492
+    closeness 0.148283800753453
   ]
   node
   [
@@ -5369,9 +5369,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.033
-    pagerank 0
-    closeness 0.166
+    eigenvectorcentrality 0.0350745919054574
+    pagerank 0.000478086259376632
+    closeness 0.165730994152047
   ]
   node
   [
@@ -5383,10 +5383,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 3
     outdegreecentrality 5
-    betweennesscentrality 26562
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.189
+    betweennesscentrality 20798
+    eigenvectorcentrality 0.000333573487883157
+    pagerank 0.000662990637161082
+    closeness 0.188581314878893
   ]
   node
   [
@@ -5398,10 +5398,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 5
     outdegreecentrality 7
-    betweennesscentrality 2830
-    eigenvectorcentrality 0.06
-    pagerank 0.001
-    closeness 0.162
+    betweennesscentrality 2441
+    eigenvectorcentrality 0.0642981009965133
+    pagerank 0.00122093227531903
+    closeness 0.162295269728553
   ]
   node
   [
@@ -5414,9 +5414,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.004
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 0.00490680572868036
+    pagerank 0.000566303883544905
+    closeness 0.139660950128129
   ]
   node
   [
@@ -5429,9 +5429,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 3.5633293850358e-05
+    pagerank 0.00096023690933327
+    closeness 0.164729132759823
   ]
   node
   [
@@ -5444,9 +5444,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 3.56332938503559e-05
+    pagerank 0.000960236909333266
+    closeness 0.164729132759823
   ]
   node
   [
@@ -5459,9 +5459,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 3.56332938503463e-05
+    pagerank 0.000960236909333262
+    closeness 0.164729132759823
   ]
   node
   [
@@ -5474,9 +5474,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 3.56332938503572e-05
+    pagerank 0.000960236909333257
+    closeness 0.164729132759823
   ]
   node
   [
@@ -5488,10 +5488,10 @@ graph
     alldegreecentrality 14
     indegreecentrality 3
     outdegreecentrality 11
-    betweennesscentrality 56393
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.172
+    betweennesscentrality 39059.4340600919
+    eigenvectorcentrality 2.90146103187465e-05
+    pagerank 0.000710469245227044
+    closeness 0.172028651207964
   ]
   node
   [
@@ -5504,9 +5504,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.024
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148916
+    closeness 0.169985604606526
   ]
   node
   [
@@ -5519,9 +5519,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.092
+    eigenvectorcentrality 9.71134801393532e-10
+    pagerank 0.000756235424868761
+    closeness 0.0921685963314687
   ]
   node
   [
@@ -5534,9 +5534,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.092
+    eigenvectorcentrality 9.71134800144209e-10
+    pagerank 0.000756235424868025
+    closeness 0.0921685963314687
   ]
   node
   [
@@ -5549,9 +5549,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0.048
-    pagerank 0.001
-    closeness 0.182
+    eigenvectorcentrality 0.0496129354941763
+    pagerank 0.000701563771617303
+    closeness 0.181736565345646
   ]
   node
   [
@@ -5564,9 +5564,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0.048
-    pagerank 0.001
-    closeness 0.182
+    eigenvectorcentrality 0.0496129354941763
+    pagerank 0.000701563771617175
+    closeness 0.181736565345646
   ]
   node
   [
@@ -5579,9 +5579,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.035
-    pagerank 0
-    closeness 0.176
+    eigenvectorcentrality 0.0375201640791296
+    pagerank 0.000601065674106418
+    closeness 0.175784642103957
   ]
   node
   [
@@ -5593,10 +5593,10 @@ graph
     alldegreecentrality 6
     indegreecentrality 2
     outdegreecentrality 4
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.149
+    betweennesscentrality 514
+    eigenvectorcentrality 0.000123202029919092
+    pagerank 0.000602843207387235
+    closeness 0.149409531843104
   ]
   node
   [
@@ -5609,9 +5609,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0.001
-    closeness 0.18
+    eigenvectorcentrality 0.00166185191968425
+    pagerank 0.00068205413717488
+    closeness 0.179982217706084
   ]
   node
   [
@@ -5624,9 +5624,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0.001
-    closeness 0.18
+    eigenvectorcentrality 0.00166185191968425
+    pagerank 0.000682054137174871
+    closeness 0.179982217706084
   ]
   node
   [
@@ -5638,10 +5638,10 @@ graph
     alldegreecentrality 6
     indegreecentrality 1
     outdegreecentrality 5
-    betweennesscentrality 4245
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.142
+    betweennesscentrality 1542
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.141544301268605
   ]
   node
   [
@@ -5654,9 +5654,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.133
+    eigenvectorcentrality 3.57202378100178e-05
+    pagerank 0.000551888551982686
+    closeness 0.133126644118752
   ]
   node
   [
@@ -5668,10 +5668,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 5
     outdegreecentrality 7
-    betweennesscentrality 2830
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.154
+    betweennesscentrality 2441
+    eigenvectorcentrality 0.000468073036783052
+    pagerank 0.00110221778010463
+    closeness 0.153537761404269
   ]
   node
   [
@@ -5683,10 +5683,10 @@ graph
     alldegreecentrality 5
     indegreecentrality 1
     outdegreecentrality 4
-    betweennesscentrality 2831
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.132
+    betweennesscentrality 1028
+    eigenvectorcentrality 0.000466770485493185
+    pagerank 0.000525849863886476
+    closeness 0.131520326712456
   ]
   node
   [
@@ -5698,10 +5698,10 @@ graph
     alldegreecentrality 6
     indegreecentrality 2
     outdegreecentrality 4
-    betweennesscentrality 2830
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.111
+    betweennesscentrality 2441
+    eigenvectorcentrality 4.71780177619841e-08
+    pagerank 0.000761705758318732
+    closeness 0.111495790384767
   ]
   node
   [
@@ -5714,9 +5714,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.015
-    pagerank 0.001
-    closeness 0.179
+    eigenvectorcentrality 0.016107937158818
+    pagerank 0.000545285859057812
+    closeness 0.179253636938646
   ]
   node
   [
@@ -5729,9 +5729,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.006
-    pagerank 0.001
-    closeness 0.151
+    eigenvectorcentrality 0.00605030518057815
+    pagerank 0.000613387177773878
+    closeness 0.151227321237994
   ]
   node
   [
@@ -5744,9 +5744,9 @@ graph
     indegreecentrality 9
     outdegreecentrality 10
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.143
+    eigenvectorcentrality 7.96305923016303e-06
+    pagerank 0.0013898515137582
+    closeness 0.143087953145511
   ]
   node
   [
@@ -5758,10 +5758,10 @@ graph
     alldegreecentrality 24
     indegreecentrality 11
     outdegreecentrality 13
-    betweennesscentrality 22416
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.143
+    betweennesscentrality 17919
+    eigenvectorcentrality 8.0581251607961e-06
+    pagerank 0.00166971464816661
+    closeness 0.143319510468292
   ]
   node
   [
@@ -5774,9 +5774,9 @@ graph
     indegreecentrality 9
     outdegreecentrality 10
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.143
+    eigenvectorcentrality 7.96305923014802e-06
+    pagerank 0.0013898515137448
+    closeness 0.143087953145511
   ]
   node
   [
@@ -5789,9 +5789,9 @@ graph
     indegreecentrality 9
     outdegreecentrality 10
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.143
+    eigenvectorcentrality 7.96305923019633e-06
+    pagerank 0.00138985151373665
+    closeness 0.143087953145511
   ]
   node
   [
@@ -5804,9 +5804,9 @@ graph
     indegreecentrality 9
     outdegreecentrality 10
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.143
+    eigenvectorcentrality 7.96305923019993e-06
+    pagerank 0.00138985151372781
+    closeness 0.143087953145511
   ]
   node
   [
@@ -5819,9 +5819,9 @@ graph
     indegreecentrality 9
     outdegreecentrality 10
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.143
+    eigenvectorcentrality 7.96305923017443e-06
+    pagerank 0.00138985151371822
+    closeness 0.143087953145511
   ]
   node
   [
@@ -5834,9 +5834,9 @@ graph
     indegreecentrality 9
     outdegreecentrality 10
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.143
+    eigenvectorcentrality 7.96305923018823e-06
+    pagerank 0.00138985151370782
+    closeness 0.143087953145511
   ]
   node
   [
@@ -5849,9 +5849,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.111
+    eigenvectorcentrality 1.48569183099101e-08
+    pagerank 0.000587150193668255
+    closeness 0.110703125
   ]
   node
   [
@@ -5863,10 +5863,10 @@ graph
     alldegreecentrality 5
     indegreecentrality 1
     outdegreecentrality 4
-    betweennesscentrality 2831
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.157
+    betweennesscentrality 1028
+    eigenvectorcentrality 2.34068467575549e-05
+    pagerank 0.000463418354442581
+    closeness 0.157008310249307
   ]
   node
   [
@@ -5879,9 +5879,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.016
-    pagerank 0.001
-    closeness 0.153
+    eigenvectorcentrality 0.0176665155114098
+    pagerank 0.000718347830381344
+    closeness 0.153238888288093
   ]
   node
   [
@@ -5894,9 +5894,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.016
-    pagerank 0.001
-    closeness 0.153
+    eigenvectorcentrality 0.0176665155114098
+    pagerank 0.000718347830381164
+    closeness 0.153238888288093
   ]
   node
   [
@@ -5909,9 +5909,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.004
-    pagerank 0
-    closeness 0.146
+    eigenvectorcentrality 0.00367456707810919
+    pagerank 0.000548032124958076
+    closeness 0.145572221080748
   ]
   node
   [
@@ -5924,9 +5924,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.009
-    pagerank 0.001
-    closeness 0.2
+    eigenvectorcentrality 0.00919366244146114
+    pagerank 0.000507393513312037
+    closeness 0.19997177533164
   ]
   node
   [
@@ -5939,9 +5939,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 2.97453720729748e-05
+    pagerank 0.000656534072892985
+    closeness 0.164690841469084
   ]
   node
   [
@@ -5954,9 +5954,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 2.97453720729721e-05
+    pagerank 0.000656534072892983
+    closeness 0.164690841469084
   ]
   node
   [
@@ -5969,9 +5969,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.122
+    eigenvectorcentrality 1.88126088311685e-06
+    pagerank 0.000486735893948951
+    closeness 0.122313336210617
   ]
   node
   [
@@ -5984,9 +5984,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.13
+    eigenvectorcentrality 5.20182688413238e-06
+    pagerank 0.000557004224920861
+    closeness 0.130358785648574
   ]
   node
   [
@@ -5999,9 +5999,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.111
+    eigenvectorcentrality 4.86913087098722e-08
+    pagerank 0.000714639523688979
+    closeness 0.11088504577823
   ]
   node
   [
@@ -6014,9 +6014,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.101
+    eigenvectorcentrality 6.8309086727159e-09
+    pagerank 0.000495920519193716
+    closeness 0.101315601315601
   ]
   node
   [
@@ -6029,9 +6029,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.132
+    eigenvectorcentrality 5.768970568357e-05
+    pagerank 0.000478768763790883
+    closeness 0.132096578726578
   ]
   node
   [
@@ -6044,9 +6044,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.09
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0917359138683059
+    pagerank 0.000565692526307551
+    closeness 0.180188199389624
   ]
   node
   [
@@ -6058,10 +6058,10 @@ graph
     alldegreecentrality 11
     indegreecentrality 4
     outdegreecentrality 7
-    betweennesscentrality 2831
-    eigenvectorcentrality 0.032
-    pagerank 0.001
-    closeness 0.223
+    betweennesscentrality 1028
+    eigenvectorcentrality 0.033199469078849
+    pagerank 0.000635656773276954
+    closeness 0.222974036191975
   ]
   node
   [
@@ -6074,9 +6074,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0.059
-    pagerank 0.001
-    closeness 0.162
+    eigenvectorcentrality 0.0639501958609047
+    pagerank 0.000964537766508816
+    closeness 0.162258101454254
   ]
   node
   [
@@ -6089,9 +6089,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0.059
-    pagerank 0.001
-    closeness 0.162
+    eigenvectorcentrality 0.0639501958609047
+    pagerank 0.000964537766508628
+    closeness 0.162258101454254
   ]
   node
   [
@@ -6104,9 +6104,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0.059
-    pagerank 0.001
-    closeness 0.162
+    eigenvectorcentrality 0.0639501958609047
+    pagerank 0.000964537766508406
+    closeness 0.162258101454254
   ]
   node
   [
@@ -6119,9 +6119,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.138
+    eigenvectorcentrality 0.000140382778601512
+    pagerank 0.000950837003294496
+    closeness 0.137853876836268
   ]
   node
   [
@@ -6134,9 +6134,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.138
+    eigenvectorcentrality 0.000140382778601521
+    pagerank 0.000950837003294486
+    closeness 0.137853876836268
   ]
   node
   [
@@ -6148,10 +6148,10 @@ graph
     alldegreecentrality 4
     indegreecentrality 1
     outdegreecentrality 3
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.154
+    betweennesscentrality 514
+    eigenvectorcentrality 7.50139097218592e-05
+    pagerank 0.000487300338050069
+    closeness 0.154491931966856
   ]
   node
   [
@@ -6164,9 +6164,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0.001
-    closeness 0.182
+    eigenvectorcentrality 0.00110401384921509
+    pagerank 0.000566274698630211
+    closeness 0.182485511912428
   ]
   node
   [
@@ -6178,10 +6178,10 @@ graph
     alldegreecentrality 14
     indegreecentrality 5
     outdegreecentrality 9
-    betweennesscentrality 9885
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.112
+    betweennesscentrality 7819
+    eigenvectorcentrality 5.6769435391522e-08
+    pagerank 0.00126979276090859
+    closeness 0.111794871794872
   ]
   node
   [
@@ -6194,9 +6194,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.112
+    eigenvectorcentrality 5.57971731078002e-08
+    pagerank 0.000632663593816393
+    closeness 0.111733165115912
   ]
   node
   [
@@ -6208,10 +6208,10 @@ graph
     alldegreecentrality 13
     indegreecentrality 4
     outdegreecentrality 9
-    betweennesscentrality 18285
-    eigenvectorcentrality 0
-    pagerank 0.002
-    closeness 0.126
+    betweennesscentrality 13652
+    eigenvectorcentrality 6.74388974013225e-07
+    pagerank 0.00100260953379118
+    closeness 0.125676274944568
   ]
   node
   [
@@ -6224,9 +6224,9 @@ graph
     indegreecentrality 8
     outdegreecentrality 9
     betweennesscentrality 0
-    eigenvectorcentrality 0.175
-    pagerank 0.001
-    closeness 0.173
+    eigenvectorcentrality 0.188968996927264
+    pagerank 0.00114639926168204
+    closeness 0.17320620950984
   ]
   node
   [
@@ -6239,9 +6239,9 @@ graph
     indegreecentrality 8
     outdegreecentrality 9
     betweennesscentrality 0
-    eigenvectorcentrality 0.175
-    pagerank 0.001
-    closeness 0.173
+    eigenvectorcentrality 0.188968996927264
+    pagerank 0.00114639926168174
+    closeness 0.17320620950984
   ]
   node
   [
@@ -6254,9 +6254,9 @@ graph
     indegreecentrality 8
     outdegreecentrality 9
     betweennesscentrality 0
-    eigenvectorcentrality 0.175
-    pagerank 0.001
-    closeness 0.173
+    eigenvectorcentrality 0.188968996927264
+    pagerank 0.00114639926168141
+    closeness 0.17320620950984
   ]
   node
   [
@@ -6269,9 +6269,9 @@ graph
     indegreecentrality 8
     outdegreecentrality 9
     betweennesscentrality 0
-    eigenvectorcentrality 0.175
-    pagerank 0.001
-    closeness 0.173
+    eigenvectorcentrality 0.188968996927264
+    pagerank 0.00114639926168104
+    closeness 0.17320620950984
   ]
   node
   [
@@ -6284,9 +6284,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.026
-    pagerank 0.001
-    closeness 0.17
+    eigenvectorcentrality 0.0266594360945415
+    pagerank 0.000650555917882192
+    closeness 0.17000599880024
   ]
   node
   [
@@ -6299,9 +6299,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.026
-    pagerank 0.001
-    closeness 0.17
+    eigenvectorcentrality 0.0266594360945415
+    pagerank 0.000650555917882149
+    closeness 0.17000599880024
   ]
   node
   [
@@ -6314,9 +6314,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.142
+    eigenvectorcentrality 2.31508005304171e-06
+    pagerank 0.000612487658003291
+    closeness 0.14196974251077
   ]
   node
   [
@@ -6328,10 +6328,10 @@ graph
     alldegreecentrality 5
     indegreecentrality 1
     outdegreecentrality 4
-    betweennesscentrality 1.5
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.132
+    betweennesscentrality 0
+    eigenvectorcentrality 1.72054516399669e-05
+    pagerank 0.000484904518754076
+    closeness 0.13178943452381
   ]
   node
   [
@@ -6344,9 +6344,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.101
+    eigenvectorcentrality 4.69019221418399e-09
+    pagerank 0.000750659572193797
+    closeness 0.100574916601604
   ]
   node
   [
@@ -6359,9 +6359,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.101
+    eigenvectorcentrality 4.69019221415938e-09
+    pagerank 0.00075065957219354
+    closeness 0.100574916601604
   ]
   node
   [
@@ -6374,9 +6374,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.027
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 0.02895276799551
+    pagerank 0.000506671371305527
+    closeness 0.160766961651917
   ]
   node
   [
@@ -6389,9 +6389,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.142
+    eigenvectorcentrality 1.70113187428438e-06
+    pagerank 0.00069724777645919
+    closeness 0.141558441558442
   ]
   node
   [
@@ -6404,9 +6404,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.142
+    eigenvectorcentrality 1.70113187428764e-06
+    pagerank 0.00069724777645919
+    closeness 0.141558441558442
   ]
   node
   [
@@ -6419,9 +6419,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.172
+    eigenvectorcentrality 0.000802561919785808
+    pagerank 0.000501587938800855
+    closeness 0.172300583657588
   ]
   node
   [
@@ -6434,9 +6434,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.154
+    eigenvectorcentrality 0.00046554038012892
+    pagerank 0.000855987928164648
+    closeness 0.15350449572094
   ]
   node
   [
@@ -6449,9 +6449,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.109
+    eigenvectorcentrality 2.88567507814967e-07
+    pagerank 0.000471820689429343
+    closeness 0.109184774233318
   ]
   node
   [
@@ -6463,10 +6463,10 @@ graph
     alldegreecentrality 4
     indegreecentrality 1
     outdegreecentrality 3
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.139
+    betweennesscentrality 514
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138690417930899
   ]
   node
   [
@@ -6479,9 +6479,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.142
+    eigenvectorcentrality 1.69855124498166e-06
+    pagerank 0.000700693241702732
+    closeness 0.141501897343719
   ]
   node
   [
@@ -6494,9 +6494,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.142
+    eigenvectorcentrality 1.69855124497147e-06
+    pagerank 0.000700693241702732
+    closeness 0.141501897343719
   ]
   node
   [
@@ -6508,10 +6508,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 2
     outdegreecentrality 6
-    betweennesscentrality 4245
-    eigenvectorcentrality 0.081
-    pagerank 0.001
-    closeness 0.18
+    betweennesscentrality 1542
+    eigenvectorcentrality 0.0826182642852372
+    pagerank 0.000590356298127857
+    closeness 0.180348733613338
   ]
   node
   [
@@ -6524,9 +6524,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.00047105522262545
+    closeness 0.126134947480862
   ]
   node
   [
@@ -6539,9 +6539,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.121
+    eigenvectorcentrality 2.44338240956409e-07
+    pagerank 0.00103804606591225
+    closeness 0.121266581086864
   ]
   node
   [
@@ -6554,9 +6554,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.121
+    eigenvectorcentrality 2.44338240958585e-07
+    pagerank 0.00103804606591223
+    closeness 0.121266581086864
   ]
   node
   [
@@ -6569,9 +6569,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.121
+    eigenvectorcentrality 2.44338240959839e-07
+    pagerank 0.00103804606591221
+    closeness 0.121266581086864
   ]
   node
   [
@@ -6584,9 +6584,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.136
+    eigenvectorcentrality 2.60918461525198e-06
+    pagerank 0.00104509177122998
+    closeness 0.136001535656013
   ]
   node
   [
@@ -6599,9 +6599,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.136
+    eigenvectorcentrality 2.60918461526144e-06
+    pagerank 0.00104509177122998
+    closeness 0.136001535656013
   ]
   node
   [
@@ -6614,9 +6614,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.136
+    eigenvectorcentrality 2.60918461524845e-06
+    pagerank 0.00104509177122997
+    closeness 0.136001535656013
   ]
   node
   [
@@ -6629,9 +6629,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.136
+    eigenvectorcentrality 2.6091846152544e-06
+    pagerank 0.00104509177122997
+    closeness 0.136001535656013
   ]
   node
   [
@@ -6643,10 +6643,10 @@ graph
     alldegreecentrality 4
     indegreecentrality 1
     outdegreecentrality 3
-    betweennesscentrality 0.5
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.147
+    betweennesscentrality 0
+    eigenvectorcentrality 5.13717378137203e-05
+    pagerank 0.000482829712093805
+    closeness 0.146991701244813
   ]
   node
   [
@@ -6658,10 +6658,10 @@ graph
     alldegreecentrality 9
     indegreecentrality 3
     outdegreecentrality 6
-    betweennesscentrality 1417.5
-    eigenvectorcentrality 0.002
-    pagerank 0.001
-    closeness 0.14
+    betweennesscentrality 515
+    eigenvectorcentrality 0.00216767990704521
+    pagerank 0.000888266105646816
+    closeness 0.140352614896989
   ]
   node
   [
@@ -6673,10 +6673,10 @@ graph
     alldegreecentrality 17
     indegreecentrality 7
     outdegreecentrality 10
-    betweennesscentrality 8467.5
-    eigenvectorcentrality 0.023
-    pagerank 0.002
-    closeness 0.163
+    betweennesscentrality 7300
+    eigenvectorcentrality 0.0240696167222008
+    pagerank 0.00135010845651703
+    closeness 0.163136081049965
   ]
   node
   [
@@ -6689,9 +6689,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0.001
-    closeness 0.14
+    eigenvectorcentrality 0.00216767990704521
+    pagerank 0.000836374271296275
+    closeness 0.140324816795405
   ]
   node
   [
@@ -6704,9 +6704,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0.001
-    closeness 0.14
+    eigenvectorcentrality 0.00216767990704521
+    pagerank 0.00083637427129621
+    closeness 0.140324816795405
   ]
   node
   [
@@ -6719,9 +6719,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.126
+    eigenvectorcentrality 6.66407712202452e-07
+    pagerank 0.000621912372028082
+    closeness 0.125531537916371
   ]
   node
   [
@@ -6734,9 +6734,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.006
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600755
+    closeness 0.19634197034779
   ]
   node
   [
@@ -6749,9 +6749,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 1.07290657727581e-05
+    pagerank 0.000543155689133391
+    closeness 0.135701972802145
   ]
   node
   [
@@ -6764,9 +6764,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.00047105522262545
+    closeness 0.126134947480862
   ]
   node
   [
@@ -6779,9 +6779,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.00047105522262545
+    closeness 0.126134947480862
   ]
   node
   [
@@ -6794,9 +6794,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.13
+    eigenvectorcentrality 7.72922732894099e-06
+    pagerank 0.000811249332801227
+    closeness 0.129845138825254
   ]
   node
   [
@@ -6809,9 +6809,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.13
+    eigenvectorcentrality 7.72922732893992e-06
+    pagerank 0.000811249332801094
+    closeness 0.129845138825254
   ]
   node
   [
@@ -6824,9 +6824,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.122
+    eigenvectorcentrality 3.7593269937575e-06
+    pagerank 0.000558622577166242
+    closeness 0.12235558241948
   ]
   node
   [
@@ -6839,9 +6839,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.06
-    pagerank 0
-    closeness 0.168
+    eigenvectorcentrality 0.0637858979576933
+    pagerank 0.000564597665133309
+    closeness 0.167732007575758
   ]
   node
   [
@@ -6854,9 +6854,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.006
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600755
+    closeness 0.19634197034779
   ]
   node
   [
@@ -6869,9 +6869,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.151
+    eigenvectorcentrality 0.000221489668201595
+    pagerank 0.000502766677900732
+    closeness 0.150616496598639
   ]
   node
   [
@@ -6884,9 +6884,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.185
+    eigenvectorcentrality 0.00032172594949609
+    pagerank 0.00064428397907132
+    closeness 0.184914524337727
   ]
   node
   [
@@ -6899,9 +6899,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.185
+    eigenvectorcentrality 0.000321725949496094
+    pagerank 0.000644283979071297
+    closeness 0.184914524337727
   ]
   node
   [
@@ -6914,9 +6914,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.01
-    pagerank 0.001
-    closeness 0.196
+    eigenvectorcentrality 0.0102115939303572
+    pagerank 0.00055799010229205
+    closeness 0.196423620737455
   ]
   node
   [
@@ -6929,9 +6929,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.004
-    pagerank 0.001
-    closeness 0.14
+    eigenvectorcentrality 0.0044992572513193
+    pagerank 0.00064836333262674
+    closeness 0.140075128509292
   ]
   node
   [
@@ -6943,10 +6943,10 @@ graph
     alldegreecentrality 12
     indegreecentrality 5
     outdegreecentrality 7
-    betweennesscentrality 7060
-    eigenvectorcentrality 0.004
-    pagerank 0.001
-    closeness 0.14
+    betweennesscentrality 6791
+    eigenvectorcentrality 0.0045871291841032
+    pagerank 0.00124067219296258
+    closeness 0.140144397191178
   ]
   node
   [
@@ -6958,10 +6958,10 @@ graph
     alldegreecentrality 6
     indegreecentrality 2
     outdegreecentrality 4
-    betweennesscentrality 1416
-    eigenvectorcentrality 0.081
-    pagerank 0.001
-    closeness 0.18
+    betweennesscentrality 514
+    eigenvectorcentrality 0.0826182642852372
+    pagerank 0.00055586812950866
+    closeness 0.180302837511134
   ]
   node
   [
@@ -6974,9 +6974,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.11
+    eigenvectorcentrality 2.81989251778479e-08
+    pagerank 0.00062628584143035
+    closeness 0.110058252427184
   ]
   node
   [
@@ -6988,10 +6988,10 @@ graph
     alldegreecentrality 8
     indegreecentrality 3
     outdegreecentrality 5
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.123
+    betweennesscentrality 514
+    eigenvectorcentrality 0.000413111179881387
+    pagerank 0.000964068240716953
+    closeness 0.122982121159521
   ]
   node
   [
@@ -7003,10 +7003,10 @@ graph
     alldegreecentrality 10
     indegreecentrality 4
     outdegreecentrality 6
-    betweennesscentrality 1416
-    eigenvectorcentrality 0.001
-    pagerank 0.001
-    closeness 0.179
+    betweennesscentrality 514
+    eigenvectorcentrality 0.00100091381954427
+    pagerank 0.000727552725159678
+    closeness 0.178801261829653
   ]
   node
   [
@@ -7019,9 +7019,9 @@ graph
     indegreecentrality 10
     outdegreecentrality 11
     betweennesscentrality 0
-    eigenvectorcentrality 0.421
-    pagerank 0.001
-    closeness 0.192
+    eigenvectorcentrality 0.444363461920221
+    pagerank 0.00114253760824043
+    closeness 0.191875423155044
   ]
   node
   [
@@ -7034,9 +7034,9 @@ graph
     indegreecentrality 10
     outdegreecentrality 11
     betweennesscentrality 0
-    eigenvectorcentrality 0.421
-    pagerank 0.001
-    closeness 0.192
+    eigenvectorcentrality 0.444363461920221
+    pagerank 0.00114253760824024
+    closeness 0.191875423155044
   ]
   node
   [
@@ -7048,10 +7048,10 @@ graph
     alldegreecentrality 24
     indegreecentrality 11
     outdegreecentrality 13
-    betweennesscentrality 460.7
-    eigenvectorcentrality 0.453
-    pagerank 0.002
-    closeness 0.192
+    betweennesscentrality 246.380867824986
+    eigenvectorcentrality 0.476951175125354
+    pagerank 0.00121164040144222
+    closeness 0.192161649037158
   ]
   node
   [
@@ -7064,9 +7064,9 @@ graph
     indegreecentrality 10
     outdegreecentrality 11
     betweennesscentrality 0
-    eigenvectorcentrality 0.421
-    pagerank 0.001
-    closeness 0.192
+    eigenvectorcentrality 0.444363461920221
+    pagerank 0.0011425376082398
+    closeness 0.191875423155044
   ]
   node
   [
@@ -7079,9 +7079,9 @@ graph
     indegreecentrality 10
     outdegreecentrality 11
     betweennesscentrality 0
-    eigenvectorcentrality 0.421
-    pagerank 0.001
-    closeness 0.192
+    eigenvectorcentrality 0.444363461920221
+    pagerank 0.00114253760823954
+    closeness 0.191875423155044
   ]
   node
   [
@@ -7093,10 +7093,10 @@ graph
     alldegreecentrality 24
     indegreecentrality 11
     outdegreecentrality 13
-    betweennesscentrality 460.7
-    eigenvectorcentrality 0.453
-    pagerank 0.002
-    closeness 0.192
+    betweennesscentrality 246.380867824986
+    eigenvectorcentrality 0.476951175125354
+    pagerank 0.00121164040144146
+    closeness 0.192161649037158
   ]
   node
   [
@@ -7109,9 +7109,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.123
+    eigenvectorcentrality 0.000413111179881386
+    pagerank 0.000930276158052619
+    closeness 0.122971448407533
   ]
   node
   [
@@ -7124,9 +7124,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.123
+    eigenvectorcentrality 0.000413111179881384
+    pagerank 0.00093027615805258
+    closeness 0.122971448407533
   ]
   node
   [
@@ -7139,9 +7139,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.05
-    pagerank 0.001
-    closeness 0.162
+    eigenvectorcentrality 0.0534320762082761
+    pagerank 0.000568001322975156
+    closeness 0.16246273790415
   ]
   node
   [
@@ -7154,9 +7154,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.158
+    eigenvectorcentrality 9.15416006727927e-05
+    pagerank 0.000874727805864096
+    closeness 0.158164973769394
   ]
   node
   [
@@ -7169,9 +7169,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.158
+    eigenvectorcentrality 9.15416006727932e-05
+    pagerank 0.000874727805864093
+    closeness 0.158164973769394
   ]
   node
   [
@@ -7184,9 +7184,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.158
+    eigenvectorcentrality 9.15416006727954e-05
+    pagerank 0.000874727805864088
+    closeness 0.158164973769394
   ]
   node
   [
@@ -7199,9 +7199,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0.023
-    pagerank 0.001
-    closeness 0.163
+    eigenvectorcentrality 0.0236085344945459
+    pagerank 0.000840658898906016
+    closeness 0.16302346985734
   ]
   node
   [
@@ -7214,9 +7214,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.124
+    eigenvectorcentrality 2.17690503968891e-07
+    pagerank 0.000711812433987388
+    closeness 0.124178424327403
   ]
   node
   [
@@ -7229,9 +7229,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.124
+    eigenvectorcentrality 2.17690503971931e-07
+    pagerank 0.000711812433987388
+    closeness 0.124178424327403
   ]
   node
   [
@@ -7244,9 +7244,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.131
+    eigenvectorcentrality 5.67307645861209e-06
+    pagerank 0.000628887839280469
+    closeness 0.130550948958909
   ]
   node
   [
@@ -7259,9 +7259,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0.015
-    pagerank 0.001
-    closeness 0.152
+    eigenvectorcentrality 0.0156159344647334
+    pagerank 0.00106408634860303
+    closeness 0.151713062098501
   ]
   node
   [
@@ -7274,9 +7274,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0.015
-    pagerank 0.001
-    closeness 0.152
+    eigenvectorcentrality 0.0156159344647334
+    pagerank 0.00106408634860286
+    closeness 0.151713062098501
   ]
   node
   [
@@ -7289,9 +7289,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0.015
-    pagerank 0.001
-    closeness 0.152
+    eigenvectorcentrality 0.0156159344647334
+    pagerank 0.00106408634860267
+    closeness 0.151713062098501
   ]
   node
   [
@@ -7304,9 +7304,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0.015
-    pagerank 0.001
-    closeness 0.152
+    eigenvectorcentrality 0.0156159344647334
+    pagerank 0.00106408634860243
+    closeness 0.151713062098501
   ]
   node
   [
@@ -7319,9 +7319,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0.001
-    closeness 0.147
+    eigenvectorcentrality 0.00223341287577678
+    pagerank 0.000750595390987183
+    closeness 0.147251376909488
   ]
   node
   [
@@ -7334,9 +7334,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0.001
-    closeness 0.147
+    eigenvectorcentrality 0.00223341287577678
+    pagerank 0.00075059539098622
+    closeness 0.147251376909488
   ]
   node
   [
@@ -7349,9 +7349,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.163
+    eigenvectorcentrality 6.52362903807195e-05
+    pagerank 0.000517261549604819
+    closeness 0.16307975601335
   ]
   node
   [
@@ -7364,9 +7364,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.075
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0763133848843601
+    pagerank 0.000472234320607267
+    closeness 0.180165289256198
   ]
   node
   [
@@ -7379,9 +7379,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.142
+    eigenvectorcentrality 2.13630737026235e-06
+    pagerank 0.000487209247110161
+    closeness 0.141870244293152
   ]
   node
   [
@@ -7393,10 +7393,10 @@ graph
     alldegreecentrality 4
     indegreecentrality 1
     outdegreecentrality 3
-    betweennesscentrality 1416
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.101
+    betweennesscentrality 514
+    eigenvectorcentrality 4.33226777020895e-09
+    pagerank 0.000537972693405627
+    closeness 0.100582055650199
   ]
   node
   [
@@ -7409,9 +7409,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.111
+    eigenvectorcentrality 2.41204845556625e-08
+    pagerank 0.00050710311262573
+    closeness 0.111469477658905
   ]
   node
   [
@@ -7424,9 +7424,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0.121
-    pagerank 0.001
-    closeness 0.181
+    eigenvectorcentrality 0.124456420762709
+    pagerank 0.000767775564209296
+    closeness 0.180762852404643
   ]
   node
   [
@@ -7439,9 +7439,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 5
     betweennesscentrality 0
-    eigenvectorcentrality 0.121
-    pagerank 0.001
-    closeness 0.181
+    eigenvectorcentrality 0.124456420762709
+    pagerank 0.000767775564209155
+    closeness 0.180762852404643
   ]
   node
   [
@@ -7454,9 +7454,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.161
+    eigenvectorcentrality 3.08048030296724e-05
+    pagerank 0.000459271760032257
+    closeness 0.160621174336885
   ]
   node
   [
@@ -7469,9 +7469,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.141459518818009
   ]
   node
   [
@@ -7484,9 +7484,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.151
+    eigenvectorcentrality 0.000199950378448563
+    pagerank 0.000498790540490037
+    closeness 0.151195049082373
   ]
   node
   [
@@ -7499,9 +7499,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.142
+    eigenvectorcentrality 1.5289441706573e-06
+    pagerank 0.000513087492277276
+    closeness 0.141516029162089
   ]
   node
   [
@@ -7514,9 +7514,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.011
-    pagerank 0.001
-    closeness 0.204
+    eigenvectorcentrality 0.0122013832398345
+    pagerank 0.000555299021963345
+    closeness 0.204443803203001
   ]
   node
   [
@@ -7529,9 +7529,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.14
+    eigenvectorcentrality 8.4862170309966e-06
+    pagerank 0.000702061664050164
+    closeness 0.139826327215315
   ]
   node
   [
@@ -7544,9 +7544,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.14
+    eigenvectorcentrality 8.48621703099349e-06
+    pagerank 0.000702061664050163
+    closeness 0.139826327215315
   ]
   node
   [
@@ -7559,9 +7559,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0.006
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600755
+    closeness 0.19634197034779
   ]
   node
   [
@@ -7574,9 +7574,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.17
+    eigenvectorcentrality 0.000454822875370467
+    pagerank 0.000478675404927963
+    closeness 0.170292032207667
   ]
   node
   [
@@ -7589,9 +7589,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.185
+    eigenvectorcentrality 0.000297173953284914
+    pagerank 0.000461736851667786
+    closeness 0.184890396659708
   ]
   node
   [
@@ -7603,10 +7603,10 @@ graph
     alldegreecentrality 6
     indegreecentrality 2
     outdegreecentrality 4
-    betweennesscentrality 704
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.126
+    betweennesscentrality 255
+    eigenvectorcentrality 1.67430533609317e-05
+    pagerank 0.000561190345929066
+    closeness 0.126179875333927
   ]
   node
   [
@@ -7619,9 +7619,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 3
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0.001
-    closeness 0.152
+    eigenvectorcentrality 0.000751867545123793
+    pagerank 0.000556738480041167
+    closeness 0.152022315202232
   ]
   node
   [
@@ -7634,9 +7634,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.1
+    eigenvectorcentrality 3.60031422623027e-09
+    pagerank 0.000579910295183779
+    closeness 0.100325686774285
   ]
   node
   [
@@ -7649,9 +7649,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 2
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.147
+    eigenvectorcentrality 2.21420312454565e-06
+    pagerank 0.000472947717764128
+    closeness 0.14680895151264
   ]
   node
   [
@@ -7664,9 +7664,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.144
+    eigenvectorcentrality 0.000187282499593199
+    pagerank 0.00091839798377448
+    closeness 0.143784880771182
   ]
   node
   [
@@ -7679,9 +7679,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.144
+    eigenvectorcentrality 0.000187282499593195
+    pagerank 0.000918397983774477
+    closeness 0.143784880771182
   ]
   node
   [
@@ -7694,9 +7694,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 6
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.144
+    eigenvectorcentrality 0.000187282499593206
+    pagerank 0.000918397983774474
+    closeness 0.143784880771182
   ]
   node
   [
@@ -7709,9 +7709,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0.092
-    pagerank 0.001
-    closeness 0.181
+    eigenvectorcentrality 0.094516520593742
+    pagerank 0.000694440495010894
+    closeness 0.180647628760836
   ]
   node
   [
@@ -7724,9 +7724,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 4
     betweennesscentrality 0
-    eigenvectorcentrality 0.092
-    pagerank 0.001
-    closeness 0.181
+    eigenvectorcentrality 0.0945165205937421
+    pagerank 0.00069444049501079
+    closeness 0.180647628760836
   ]
   node
   [
@@ -7739,9 +7739,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.11
+    eigenvectorcentrality 4.94664565600208e-08
+    pagerank 0.000557617530563199
+    closeness 0.109522337300974
   ]
   node
   [
@@ -7754,9 +7754,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.125
+    eigenvectorcentrality 4.31842755508429e-07
+    pagerank 0.000523903256703825
+    closeness 0.124823819591261
   ]
   node
   [
@@ -7769,9 +7769,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.125
+    eigenvectorcentrality 4.31842755508429e-07
+    pagerank 0.000523903256703825
+    closeness 0.124823819591261
   ]
   node
   [
@@ -7784,9 +7784,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.09
+    eigenvectorcentrality 1.67230758521716e-10
+    pagerank 0.000567852846215786
+    closeness 0.0902605261481623
   ]
   node
   [
@@ -7799,9 +7799,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.006
-    pagerank 0
-    closeness 0.154
+    eigenvectorcentrality 0.01249432101145
+    pagerank 0.000511218175607526
+    closeness 0.153554399653229
   ]
   node
   [
@@ -7814,9 +7814,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.116
+    eigenvectorcentrality 3.56208357121008e-05
+    pagerank 0.000529790917617914
+    closeness 0.116242821985234
   ]
   node
   [
@@ -7829,9 +7829,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.116
+    eigenvectorcentrality 3.56208357121008e-05
+    pagerank 0.000529790917617914
+    closeness 0.116242821985234
   ]
   node
   [
@@ -7844,9 +7844,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 1.94522789940166e-06
+    pagerank 0.000529596007126483
+    closeness 0.13574097135741
   ]
   node
   [
@@ -7859,9 +7859,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.179
+    eigenvectorcentrality 0.000865782605974973
+    pagerank 0.000482255295251693
+    closeness 0.178530931082273
   ]
   node
   [
@@ -7874,9 +7874,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.179
+    eigenvectorcentrality 0.000865782605974973
+    pagerank 0.000482255295251693
+    closeness 0.178530931082273
   ]
   node
   [
@@ -7889,9 +7889,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.179
+    eigenvectorcentrality 0.000865782605974973
+    pagerank 0.000482255295251693
+    closeness 0.178530931082273
   ]
   node
   [
@@ -7904,9 +7904,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.179
+    eigenvectorcentrality 0.000865782605974973
+    pagerank 0.000482255295251693
+    closeness 0.178530931082273
   ]
   node
   [
@@ -7919,9 +7919,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.179
+    eigenvectorcentrality 0.000865782605974973
+    pagerank 0.000482255295251693
+    closeness 0.178530931082273
   ]
   node
   [
@@ -7934,9 +7934,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.179
+    eigenvectorcentrality 0.000865782605974973
+    pagerank 0.000482255295251693
+    closeness 0.178530931082273
   ]
   node
   [
@@ -7949,9 +7949,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.158
+    eigenvectorcentrality 7.7569901862649e-05
+    pagerank 0.000502968488371862
+    closeness 0.158112028565052
   ]
   node
   [
@@ -7964,9 +7964,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.158
+    eigenvectorcentrality 7.7569901862649e-05
+    pagerank 0.000502968488371862
+    closeness 0.158112028565052
   ]
   node
   [
@@ -7979,9 +7979,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.000694177839440227
+    pagerank 0.000496017537792338
+    closeness 0.151843120445778
   ]
   node
   [
@@ -7994,9 +7994,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.000694177839440227
+    pagerank 0.000496017537792338
+    closeness 0.151843120445778
   ]
   node
   [
@@ -8009,9 +8009,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.000694177839440227
+    pagerank 0.000496017537792338
+    closeness 0.151843120445778
   ]
   node
   [
@@ -8024,9 +8024,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.109
+    eigenvectorcentrality 2.88567507814967e-07
+    pagerank 0.000471820689429343
+    closeness 0.10917636181524
   ]
   node
   [
@@ -8039,9 +8039,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.109
+    eigenvectorcentrality 2.88567507814967e-07
+    pagerank 0.000471820689429343
+    closeness 0.10917636181524
   ]
   node
   [
@@ -8054,9 +8054,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.109
+    eigenvectorcentrality 2.88567507814967e-07
+    pagerank 0.000471820689429343
+    closeness 0.10917636181524
   ]
   node
   [
@@ -8069,9 +8069,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.109
+    eigenvectorcentrality 2.88567507814967e-07
+    pagerank 0.000471820689429343
+    closeness 0.10917636181524
   ]
   node
   [
@@ -8084,9 +8084,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.109
+    eigenvectorcentrality 2.88567507814967e-07
+    pagerank 0.000471820689429343
+    closeness 0.10917636181524
   ]
   node
   [
@@ -8099,9 +8099,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.109
+    eigenvectorcentrality 2.88567507814967e-07
+    pagerank 0.000471820689429343
+    closeness 0.10917636181524
   ]
   node
   [
@@ -8114,9 +8114,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.109
+    eigenvectorcentrality 2.88567507814967e-07
+    pagerank 0.000471820689429343
+    closeness 0.10917636181524
   ]
   node
   [
@@ -8129,9 +8129,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.112
+    eigenvectorcentrality 1.50785867394456e-06
+    pagerank 0.000532860370200021
+    closeness 0.112086695143174
   ]
   node
   [
@@ -8144,9 +8144,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.125
+    eigenvectorcentrality 2.42796232165678e-07
+    pagerank 0.000531333016020818
+    closeness 0.124593335091884
   ]
   node
   [
@@ -8159,9 +8159,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 7.7468089980844e-06
+    pagerank 0.000498986949681666
+    closeness 0.139867732701609
   ]
   node
   [
@@ -8174,9 +8174,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 7.7468089980844e-06
+    pagerank 0.000498986949681666
+    closeness 0.139867732701609
   ]
   node
   [
@@ -8189,9 +8189,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.123
+    eigenvectorcentrality 2.48941638111066e-07
+    pagerank 0.000522409134203518
+    closeness 0.123238824143329
   ]
   node
   [
@@ -8204,9 +8204,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.000454822875370467
+    pagerank 0.000478675404927965
+    closeness 0.170271569334295
   ]
   node
   [
@@ -8219,9 +8219,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.000454822875370467
+    pagerank 0.000478675404927965
+    closeness 0.170271569334295
   ]
   node
   [
@@ -8234,9 +8234,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.000454822875370467
+    pagerank 0.000478675404927965
+    closeness 0.170271569334295
   ]
   node
   [
@@ -8249,9 +8249,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.000489531948512825
+    pagerank 0.00068211245202235
+    closeness 0.170292032207667
   ]
   node
   [
@@ -8264,9 +8264,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.000454822875370467
+    pagerank 0.000478675404927965
+    closeness 0.170271569334295
   ]
   node
   [
@@ -8279,9 +8279,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.000454822875370467
+    pagerank 0.000478675404927965
+    closeness 0.170271569334295
   ]
   node
   [
@@ -8294,9 +8294,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.000454822875370467
+    pagerank 0.000478675404927965
+    closeness 0.170271569334295
   ]
   node
   [
@@ -8309,9 +8309,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.000454822875370467
+    pagerank 0.000478675404927965
+    closeness 0.170271569334295
   ]
   node
   [
@@ -8324,9 +8324,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 0.000123659258859012
+    pagerank 0.000482449901519611
+    closeness 0.14189865812137
   ]
   node
   [
@@ -8339,9 +8339,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 0.000123659258859012
+    pagerank 0.000482449901519611
+    closeness 0.14189865812137
   ]
   node
   [
@@ -8354,9 +8354,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 0.000123659258859012
+    pagerank 0.000482449901519611
+    closeness 0.14189865812137
   ]
   node
   [
@@ -8369,9 +8369,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 0.000123659258859012
+    pagerank 0.000482449901519611
+    closeness 0.14189865812137
   ]
   node
   [
@@ -8384,9 +8384,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 0.00747284501935402
+    pagerank 0.000524104676417759
+    closeness 0.152693965517241
   ]
   node
   [
@@ -8399,9 +8399,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.000489531948512825
+    pagerank 0.00068211245202235
+    closeness 0.170292032207667
   ]
   node
   [
@@ -8414,9 +8414,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.151
+    eigenvectorcentrality 0.000199950378448563
+    pagerank 0.000498790540490039
+    closeness 0.151178918169209
   ]
   node
   [
@@ -8429,9 +8429,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.151
+    eigenvectorcentrality 0.000199950378448563
+    pagerank 0.000498790540490039
+    closeness 0.151178918169209
   ]
   node
   [
@@ -8444,9 +8444,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.151
+    eigenvectorcentrality 0.000199950378448563
+    pagerank 0.000498790540490039
+    closeness 0.151178918169209
   ]
   node
   [
@@ -8459,9 +8459,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.157
+    eigenvectorcentrality 2.34683655766908e-05
+    pagerank 0.000495442505578735
+    closeness 0.156921373200443
   ]
   node
   [
@@ -8474,9 +8474,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 2.15881008287745e-06
+    pagerank 0.000545791198092945
+    closeness 0.138799098834362
   ]
   node
   [
@@ -8489,9 +8489,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.112
+    eigenvectorcentrality 1.59845223984697e-06
+    pagerank 0.000508182944845655
+    closeness 0.112113300102856
   ]
   node
   [
@@ -8504,9 +8504,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.112
+    eigenvectorcentrality 2.87617131511868e-06
+    pagerank 0.000627435893355581
+    closeness 0.112122171229625
   ]
   node
   [
@@ -8519,9 +8519,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.155
+    eigenvectorcentrality 0.00586769912620764
+    pagerank 0.000504876564667408
+    closeness 0.154880314788501
   ]
   node
   [
@@ -8534,9 +8534,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.151
+    eigenvectorcentrality 0.000221489668201595
+    pagerank 0.000502766677900736
+    closeness 0.150600488893612
   ]
   node
   [
@@ -8549,9 +8549,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.151
+    eigenvectorcentrality 0.000221489668201595
+    pagerank 0.000502766677900736
+    closeness 0.150600488893612
   ]
   node
   [
@@ -8564,9 +8564,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.151
+    eigenvectorcentrality 0.000221489668201595
+    pagerank 0.000502766677900736
+    closeness 0.150600488893612
   ]
   node
   [
@@ -8579,9 +8579,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.101
+    eigenvectorcentrality 4.33226777020895e-09
+    pagerank 0.000537972693405627
+    closeness 0.100560641544248
   ]
   node
   [
@@ -8594,9 +8594,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8609,9 +8609,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8624,9 +8624,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.98640182771025e-05
+    pagerank 0.000645346225145163
+    closeness 0.138663274292984
   ]
   node
   [
@@ -8639,9 +8639,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8654,9 +8654,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8669,9 +8669,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8684,9 +8684,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8699,9 +8699,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8714,9 +8714,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8729,9 +8729,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8744,9 +8744,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.98640182771029e-05
+    pagerank 0.000645346225145163
+    closeness 0.138663274292984
   ]
   node
   [
@@ -8759,9 +8759,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8774,9 +8774,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8789,9 +8789,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8804,9 +8804,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8819,9 +8819,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8834,9 +8834,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8849,9 +8849,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8864,9 +8864,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8879,9 +8879,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.84556083349631e-05
+    pagerank 0.000452874543961518
+    closeness 0.138649706457926
   ]
   node
   [
@@ -8894,9 +8894,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.125
+    eigenvectorcentrality 2.61324834479226e-07
+    pagerank 0.000757149547829453
+    closeness 0.124604291241646
   ]
   node
   [
@@ -8909,9 +8909,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.028
-    pagerank 0
-    closeness 0.177
+    eigenvectorcentrality 0.058675698172821
+    pagerank 0.000468680072981637
+    closeness 0.177324490051308
   ]
   node
   [
@@ -8924,9 +8924,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.028
-    pagerank 0
-    closeness 0.177
+    eigenvectorcentrality 0.058675698172821
+    pagerank 0.000468680072981637
+    closeness 0.177324490051308
   ]
   node
   [
@@ -8939,9 +8939,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.028
-    pagerank 0
-    closeness 0.177
+    eigenvectorcentrality 0.058675698172821
+    pagerank 0.000468680072981637
+    closeness 0.177324490051308
   ]
   node
   [
@@ -8954,9 +8954,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.028
-    pagerank 0
-    closeness 0.177
+    eigenvectorcentrality 0.058675698172821
+    pagerank 0.000468680072981637
+    closeness 0.177324490051308
   ]
   node
   [
@@ -8969,9 +8969,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.028
-    pagerank 0
-    closeness 0.177
+    eigenvectorcentrality 0.058675698172821
+    pagerank 0.000468680072981637
+    closeness 0.177324490051308
   ]
   node
   [
@@ -8984,9 +8984,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.028
-    pagerank 0
-    closeness 0.177
+    eigenvectorcentrality 0.058675698172821
+    pagerank 0.000468680072981637
+    closeness 0.177324490051308
   ]
   node
   [
@@ -8999,9 +8999,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.105
+    eigenvectorcentrality 1.00786907558837e-07
+    pagerank 0.000450098947371584
+    closeness 0.104707012487992
   ]
   node
   [
@@ -9014,9 +9014,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.105
+    eigenvectorcentrality 1.00786907558837e-07
+    pagerank 0.000450098947371584
+    closeness 0.104707012487992
   ]
   node
   [
@@ -9029,9 +9029,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.105
+    eigenvectorcentrality 1.00786907558837e-07
+    pagerank 0.000450098947371584
+    closeness 0.104707012487992
   ]
   node
   [
@@ -9044,9 +9044,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.105
+    eigenvectorcentrality 1.00786907558837e-07
+    pagerank 0.000450098947371584
+    closeness 0.104707012487992
   ]
   node
   [
@@ -9059,9 +9059,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.105
+    eigenvectorcentrality 1.00786907558837e-07
+    pagerank 0.000450098947371584
+    closeness 0.104707012487992
   ]
   node
   [
@@ -9074,9 +9074,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.105
+    eigenvectorcentrality 1.00786907558837e-07
+    pagerank 0.000450098947371584
+    closeness 0.104707012487992
   ]
   node
   [
@@ -9089,9 +9089,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.105
+    eigenvectorcentrality 1.00786907558837e-07
+    pagerank 0.000450098947371584
+    closeness 0.104707012487992
   ]
   node
   [
@@ -9104,9 +9104,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.105
+    eigenvectorcentrality 1.00786907558837e-07
+    pagerank 0.000450098947371584
+    closeness 0.104707012487992
   ]
   node
   [
@@ -9119,9 +9119,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.105
+    eigenvectorcentrality 1.00786907558837e-07
+    pagerank 0.000450098947371584
+    closeness 0.104707012487992
   ]
   node
   [
@@ -9134,9 +9134,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.105
+    eigenvectorcentrality 1.00786907558837e-07
+    pagerank 0.000450098947371584
+    closeness 0.104707012487992
   ]
   node
   [
@@ -9149,9 +9149,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.105
+    eigenvectorcentrality 1.00786907558837e-07
+    pagerank 0.000450098947371584
+    closeness 0.104707012487992
   ]
   node
   [
@@ -9164,9 +9164,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.105
+    eigenvectorcentrality 1.00786907558837e-07
+    pagerank 0.000450098947371584
+    closeness 0.104707012487992
   ]
   node
   [
@@ -9179,9 +9179,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 0.0105350946618247
+    pagerank 0.000522131271194101
+    closeness 0.153189189189189
   ]
   node
   [
@@ -9194,9 +9194,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000297173953284914
+    pagerank 0.000461736851667812
+    closeness 0.184866275277234
   ]
   node
   [
@@ -9209,9 +9209,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000297173953284914
+    pagerank 0.000461736851667812
+    closeness 0.184866275277234
   ]
   node
   [
@@ -9224,9 +9224,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000320642318861606
+    pagerank 0.000539131535704509
+    closeness 0.185471204188482
   ]
   node
   [
@@ -9239,9 +9239,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000297173953284914
+    pagerank 0.000461736851667812
+    closeness 0.184866275277234
   ]
   node
   [
@@ -9254,9 +9254,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000297173953284914
+    pagerank 0.000461736851667812
+    closeness 0.184866275277234
   ]
   node
   [
@@ -9269,9 +9269,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000297173953284914
+    pagerank 0.000461736851667812
+    closeness 0.184866275277234
   ]
   node
   [
@@ -9284,9 +9284,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000297173953284914
+    pagerank 0.000461736851667812
+    closeness 0.184866275277234
   ]
   node
   [
@@ -9299,9 +9299,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000297173953284914
+    pagerank 0.000461736851667812
+    closeness 0.184866275277234
   ]
   node
   [
@@ -9314,9 +9314,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000297173953284914
+    pagerank 0.000461736851667812
+    closeness 0.184866275277234
   ]
   node
   [
@@ -9329,9 +9329,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000297173953284914
+    pagerank 0.000461736851667812
+    closeness 0.184866275277234
   ]
   node
   [
@@ -9344,9 +9344,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000297173953284914
+    pagerank 0.000461736851667812
+    closeness 0.184866275277234
   ]
   node
   [
@@ -9359,9 +9359,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000297173953284914
+    pagerank 0.000461736851667812
+    closeness 0.184866275277234
   ]
   node
   [
@@ -9374,9 +9374,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000297173953284914
+    pagerank 0.000461736851667812
+    closeness 0.184866275277234
   ]
   node
   [
@@ -9389,9 +9389,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 3.06618381548244e-06
+    pagerank 0.000471208875360255
+    closeness 0.142012427340148
   ]
   node
   [
@@ -9404,9 +9404,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 3.06618381548244e-06
+    pagerank 0.000471208875360255
+    closeness 0.142012427340148
   ]
   node
   [
@@ -9419,9 +9419,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 3.06618381548244e-06
+    pagerank 0.000471208875360255
+    closeness 0.142012427340148
   ]
   node
   [
@@ -9434,9 +9434,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 3.06618381548244e-06
+    pagerank 0.000471208875360255
+    closeness 0.142012427340148
   ]
   node
   [
@@ -9449,9 +9449,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 3.06618381548244e-06
+    pagerank 0.000471208875360255
+    closeness 0.142012427340148
   ]
   node
   [
@@ -9464,9 +9464,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 3.06618381548244e-06
+    pagerank 0.000471208875360255
+    closeness 0.142012427340148
   ]
   node
   [
@@ -9479,9 +9479,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 3.06618381548244e-06
+    pagerank 0.000471208875360255
+    closeness 0.142012427340148
   ]
   node
   [
@@ -9494,9 +9494,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 3.06618381548244e-06
+    pagerank 0.000471208875360255
+    closeness 0.142012427340148
   ]
   node
   [
@@ -9509,9 +9509,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 3.06618381548244e-06
+    pagerank 0.000471208875360255
+    closeness 0.142012427340148
   ]
   node
   [
@@ -9524,9 +9524,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 3.06618381548244e-06
+    pagerank 0.000471208875360255
+    closeness 0.142012427340148
   ]
   node
   [
@@ -9539,9 +9539,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 3.06618381548244e-06
+    pagerank 0.000471208875360255
+    closeness 0.142012427340148
   ]
   node
   [
@@ -9554,9 +9554,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 3.3089800476498e-06
+    pagerank 0.000584494069839035
+    closeness 0.142169158222133
   ]
   node
   [
@@ -9569,9 +9569,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 3.06618381548244e-06
+    pagerank 0.000471208875360255
+    closeness 0.142012427340148
   ]
   node
   [
@@ -9584,9 +9584,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.117
+    eigenvectorcentrality 5.90557651966648e-07
+    pagerank 0.000552439836104708
+    closeness 0.116856341745011
   ]
   node
   [
@@ -9599,9 +9599,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.00069985950588287
+    pagerank 0.000451210393453158
+    closeness 0.152136568606399
   ]
   node
   [
@@ -9614,9 +9614,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.00069985950588287
+    pagerank 0.000451210393453158
+    closeness 0.152136568606399
   ]
   node
   [
@@ -9629,9 +9629,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.00069985950588287
+    pagerank 0.000451210393453158
+    closeness 0.152136568606399
   ]
   node
   [
@@ -9644,9 +9644,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.00069985950588287
+    pagerank 0.000451210393453158
+    closeness 0.152136568606399
   ]
   node
   [
@@ -9659,9 +9659,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.00069985950588287
+    pagerank 0.000451210393453158
+    closeness 0.152136568606399
   ]
   node
   [
@@ -9674,9 +9674,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.00069985950588287
+    pagerank 0.000451210393453158
+    closeness 0.152136568606399
   ]
   node
   [
@@ -9689,9 +9689,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.00069985950588287
+    pagerank 0.000451210393453158
+    closeness 0.152136568606399
   ]
   node
   [
@@ -9704,9 +9704,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.00069985950588287
+    pagerank 0.000451210393453158
+    closeness 0.152136568606399
   ]
   node
   [
@@ -9719,9 +9719,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.00069985950588287
+    pagerank 0.000451210393453158
+    closeness 0.152136568606399
   ]
   node
   [
@@ -9734,9 +9734,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.00069985950588287
+    pagerank 0.000451210393453158
+    closeness 0.152136568606399
   ]
   node
   [
@@ -9749,9 +9749,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.00069985950588287
+    pagerank 0.000451210393453158
+    closeness 0.152136568606399
   ]
   node
   [
@@ -9764,9 +9764,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.00069985950588287
+    pagerank 0.000451210393453158
+    closeness 0.152136568606399
   ]
   node
   [
@@ -9779,9 +9779,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.124
+    eigenvectorcentrality 1.78772682777924e-07
+    pagerank 0.000543326232435169
+    closeness 0.124396453340356
   ]
   node
   [
@@ -9794,9 +9794,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.037
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0763133848843601
+    pagerank 0.000472234320607392
+    closeness 0.180142384947877
   ]
   node
   [
@@ -9809,9 +9809,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.037
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0763133848843601
+    pagerank 0.000472234320607392
+    closeness 0.180142384947877
   ]
   node
   [
@@ -9824,9 +9824,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.037
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0763133848843601
+    pagerank 0.000472234320607392
+    closeness 0.180142384947877
   ]
   node
   [
@@ -9839,9 +9839,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.037
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0763133848843601
+    pagerank 0.000472234320607392
+    closeness 0.180142384947877
   ]
   node
   [
@@ -9854,9 +9854,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.037
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0763133848843601
+    pagerank 0.000472234320607392
+    closeness 0.180142384947877
   ]
   node
   [
@@ -9869,9 +9869,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.037
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0763133848843601
+    pagerank 0.000472234320607392
+    closeness 0.180142384947877
   ]
   node
   [
@@ -9884,9 +9884,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.037
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0763133848843601
+    pagerank 0.000472234320607392
+    closeness 0.180142384947877
   ]
   node
   [
@@ -9899,9 +9899,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.037
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0763133848843601
+    pagerank 0.000472234320607392
+    closeness 0.180142384947877
   ]
   node
   [
@@ -9914,9 +9914,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.037
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0763133848843601
+    pagerank 0.000472234320607392
+    closeness 0.180142384947877
   ]
   node
   [
@@ -9929,9 +9929,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.037
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0763133848843601
+    pagerank 0.000472234320607392
+    closeness 0.180142384947877
   ]
   node
   [
@@ -9944,9 +9944,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.037
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0763133848843601
+    pagerank 0.000472234320607392
+    closeness 0.180142384947877
   ]
   node
   [
@@ -9959,9 +9959,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.037
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0763133848843601
+    pagerank 0.000472234320607392
+    closeness 0.180142384947877
   ]
   node
   [
@@ -9974,9 +9974,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.037
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0763133848843601
+    pagerank 0.000472234320607392
+    closeness 0.180142384947877
   ]
   node
   [
@@ -9989,9 +9989,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.131
+    eigenvectorcentrality 5.92789905408156e-07
+    pagerank 0.000475548844226329
+    closeness 0.131021729079981
   ]
   node
   [
@@ -10004,9 +10004,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 7.8386050844939e-06
+    pagerank 0.000503144192569286
+    closeness 0.139798737174428
   ]
   node
   [
@@ -10019,9 +10019,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 7.8386050844939e-06
+    pagerank 0.000503144192569286
+    closeness 0.139798737174428
   ]
   node
   [
@@ -10034,9 +10034,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 7.8386050844939e-06
+    pagerank 0.000503144192569286
+    closeness 0.139798737174428
   ]
   node
   [
@@ -10049,9 +10049,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 7.8386050844939e-06
+    pagerank 0.000503144192569286
+    closeness 0.139798737174428
   ]
   node
   [
@@ -10064,9 +10064,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.117
+    eigenvectorcentrality 5.90557651965267e-07
+    pagerank 0.000497864398718852
+    closeness 0.116894901831381
   ]
   node
   [
@@ -10079,9 +10079,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.117
+    eigenvectorcentrality 5.90557651965267e-07
+    pagerank 0.000497864398718852
+    closeness 0.116894901831381
   ]
   node
   [
@@ -10094,9 +10094,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.117
+    eigenvectorcentrality 5.90557651965267e-07
+    pagerank 0.000497864398718852
+    closeness 0.116894901831381
   ]
   node
   [
@@ -10109,9 +10109,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.117
+    eigenvectorcentrality 5.90557651965267e-07
+    pagerank 0.000497864398718852
+    closeness 0.116894901831381
   ]
   node
   [
@@ -10124,9 +10124,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.117
+    eigenvectorcentrality 5.90557651965267e-07
+    pagerank 0.000497864398718852
+    closeness 0.116894901831381
   ]
   node
   [
@@ -10139,9 +10139,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 2.62758334636282e-06
+    pagerank 0.000552925144691175
+    closeness 0.139249213836478
   ]
   node
   [
@@ -10154,9 +10154,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.121
+    eigenvectorcentrality 1.07130850145523e-05
+    pagerank 0.000556092697421802
+    closeness 0.121173251239952
   ]
   node
   [
@@ -10169,9 +10169,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10184,9 +10184,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10199,9 +10199,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10214,9 +10214,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10229,9 +10229,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10244,9 +10244,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.19
+    eigenvectorcentrality 0.000324649355330344
+    pagerank 0.000514205115699082
+    closeness 0.190482591746202
   ]
   node
   [
@@ -10259,9 +10259,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10274,9 +10274,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10289,9 +10289,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10304,9 +10304,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10319,9 +10319,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10334,9 +10334,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10349,9 +10349,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10364,9 +10364,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10379,9 +10379,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10394,9 +10394,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10409,9 +10409,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10424,9 +10424,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10439,9 +10439,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10454,9 +10454,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10469,9 +10469,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10484,9 +10484,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10499,9 +10499,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10514,9 +10514,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10529,9 +10529,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10544,9 +10544,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10559,9 +10559,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.74754020454312e-05
+    pagerank 0.000470516085573309
+    closeness 0.164652567975831
   ]
   node
   [
@@ -10574,9 +10574,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 6.30284813491684e-05
+    pagerank 0.000490462011559266
+    closeness 0.132195167459651
   ]
   node
   [
@@ -10589,9 +10589,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 0.000238231243240118
+    pagerank 0.000502067224920569
+    closeness 0.160766961651917
   ]
   node
   [
@@ -10604,9 +10604,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 0.000238231243240118
+    pagerank 0.000502067224920569
+    closeness 0.160766961651917
   ]
   node
   [
@@ -10619,9 +10619,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 3.2015342100524e-05
+    pagerank 0.000842552060212666
+    closeness 0.164690841469084
   ]
   node
   [
@@ -10634,9 +10634,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600764
+    closeness 0.196314768633971
   ]
   node
   [
@@ -10649,9 +10649,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600764
+    closeness 0.196314768633971
   ]
   node
   [
@@ -10664,9 +10664,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600764
+    closeness 0.196314768633971
   ]
   node
   [
@@ -10679,9 +10679,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600764
+    closeness 0.196314768633971
   ]
   node
   [
@@ -10694,9 +10694,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600764
+    closeness 0.196314768633971
   ]
   node
   [
@@ -10709,9 +10709,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600764
+    closeness 0.196314768633971
   ]
   node
   [
@@ -10724,9 +10724,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600764
+    closeness 0.196314768633971
   ]
   node
   [
@@ -10739,9 +10739,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600764
+    closeness 0.196314768633971
   ]
   node
   [
@@ -10754,9 +10754,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600764
+    closeness 0.196314768633971
   ]
   node
   [
@@ -10769,9 +10769,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600764
+    closeness 0.196314768633971
   ]
   node
   [
@@ -10784,9 +10784,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600764
+    closeness 0.196314768633971
   ]
   node
   [
@@ -10799,9 +10799,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00654700313069623
+    pagerank 0.000471632039600764
+    closeness 0.196314768633971
   ]
   node
   [
@@ -10814,9 +10814,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.00034912261542897
+    pagerank 0.000741673250083305
+    closeness 0.184938658313756
   ]
   node
   [
@@ -10829,9 +10829,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.159
+    eigenvectorcentrality 0.000101189780436884
+    pagerank 0.000720191091610923
+    closeness 0.158643081056874
   ]
   node
   [
@@ -10844,9 +10844,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.158
+    eigenvectorcentrality 9.85274500778687e-05
+    pagerank 0.00106060746461022
+    closeness 0.158164973769394
   ]
   node
   [
@@ -10859,9 +10859,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 2.13630737026235e-06
+    pagerank 0.000487209247110161
+    closeness 0.14185604164581
   ]
   node
   [
@@ -10874,9 +10874,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 2.13630737026235e-06
+    pagerank 0.000487209247110161
+    closeness 0.14185604164581
   ]
   node
   [
@@ -10889,9 +10889,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 2.13630737026235e-06
+    pagerank 0.000487209247110161
+    closeness 0.14185604164581
   ]
   node
   [
@@ -10904,9 +10904,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.96117094156834e-05
+    pagerank 0.000539677511141432
+    closeness 0.164978460821982
   ]
   node
   [
@@ -10919,9 +10919,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 2.13630737026235e-06
+    pagerank 0.000487209247110161
+    closeness 0.14185604164581
   ]
   node
   [
@@ -10934,9 +10934,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 2.13630737026235e-06
+    pagerank 0.000487209247110161
+    closeness 0.14185604164581
   ]
   node
   [
@@ -10949,9 +10949,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.101
+    eigenvectorcentrality 6.8309086727159e-09
+    pagerank 0.000495920519194764
+    closeness 0.101308357760778
   ]
   node
   [
@@ -10964,9 +10964,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.101
+    eigenvectorcentrality 6.8309086727159e-09
+    pagerank 0.000495920519194764
+    closeness 0.101308357760778
   ]
   node
   [
@@ -10979,9 +10979,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.101
+    eigenvectorcentrality 6.8309086727159e-09
+    pagerank 0.000495920519194764
+    closeness 0.101308357760778
   ]
   node
   [
@@ -10994,9 +10994,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.101
+    eigenvectorcentrality 6.8309086727159e-09
+    pagerank 0.000495920519194764
+    closeness 0.101308357760778
   ]
   node
   [
@@ -11009,9 +11009,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.101
+    eigenvectorcentrality 6.8309086727159e-09
+    pagerank 0.000495920519194764
+    closeness 0.101308357760778
   ]
   node
   [
@@ -11024,9 +11024,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 1.87966349687653e-06
+    pagerank 0.00049143155961018
+    closeness 0.122313336210617
   ]
   node
   [
@@ -11039,9 +11039,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.174
+    eigenvectorcentrality 0.000272453244661025
+    pagerank 0.000530463734158466
+    closeness 0.17403586342422
   ]
   node
   [
@@ -11054,9 +11054,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.014
-    pagerank 0
-    closeness 0.157
+    eigenvectorcentrality 0.030255729420343
+    pagerank 0.000495241708269007
+    closeness 0.156643820473137
   ]
   node
   [
@@ -11069,9 +11069,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 2.49297095800465e-06
+    pagerank 0.00049015854004803
+    closeness 0.139826327215315
   ]
   node
   [
@@ -11084,9 +11084,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 2.49297095800465e-06
+    pagerank 0.00049015854004803
+    closeness 0.139826327215315
   ]
   node
   [
@@ -11099,9 +11099,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 2.49297095800465e-06
+    pagerank 0.00049015854004803
+    closeness 0.139826327215315
   ]
   node
   [
@@ -11114,9 +11114,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 2.49297095800465e-06
+    pagerank 0.00049015854004803
+    closeness 0.139826327215315
   ]
   node
   [
@@ -11129,9 +11129,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 2.49297095800465e-06
+    pagerank 0.00049015854004803
+    closeness 0.139826327215315
   ]
   node
   [
@@ -11144,9 +11144,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 2.49297095800465e-06
+    pagerank 0.00049015854004803
+    closeness 0.139826327215315
   ]
   node
   [
@@ -11159,9 +11159,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 2.49297095800465e-06
+    pagerank 0.00049015854004803
+    closeness 0.139826327215315
   ]
   node
   [
@@ -11174,9 +11174,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.11
+    eigenvectorcentrality 2.56008760711915e-08
+    pagerank 0.000532785434577936
+    closeness 0.109947237740534
   ]
   node
   [
@@ -11189,9 +11189,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 0.00174407301781358
+    pagerank 0.000519004997466334
+    closeness 0.165267086540704
   ]
   node
   [
@@ -11204,9 +11204,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 0.00162041375895457
+    pagerank 0.000454602917488762
+    closeness 0.165170765823523
   ]
   node
   [
@@ -11219,9 +11219,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 0.00162041375895457
+    pagerank 0.000454602917488762
+    closeness 0.165170765823523
   ]
   node
   [
@@ -11234,9 +11234,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 0.00162041375895457
+    pagerank 0.000454602917488762
+    closeness 0.165170765823523
   ]
   node
   [
@@ -11249,9 +11249,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 0.00162041375895457
+    pagerank 0.000454602917488762
+    closeness 0.165170765823523
   ]
   node
   [
@@ -11264,9 +11264,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 0.00162041375895457
+    pagerank 0.000454602917488762
+    closeness 0.165170765823523
   ]
   node
   [
@@ -11279,9 +11279,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 0.00162041375895457
+    pagerank 0.000454602917488762
+    closeness 0.165170765823523
   ]
   node
   [
@@ -11294,9 +11294,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 0.00162041375895457
+    pagerank 0.000454602917488762
+    closeness 0.165170765823523
   ]
   node
   [
@@ -11309,9 +11309,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 0.00162041375895457
+    pagerank 0.000454602917488762
+    closeness 0.165170765823523
   ]
   node
   [
@@ -11324,9 +11324,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 0.00162041375895457
+    pagerank 0.000454602917488762
+    closeness 0.165170765823523
   ]
   node
   [
@@ -11339,9 +11339,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 0.00162041375895457
+    pagerank 0.000454602917488762
+    closeness 0.165170765823523
   ]
   node
   [
@@ -11354,9 +11354,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 0.00162041375895457
+    pagerank 0.000454602917488762
+    closeness 0.165170765823523
   ]
   node
   [
@@ -11369,9 +11369,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 0.00162041375895457
+    pagerank 0.000454602917488762
+    closeness 0.165170765823523
   ]
   node
   [
@@ -11384,9 +11384,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.112
+    eigenvectorcentrality 2.47338197869868e-08
+    pagerank 0.000516714017900565
+    closeness 0.111530893349075
   ]
   node
   [
@@ -11399,9 +11399,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.112
+    eigenvectorcentrality 3.14498876004811e-08
+    pagerank 0.00104668295276324
+    closeness 0.111583589258997
   ]
   node
   [
@@ -11414,9 +11414,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.121
+    eigenvectorcentrality 9.67096431775205e-06
+    pagerank 0.000548692681280598
+    closeness 0.12128734058033
   ]
   node
   [
@@ -11429,9 +11429,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.98165150989987e-05
+    pagerank 0.00057138666471276
+    closeness 0.164709984888992
   ]
   node
   [
@@ -11444,9 +11444,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 2.34111305357088e-06
+    pagerank 0.000518918400681489
+    closeness 0.141473642172524
   ]
   node
   [
@@ -11459,9 +11459,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 0.0063048794008771
+    pagerank 0.000501681630443485
+    closeness 0.152809231101046
   ]
   node
   [
@@ -11474,9 +11474,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 0.0063048794008771
+    pagerank 0.000501681630443485
+    closeness 0.152809231101046
   ]
   node
   [
@@ -11489,9 +11489,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 0.0063048794008771
+    pagerank 0.000501681630443485
+    closeness 0.152809231101046
   ]
   node
   [
@@ -11504,9 +11504,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.092
+    eigenvectorcentrality 8.97024217044104e-10
+    pagerank 0.000541968721157187
+    closeness 0.0921566077003122
   ]
   node
   [
@@ -11519,9 +11519,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 6.03991563154205e-05
+    pagerank 0.000478787873073816
+    closeness 0.152842196095351
   ]
   node
   [
@@ -11534,9 +11534,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 6.03991563154205e-05
+    pagerank 0.000478787873073816
+    closeness 0.152842196095351
   ]
   node
   [
@@ -11549,9 +11549,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 6.03991563154205e-05
+    pagerank 0.000478787873073816
+    closeness 0.152842196095351
   ]
   node
   [
@@ -11564,9 +11564,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 6.03991563154205e-05
+    pagerank 0.000478787873073816
+    closeness 0.152842196095351
   ]
   node
   [
@@ -11579,9 +11579,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 6.03991563154205e-05
+    pagerank 0.000478787873073816
+    closeness 0.152842196095351
   ]
   node
   [
@@ -11594,9 +11594,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 6.03991563154205e-05
+    pagerank 0.000478787873073816
+    closeness 0.152842196095351
   ]
   node
   [
@@ -11609,9 +11609,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.0116376896267617
+    pagerank 0.000457673132719784
+    closeness 0.15168058231642
   ]
   node
   [
@@ -11624,9 +11624,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.0116376896267617
+    pagerank 0.000457673132719784
+    closeness 0.15168058231642
   ]
   node
   [
@@ -11639,9 +11639,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.0116376896267617
+    pagerank 0.000457673132719784
+    closeness 0.15168058231642
   ]
   node
   [
@@ -11654,9 +11654,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.0116376896267617
+    pagerank 0.000457673132719784
+    closeness 0.15168058231642
   ]
   node
   [
@@ -11669,9 +11669,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.0116376896267617
+    pagerank 0.000457673132719784
+    closeness 0.15168058231642
   ]
   node
   [
@@ -11684,9 +11684,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.0116376896267617
+    pagerank 0.000457673132719784
+    closeness 0.15168058231642
   ]
   node
   [
@@ -11699,9 +11699,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.0116376896267617
+    pagerank 0.000457673132719784
+    closeness 0.15168058231642
   ]
   node
   [
@@ -11714,9 +11714,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.0116376896267617
+    pagerank 0.000457673132719784
+    closeness 0.15168058231642
   ]
   node
   [
@@ -11729,9 +11729,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.0116376896267617
+    pagerank 0.000457673132719784
+    closeness 0.15168058231642
   ]
   node
   [
@@ -11744,9 +11744,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.033
-    pagerank 0
-    closeness 0.178
+    eigenvectorcentrality 0.0703133877995827
+    pagerank 0.000508305384159383
+    closeness 0.177546673349204
   ]
   node
   [
@@ -11759,9 +11759,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00704662710044814
+    pagerank 0.000672075656431085
+    closeness 0.19634197034779
   ]
   node
   [
@@ -11774,9 +11774,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 8.43679557126517e-06
+    pagerank 0.000716980474411232
+    closeness 0.139812530833744
   ]
   node
   [
@@ -11789,9 +11789,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.124
+    eigenvectorcentrality 1.98694112010897e-07
+    pagerank 0.000512845548236918
+    closeness 0.124113164579136
   ]
   node
   [
@@ -11804,9 +11804,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.016
-    pagerank 0
-    closeness 0.173
+    eigenvectorcentrality 0.0345049708913189
+    pagerank 0.000488140854842824
+    closeness 0.173396965247186
   ]
   node
   [
@@ -11819,9 +11819,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.016
-    pagerank 0
-    closeness 0.173
+    eigenvectorcentrality 0.0345049708913189
+    pagerank 0.000488140854842824
+    closeness 0.173396965247186
   ]
   node
   [
@@ -11834,9 +11834,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.059
-    pagerank 0
-    closeness 0.181
+    eigenvectorcentrality 0.123312676787129
+    pagerank 0.000635497707973666
+    closeness 0.181248401125608
   ]
   node
   [
@@ -11849,9 +11849,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.111
+    eigenvectorcentrality 4.6903265596953e-08
+    pagerank 0.000515243882867442
+    closeness 0.111451942740286
   ]
   node
   [
@@ -11864,9 +11864,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.111
+    eigenvectorcentrality 4.6903265596953e-08
+    pagerank 0.000515243882867442
+    closeness 0.111451942740286
   ]
   node
   [
@@ -11879,9 +11879,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.01
-    pagerank 0
-    closeness 0.194
+    eigenvectorcentrality 0.0207327911006654
+    pagerank 0.000479031873803443
+    closeness 0.193791028446389
   ]
   node
   [
@@ -11894,9 +11894,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.01
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.02235320485962
+    pagerank 0.000515586969750166
+    closeness 0.195799364377505
   ]
   node
   [
@@ -11909,9 +11909,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.123
+    eigenvectorcentrality 0.000316639336027713
+    pagerank 0.000559065734385545
+    closeness 0.122832871012483
   ]
   node
   [
@@ -11924,9 +11924,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.145
+    eigenvectorcentrality 0.00187921437740194
+    pagerank 0.000550146814867564
+    closeness 0.145333333333333
   ]
   node
   [
@@ -11939,9 +11939,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 1.88126088311685e-06
+    pagerank 0.000486735893948951
+    closeness 0.122302779216296
   ]
   node
   [
@@ -11954,9 +11954,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 1.88126088311685e-06
+    pagerank 0.000486735893948951
+    closeness 0.122302779216296
   ]
   node
   [
@@ -11969,9 +11969,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.122
+    eigenvectorcentrality 2.19211390077871e-06
+    pagerank 0.000871596833350448
+    closeness 0.122323895027624
   ]
   node
   [
@@ -11984,9 +11984,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 1.88126088311685e-06
+    pagerank 0.000486735893948951
+    closeness 0.122302779216296
   ]
   node
   [
@@ -11999,9 +11999,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 1.88126088311685e-06
+    pagerank 0.000486735893948951
+    closeness 0.122302779216296
   ]
   node
   [
@@ -12014,9 +12014,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 2.02482626896006e-06
+    pagerank 0.000693598648877256
+    closeness 0.122313336210617
   ]
   node
   [
@@ -12029,9 +12029,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 1.88126088311685e-06
+    pagerank 0.000486735893948951
+    closeness 0.122302779216296
   ]
   node
   [
@@ -12044,9 +12044,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 1.88126088311685e-06
+    pagerank 0.000486735893948951
+    closeness 0.122302779216296
   ]
   node
   [
@@ -12059,9 +12059,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.13
+    eigenvectorcentrality 5.59879590124169e-06
+    pagerank 0.000793731020512227
+    closeness 0.130358785648574
   ]
   node
   [
@@ -12074,9 +12074,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.021
-    pagerank 0
-    closeness 0.179
+    eigenvectorcentrality 0.0447234838123044
+    pagerank 0.000563753087079205
+    closeness 0.179027163613392
   ]
   node
   [
@@ -12089,9 +12089,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.018
-    pagerank 0
-    closeness 0.178
+    eigenvectorcentrality 0.0388557846860969
+    pagerank 0.000476924343953836
+    closeness 0.178238993710692
   ]
   node
   [
@@ -12104,9 +12104,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.055
-    pagerank 0
-    closeness 0.187
+    eigenvectorcentrality 0.115169169570457
+    pagerank 0.00053111084301919
+    closeness 0.187186261558785
   ]
   node
   [
@@ -12119,9 +12119,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.018
-    pagerank 0
-    closeness 0.178
+    eigenvectorcentrality 0.0388557846860969
+    pagerank 0.000476924343953836
+    closeness 0.178238993710692
   ]
   node
   [
@@ -12134,9 +12134,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.149
+    eigenvectorcentrality 0.000123202029919092
+    pagerank 0.000602843207387813
+    closeness 0.149362285232423
   ]
   node
   [
@@ -12149,9 +12149,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.149
+    eigenvectorcentrality 8.53180664568381e-05
+    pagerank 0.000504196096695798
+    closeness 0.149048069843273
   ]
   node
   [
@@ -12164,9 +12164,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.15
+    eigenvectorcentrality 0.000220091428650444
+    pagerank 0.000508366430463519
+    closeness 0.150121834940142
   ]
   node
   [
@@ -12179,9 +12179,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.15
+    eigenvectorcentrality 0.000220091428650444
+    pagerank 0.000508366430463519
+    closeness 0.150121834940142
   ]
   node
   [
@@ -12194,9 +12194,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.15
+    eigenvectorcentrality 0.000220091428650444
+    pagerank 0.000508366430463519
+    closeness 0.150121834940142
   ]
   node
   [
@@ -12209,9 +12209,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.112
+    eigenvectorcentrality 5.14649053391717e-08
+    pagerank 0.00051273872195565
+    closeness 0.111653927980459
   ]
   node
   [
@@ -12224,9 +12224,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.112
+    eigenvectorcentrality 5.14649053391717e-08
+    pagerank 0.00051273872195565
+    closeness 0.111653927980459
   ]
   node
   [
@@ -12239,9 +12239,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.112
+    eigenvectorcentrality 5.14649053391717e-08
+    pagerank 0.00051273872195565
+    closeness 0.111653927980459
   ]
   node
   [
@@ -12254,9 +12254,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.13
+    eigenvectorcentrality 4.77200109004194e-06
+    pagerank 0.000555043595905851
+    closeness 0.130179145613229
   ]
   node
   [
@@ -12269,9 +12269,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.138
+    eigenvectorcentrality 0.000108243523557859
+    pagerank 0.000513104960974933
+    closeness 0.137773456490034
   ]
   node
   [
@@ -12284,9 +12284,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.138
+    eigenvectorcentrality 0.000108243523557859
+    pagerank 0.000513104960974933
+    closeness 0.137773456490034
   ]
   node
   [
@@ -12299,9 +12299,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.129
+    eigenvectorcentrality 8.62163633405239e-06
+    pagerank 0.000526911712195646
+    closeness 0.129029320706611
   ]
   node
   [
@@ -12314,9 +12314,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.129
+    eigenvectorcentrality 8.62163633405239e-06
+    pagerank 0.000526911712195646
+    closeness 0.129029320706611
   ]
   node
   [
@@ -12329,9 +12329,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 8.34554412025684e-06
+    pagerank 0.000561916177333254
+    closeness 0.14001976284585
   ]
   node
   [
@@ -12344,9 +12344,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.123
+    eigenvectorcentrality 5.98735122171767e-07
+    pagerank 0.000480977049193626
+    closeness 0.122939441263231
   ]
   node
   [
@@ -12359,9 +12359,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.123
+    eigenvectorcentrality 5.98735122171767e-07
+    pagerank 0.000480977049193626
+    closeness 0.122939441263231
   ]
   node
   [
@@ -12374,9 +12374,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.123
+    eigenvectorcentrality 5.98735122171767e-07
+    pagerank 0.000480977049193626
+    closeness 0.122939441263231
   ]
   node
   [
@@ -12389,9 +12389,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.123
+    eigenvectorcentrality 5.98735122171767e-07
+    pagerank 0.000480977049193626
+    closeness 0.122939441263231
   ]
   node
   [
@@ -12404,9 +12404,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.123
+    eigenvectorcentrality 5.98735122171767e-07
+    pagerank 0.000480977049193626
+    closeness 0.122939441263231
   ]
   node
   [
@@ -12419,9 +12419,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.123
+    eigenvectorcentrality 5.98735122171767e-07
+    pagerank 0.000480977049193626
+    closeness 0.122939441263231
   ]
   node
   [
@@ -12434,9 +12434,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0
-    closeness 0.146
+    eigenvectorcentrality 0.00395498572982433
+    pagerank 0.000780945778065364
+    closeness 0.145572221080748
   ]
   node
   [
@@ -12449,9 +12449,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 0.000135549371135375
+    pagerank 0.000533526822170324
+    closeness 0.15266106442577
   ]
   node
   [
@@ -12464,9 +12464,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.134
+    eigenvectorcentrality 5.72456536428401e-06
+    pagerank 0.000556116250656224
+    closeness 0.133830751794484
   ]
   node
   [
@@ -12479,9 +12479,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.172
+    eigenvectorcentrality 0.000669247768541591
+    pagerank 0.000472910159315582
+    closeness 0.17198689161306
   ]
   node
   [
@@ -12494,9 +12494,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.172
+    eigenvectorcentrality 0.000669247768541591
+    pagerank 0.000472910159315582
+    closeness 0.17198689161306
   ]
   node
   [
@@ -12509,9 +12509,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.173
+    eigenvectorcentrality 0.000754565834998427
+    pagerank 0.000559058434469342
+    closeness 0.172868122483836
   ]
   node
   [
@@ -12524,9 +12524,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.172
+    eigenvectorcentrality 0.000669247768541591
+    pagerank 0.000472910159315582
+    closeness 0.17198689161306
   ]
   node
   [
@@ -12539,9 +12539,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.172
+    eigenvectorcentrality 0.000720320331085308
+    pagerank 0.000673896977024699
+    closeness 0.172007768875941
   ]
   node
   [
@@ -12554,9 +12554,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.172
+    eigenvectorcentrality 0.000669247768541591
+    pagerank 0.000472910159315582
+    closeness 0.17198689161306
   ]
   node
   [
@@ -12569,9 +12569,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.172
+    eigenvectorcentrality 0.000669247768541591
+    pagerank 0.000472910159315582
+    closeness 0.17198689161306
   ]
   node
   [
@@ -12584,9 +12584,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.198
+    eigenvectorcentrality 0.00721625089923781
+    pagerank 0.000526494377374307
+    closeness 0.198015651201789
   ]
   node
   [
@@ -12599,9 +12599,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.147
+    eigenvectorcentrality 7.80151031762364e-06
+    pagerank 0.000496917708987203
+    closeness 0.146732939836388
   ]
   node
   [
@@ -12614,9 +12614,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.147
+    eigenvectorcentrality 7.80151031762364e-06
+    pagerank 0.000496917708987203
+    closeness 0.146732939836388
   ]
   node
   [
@@ -12629,9 +12629,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.162
+    eigenvectorcentrality 0.000108661183402151
+    pagerank 0.000875012433731164
+    closeness 0.162332455034941
   ]
   node
   [
@@ -12644,9 +12644,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.123
+    eigenvectorcentrality 6.97668035289482e-07
+    pagerank 0.000796368339708975
+    closeness 0.122971448407533
   ]
   node
   [
@@ -12659,9 +12659,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.131
+    eigenvectorcentrality 0.000345262557667939
+    pagerank 0.000974869233315966
+    closeness 0.130695443645084
   ]
   node
   [
@@ -12674,9 +12674,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.121
+    eigenvectorcentrality 1.14025496780742e-05
+    pagerank 0.00100935682099568
+    closeness 0.121328880897337
   ]
   node
   [
@@ -12689,9 +12689,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00704662710044814
+    pagerank 0.000672075656431085
+    closeness 0.19634197034779
   ]
   node
   [
@@ -12704,9 +12704,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.121
+    eigenvectorcentrality 1.69753128057249e-07
+    pagerank 0.000537217803070642
+    closeness 0.121142173206805
   ]
   node
   [
@@ -12719,9 +12719,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 0.00446583723240627
+    pagerank 0.00063872819346769
+    closeness 0.140005928267958
   ]
   node
   [
@@ -12734,9 +12734,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 0.00414919789637856
+    pagerank 0.000497710280624183
+    closeness 0.139978267312062
   ]
   node
   [
@@ -12749,9 +12749,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 0.00414919789637856
+    pagerank 0.000497710280624183
+    closeness 0.139978267312062
   ]
   node
   [
@@ -12764,9 +12764,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 0.00414919789637856
+    pagerank 0.000497710280624183
+    closeness 0.139978267312062
   ]
   node
   [
@@ -12779,9 +12779,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 0.00414919789637856
+    pagerank 0.000497710280624183
+    closeness 0.139978267312062
   ]
   node
   [
@@ -12794,9 +12794,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.099
+    eigenvectorcentrality 2.15195543037571e-09
+    pagerank 0.000534829611632113
+    closeness 0.0991671915459444
   ]
   node
   [
@@ -12809,9 +12809,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.099
+    eigenvectorcentrality 2.15195543037571e-09
+    pagerank 0.000534829611632113
+    closeness 0.0991671915459444
   ]
   node
   [
@@ -12824,9 +12824,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.11
+    eigenvectorcentrality 2.60469697478267e-08
+    pagerank 0.000509504051340277
+    closeness 0.110024070191785
   ]
   node
   [
@@ -12839,9 +12839,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.11
+    eigenvectorcentrality 2.60469697478267e-08
+    pagerank 0.000509504051340277
+    closeness 0.110024070191785
   ]
   node
   [
@@ -12854,9 +12854,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.11
+    eigenvectorcentrality 2.60469697478267e-08
+    pagerank 0.000509504051340277
+    closeness 0.110024070191785
   ]
   node
   [
@@ -12869,9 +12869,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.000489531948512828
+    pagerank 0.00068211245202235
+    closeness 0.170292032207667
   ]
   node
   [
@@ -12884,9 +12884,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00704662710044814
+    pagerank 0.000672075656431085
+    closeness 0.19634197034779
   ]
   node
   [
@@ -12899,9 +12899,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 2.29933621683794e-06
+    pagerank 0.00069427317713198
+    closeness 0.141870244293152
   ]
   node
   [
@@ -12914,9 +12914,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.121
+    eigenvectorcentrality 1.07130850145535e-05
+    pagerank 0.000556092697421803
+    closeness 0.121173251239952
   ]
   node
   [
@@ -12929,9 +12929,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.182
+    eigenvectorcentrality 0.00253356386177062
+    pagerank 0.000495234715439954
+    closeness 0.182344614592717
   ]
   node
   [
@@ -12944,9 +12944,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.182
+    eigenvectorcentrality 0.00253356386177062
+    pagerank 0.000495234715439954
+    closeness 0.182344614592717
   ]
   node
   [
@@ -12959,9 +12959,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.112
+    eigenvectorcentrality 2.66213412965043e-08
+    pagerank 0.000663116322972389
+    closeness 0.111539672544081
   ]
   node
   [
@@ -12974,9 +12974,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.112
+    eigenvectorcentrality 2.66213412965043e-08
+    pagerank 0.000663116322972389
+    closeness 0.111539672544081
   ]
   node
   [
@@ -12989,9 +12989,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.129
+    eigenvectorcentrality 0.00118958912702756
+    pagerank 0.000553247834233281
+    closeness 0.129158691094704
   ]
   node
   [
@@ -13004,9 +13004,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 9.1338289774936e-06
+    pagerank 0.000900979135531045
+    closeness 0.139826327215315
   ]
   node
   [
@@ -13019,9 +13019,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.123
+    eigenvectorcentrality 2.54839095632196e-07
+    pagerank 0.000515801561751353
+    closeness 0.123303167420814
   ]
   node
   [
@@ -13034,9 +13034,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.123
+    eigenvectorcentrality 2.54839095632196e-07
+    pagerank 0.000515801561751353
+    closeness 0.123303167420814
   ]
   node
   [
@@ -13049,9 +13049,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 2.6832180102306e-06
+    pagerank 0.000698475919568443
+    closeness 0.139840126319945
   ]
   node
   [
@@ -13064,9 +13064,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.131
+    eigenvectorcentrality 7.51499138013504e-07
+    pagerank 0.000531638135357584
+    closeness 0.131082331174838
   ]
   node
   [
@@ -13079,9 +13079,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.131
+    eigenvectorcentrality 7.51499138013504e-07
+    pagerank 0.000531638135357584
+    closeness 0.131082331174838
   ]
   node
   [
@@ -13094,9 +13094,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.124
+    eigenvectorcentrality 1.58709232601799e-07
+    pagerank 0.000474137112673292
+    closeness 0.124069696173715
   ]
   node
   [
@@ -13109,9 +13109,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000320580800042468
+    pagerank 0.000507107384568358
+    closeness 0.185495483702055
   ]
   node
   [
@@ -13124,9 +13124,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.157
+    eigenvectorcentrality 2.34068467575549e-05
+    pagerank 0.000463418354442584
+    closeness 0.156921373200443
   ]
   node
   [
@@ -13139,9 +13139,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.157
+    eigenvectorcentrality 2.34068467575549e-05
+    pagerank 0.000463418354442584
+    closeness 0.156921373200443
   ]
   node
   [
@@ -13154,9 +13154,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.157
+    eigenvectorcentrality 2.34068467575549e-05
+    pagerank 0.000463418354442584
+    closeness 0.156921373200443
   ]
   node
   [
@@ -13169,9 +13169,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.157
+    eigenvectorcentrality 2.34068467575549e-05
+    pagerank 0.000463418354442584
+    closeness 0.156921373200443
   ]
   node
   [
@@ -13184,9 +13184,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.157
+    eigenvectorcentrality 2.34068467575549e-05
+    pagerank 0.000463418354442584
+    closeness 0.156921373200443
   ]
   node
   [
@@ -13199,9 +13199,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13214,9 +13214,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13229,9 +13229,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13244,9 +13244,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13259,9 +13259,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13274,9 +13274,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.013
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0265041786644607
+    pagerank 0.00066438023113726
+    closeness 0.169985604606526
   ]
   node
   [
@@ -13289,9 +13289,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13304,9 +13304,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13319,9 +13319,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13334,9 +13334,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13349,9 +13349,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13364,9 +13364,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13379,9 +13379,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.013
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0265041786644607
+    pagerank 0.000598330734474497
+    closeness 0.17000599880024
   ]
   node
   [
@@ -13394,9 +13394,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13409,9 +13409,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13424,9 +13424,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13439,9 +13439,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13454,9 +13454,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13469,9 +13469,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13484,9 +13484,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13499,9 +13499,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13514,9 +13514,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13529,9 +13529,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13544,9 +13544,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13559,9 +13559,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13574,9 +13574,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13589,9 +13589,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13604,9 +13604,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0246249642870588
+    pagerank 0.000466231741148971
+    closeness 0.169965215305266
   ]
   node
   [
@@ -13619,9 +13619,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0
-    closeness 0.211
+    eigenvectorcentrality 0.00384264273466836
+    pagerank 0.00064143197198791
+    closeness 0.210643674743571
   ]
   node
   [
@@ -13634,9 +13634,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0
-    closeness 0.197
+    eigenvectorcentrality 0.00327301553672242
+    pagerank 0.000485327029245709
+    closeness 0.197051870393547
   ]
   node
   [
@@ -13649,9 +13649,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0
-    closeness 0.197
+    eigenvectorcentrality 0.00327301553672242
+    pagerank 0.000485327029245709
+    closeness 0.197051870393547
   ]
   node
   [
@@ -13664,9 +13664,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.013
-    pagerank 0
-    closeness 0.171
+    eigenvectorcentrality 0.0266879378664407
+    pagerank 0.000586110616482624
+    closeness 0.170908213725727
   ]
   node
   [
@@ -13679,9 +13679,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.43699144234743e-05
+    pagerank 0.000511543247866053
+    closeness 0.125765509896157
   ]
   node
   [
@@ -13694,9 +13694,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 0.0063048794008771
+    pagerank 0.000536169799062628
+    closeness 0.15277628032345
   ]
   node
   [
@@ -13709,9 +13709,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.043
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0889231436861143
+    pagerank 0.000673990107029429
+    closeness 0.18027989821883
   ]
   node
   [
@@ -13724,9 +13724,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 2.01183748592501e-06
+    pagerank 0.000512094967902698
+    closeness 0.135949342799578
   ]
   node
   [
@@ -13739,9 +13739,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 3.95631802917455e-06
+    pagerank 0.000637361518939818
+    closeness 0.135962387257724
   ]
   node
   [
@@ -13754,9 +13754,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 2.16536761431431e-06
+    pagerank 0.000729735329261344
+    closeness 0.135962387257724
   ]
   node
   [
@@ -13769,9 +13769,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 2.01183748592501e-06
+    pagerank 0.000512094967902698
+    closeness 0.135949342799578
   ]
   node
   [
@@ -13784,9 +13784,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.157
+    eigenvectorcentrality 2.74246836058676e-05
+    pagerank 0.000714756202976515
+    closeness 0.157130184076292
   ]
   node
   [
@@ -13799,9 +13799,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.157
+    eigenvectorcentrality 2.54802030626177e-05
+    pagerank 0.000589489651939396
+    closeness 0.157112761947001
   ]
   node
   [
@@ -13814,9 +13814,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.000747152900079621
+    pagerank 0.000706824991354075
+    closeness 0.151859393419784
   ]
   node
   [
@@ -13829,9 +13829,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.006
-    pagerank 0
-    closeness 0.156
+    eigenvectorcentrality 0.0135616754874564
+    pagerank 0.000491653273807398
+    closeness 0.156091650143203
   ]
   node
   [
@@ -13844,9 +13844,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.006
-    pagerank 0
-    closeness 0.156
+    eigenvectorcentrality 0.0135616754874564
+    pagerank 0.000491653273807398
+    closeness 0.156091650143203
   ]
   node
   [
@@ -13859,9 +13859,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.013
-    pagerank 0
-    closeness 0.171
+    eigenvectorcentrality 0.0263637652971305
+    pagerank 0.000475933626284836
+    closeness 0.171300773694391
   ]
   node
   [
@@ -13874,9 +13874,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.013
-    pagerank 0
-    closeness 0.171
+    eigenvectorcentrality 0.0263637652971305
+    pagerank 0.000475933626284836
+    closeness 0.171300773694391
   ]
   node
   [
@@ -13889,9 +13889,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.013
-    pagerank 0
-    closeness 0.171
+    eigenvectorcentrality 0.0263637652971305
+    pagerank 0.000475933626284836
+    closeness 0.171300773694391
   ]
   node
   [
@@ -13904,9 +13904,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.013
-    pagerank 0
-    closeness 0.171
+    eigenvectorcentrality 0.0263637652971305
+    pagerank 0.000475933626284836
+    closeness 0.171300773694391
   ]
   node
   [
@@ -13919,9 +13919,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.077
-    pagerank 0
-    closeness 0.183
+    eigenvectorcentrality 0.161352848354312
+    pagerank 0.000580752376789789
+    closeness 0.183098591549296
   ]
   node
   [
@@ -13934,9 +13934,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.049
-    pagerank 0
-    closeness 0.181
+    eigenvectorcentrality 0.102677150181491
+    pagerank 0.000530120125350191
+    closeness 0.180532551917442
   ]
   node
   [
@@ -13949,9 +13949,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.014
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0286939079020243
+    pagerank 0.000834880094615534
+    closeness 0.17000599880024
   ]
   node
   [
@@ -13964,9 +13964,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.143
+    eigenvectorcentrality 6.10182290008636e-06
+    pagerank 0.000646187595125693
+    closeness 0.142641433460842
   ]
   node
   [
@@ -13979,9 +13979,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.143
+    eigenvectorcentrality 6.09065026566783e-06
+    pagerank 0.000603998659452549
+    closeness 0.142584020929765
   ]
   node
   [
@@ -13994,9 +13994,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.143
+    eigenvectorcentrality 5.65880751015833e-06
+    pagerank 0.000498143224290762
+    closeness 0.142540991851926
   ]
   node
   [
@@ -14009,9 +14009,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.16
+    eigenvectorcentrality 0.000248590657538448
+    pagerank 0.000519921934600631
+    closeness 0.159806022329988
   ]
   node
   [
@@ -14024,9 +14024,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.159
+    eigenvectorcentrality 0.000230135049203487
+    pagerank 0.000485095212181151
+    closeness 0.158660844250364
   ]
   node
   [
@@ -14039,9 +14039,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.159
+    eigenvectorcentrality 0.000230135049203487
+    pagerank 0.000485095212181151
+    closeness 0.158660844250364
   ]
   node
   [
@@ -14054,9 +14054,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 1.78625570554113e-06
+    pagerank 0.000496828941797277
+    closeness 0.13574097135741
   ]
   node
   [
@@ -14069,9 +14069,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 1.78625570554113e-06
+    pagerank 0.000496828941797277
+    closeness 0.13574097135741
   ]
   node
   [
@@ -14084,9 +14084,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 1.78625570554113e-06
+    pagerank 0.000496828941797277
+    closeness 0.13574097135741
   ]
   node
   [
@@ -14099,9 +14099,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.157
+    eigenvectorcentrality 2.51931024630944e-05
+    pagerank 0.000542199474697823
+    closeness 0.156990915134057
   ]
   node
   [
@@ -14114,9 +14114,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.101
+    eigenvectorcentrality 4.6628777884569e-09
+    pagerank 0.000690398289870555
+    closeness 0.100574916601604
   ]
   node
   [
@@ -14129,9 +14129,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.091
+    eigenvectorcentrality 3.30610018286406e-10
+    pagerank 0.000570473418006966
+    closeness 0.0913957688338493
   ]
   node
   [
@@ -14144,9 +14144,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.008
-    pagerank 0
-    closeness 0.157
+    eigenvectorcentrality 0.0170783389836191
+    pagerank 0.000497400467969014
+    closeness 0.156505411972609
   ]
   node
   [
@@ -14159,9 +14159,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.036
-    pagerank 0
-    closeness 0.179
+    eigenvectorcentrality 0.0757540371564401
+    pagerank 0.000548032719408613
+    closeness 0.178711060663388
   ]
   node
   [
@@ -14174,9 +14174,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 2.95721429765813e-05
+    pagerank 0.000670485421941964
+    closeness 0.164671702498547
   ]
   node
   [
@@ -14189,9 +14189,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.007
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 0.0163183239136221
+    pagerank 0.000514815945106907
+    closeness 0.153205751973186
   ]
   node
   [
@@ -14204,9 +14204,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.008
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 0.0190147071091975
+    pagerank 0.000921879715656284
+    closeness 0.153238888288093
   ]
   node
   [
@@ -14219,9 +14219,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14234,9 +14234,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14249,9 +14249,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14264,9 +14264,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.63003368953571e-05
+    pagerank 0.000671253692241267
+    closeness 0.126134947480862
   ]
   node
   [
@@ -14279,9 +14279,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14294,9 +14294,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14309,9 +14309,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14324,9 +14324,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14339,9 +14339,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.63003368953595e-05
+    pagerank 0.000671253692241267
+    closeness 0.126134947480862
   ]
   node
   [
@@ -14354,9 +14354,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14369,9 +14369,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.63003368953625e-05
+    pagerank 0.000671253692241267
+    closeness 0.126134947480862
   ]
   node
   [
@@ -14384,9 +14384,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14399,9 +14399,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14414,9 +14414,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14429,9 +14429,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14444,9 +14444,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14459,9 +14459,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14474,9 +14474,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14489,9 +14489,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14504,9 +14504,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.80207724362068e-05
+    pagerank 0.000680443294438994
+    closeness 0.126168640370403
   ]
   node
   [
@@ -14519,9 +14519,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.51446011210818e-05
+    pagerank 0.000471055222625451
+    closeness 0.126123720516244
   ]
   node
   [
@@ -14534,9 +14534,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 8.365608299268e-05
+    pagerank 0.000735098145552469
+    closeness 0.151957104557641
   ]
   node
   [
@@ -14549,9 +14549,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 7.77246517301901e-05
+    pagerank 0.000515858347756119
+    closeness 0.151940810636929
   ]
   node
   [
@@ -14564,9 +14564,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 9.07139759109306e-05
+    pagerank 0.000829589662034064
+    closeness 0.152136568606399
   ]
   node
   [
@@ -14579,9 +14579,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.157
+    eigenvectorcentrality 2.74352242132444e-05
+    pagerank 0.000673663552157045
+    closeness 0.157008310249307
   ]
   node
   [
@@ -14594,9 +14594,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 2.08314955628818e-06
+    pagerank 0.000479562105143906
+    closeness 0.135819035751941
   ]
   node
   [
@@ -14609,9 +14609,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 2.08314955628818e-06
+    pagerank 0.000479562105143906
+    closeness 0.135819035751941
   ]
   node
   [
@@ -14624,9 +14624,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.157
+    eigenvectorcentrality 2.74352242132443e-05
+    pagerank 0.000636480823628897
+    closeness 0.157025709219858
   ]
   node
   [
@@ -14639,9 +14639,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.157
+    eigenvectorcentrality 2.54899963138437e-05
+    pagerank 0.000524932638044452
+    closeness 0.156990915134057
   ]
   node
   [
@@ -14654,9 +14654,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.157
+    eigenvectorcentrality 2.54899963138437e-05
+    pagerank 0.000524932638044452
+    closeness 0.156990915134057
   ]
   node
   [
@@ -14669,9 +14669,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 2.08314955628818e-06
+    pagerank 0.000479562105143906
+    closeness 0.135819035751941
   ]
   node
   [
@@ -14684,9 +14684,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.0109908752282474
+    pagerank 0.000716087297941501
+    closeness 0.196423620737455
   ]
   node
   [
@@ -14699,9 +14699,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.0102115939303572
+    pagerank 0.000557990102292087
+    closeness 0.196396396396396
   ]
   node
   [
@@ -14714,9 +14714,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0
-    closeness 0.169
+    eigenvectorcentrality 0.00394424812779924
+    pagerank 0.000718778385032528
+    closeness 0.169052732044858
   ]
   node
   [
@@ -14729,9 +14729,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.023
-    pagerank 0
-    closeness 0.203
+    eigenvectorcentrality 0.0490673786164542
+    pagerank 0.000616866624703885
+    closeness 0.203125
   ]
   node
   [
@@ -14744,9 +14744,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.0109908752282474
+    pagerank 0.000716087297941501
+    closeness 0.196423620737455
   ]
   node
   [
@@ -14759,9 +14759,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 3.20153421005232e-05
+    pagerank 0.000842552060212666
+    closeness 0.164690841469084
   ]
   node
   [
@@ -14774,9 +14774,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 3.08048030296724e-05
+    pagerank 0.000459271760032257
+    closeness 0.160602969511504
   ]
   node
   [
@@ -14789,9 +14789,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 3.08048030296724e-05
+    pagerank 0.000459271760032257
+    closeness 0.160602969511504
   ]
   node
   [
@@ -14804,9 +14804,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.162
+    eigenvectorcentrality 3.32977739876775e-05
+    pagerank 0.000531382478538249
+    closeness 0.16157354618016
   ]
   node
   [
@@ -14819,9 +14819,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 3.08048030296724e-05
+    pagerank 0.000459271760032257
+    closeness 0.160602969511504
   ]
   node
   [
@@ -14834,9 +14834,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 3.08048030296724e-05
+    pagerank 0.000459271760032257
+    closeness 0.160602969511504
   ]
   node
   [
@@ -14849,9 +14849,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.187
+    eigenvectorcentrality 0.000327978756314578
+    pagerank 0.00050296079015803
+    closeness 0.186619254576584
   ]
   node
   [
@@ -14864,9 +14864,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 3.08048030296724e-05
+    pagerank 0.000459271760032257
+    closeness 0.160602969511504
   ]
   node
   [
@@ -14879,9 +14879,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.187
+    eigenvectorcentrality 0.000327978756314578
+    pagerank 0.00050296079015803
+    closeness 0.186619254576584
   ]
   node
   [
@@ -14894,9 +14894,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.187
+    eigenvectorcentrality 0.000327978756314578
+    pagerank 0.00050296079015803
+    closeness 0.186619254576584
   ]
   node
   [
@@ -14909,9 +14909,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 3.08048030296724e-05
+    pagerank 0.000459271760032257
+    closeness 0.160602969511504
   ]
   node
   [
@@ -14924,9 +14924,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 3.08048030296724e-05
+    pagerank 0.000459271760032257
+    closeness 0.160602969511504
   ]
   node
   [
@@ -14939,9 +14939,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 3.08048030296724e-05
+    pagerank 0.000459271760032257
+    closeness 0.160602969511504
   ]
   node
   [
@@ -14954,9 +14954,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 3.08048030296724e-05
+    pagerank 0.000459271760032257
+    closeness 0.160602969511504
   ]
   node
   [
@@ -14969,9 +14969,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.108
+    eigenvectorcentrality 1.86462782234354e-08
+    pagerank 0.000496439821785542
+    closeness 0.108209240168003
   ]
   node
   [
@@ -14984,9 +14984,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.108
+    eigenvectorcentrality 1.86462782234354e-08
+    pagerank 0.000496439821785542
+    closeness 0.108209240168003
   ]
   node
   [
@@ -14999,9 +14999,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.108
+    eigenvectorcentrality 1.86462782234354e-08
+    pagerank 0.000496439821785542
+    closeness 0.108209240168003
   ]
   node
   [
@@ -15014,9 +15014,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.108
+    eigenvectorcentrality 1.86462782234354e-08
+    pagerank 0.000496439821785542
+    closeness 0.108209240168003
   ]
   node
   [
@@ -15029,9 +15029,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.108
+    eigenvectorcentrality 1.86462782234354e-08
+    pagerank 0.000496439821785542
+    closeness 0.108209240168003
   ]
   node
   [
@@ -15044,9 +15044,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.108
+    eigenvectorcentrality 1.86462782234354e-08
+    pagerank 0.000496439821785542
+    closeness 0.108209240168003
   ]
   node
   [
@@ -15059,9 +15059,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0
-    closeness 0.148
+    eigenvectorcentrality 0.00417452822232933
+    pagerank 0.000513519458553808
+    closeness 0.148082349252795
   ]
   node
   [
@@ -15074,9 +15074,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0
-    closeness 0.148
+    eigenvectorcentrality 0.00417452822232933
+    pagerank 0.000502731702959311
+    closeness 0.148097826086957
   ]
   node
   [
@@ -15089,9 +15089,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0
-    closeness 0.148
+    eigenvectorcentrality 0.00417452822232933
+    pagerank 0.000502731702959311
+    closeness 0.148097826086957
   ]
   node
   [
@@ -15104,9 +15104,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.004
-    pagerank 0
-    closeness 0.148
+    eigenvectorcentrality 0.00834905644465866
+    pagerank 0.000598203339971081
+    closeness 0.14812878946268
   ]
   node
   [
@@ -15119,9 +15119,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.179
+    eigenvectorcentrality 0.000931853407210927
+    pagerank 0.00068721379573366
+    closeness 0.178553427419355
   ]
   node
   [
@@ -15134,9 +15134,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.176
+    eigenvectorcentrality 0.000835287318578708
+    pagerank 0.000536531712961437
+    closeness 0.175806451612903
   ]
   node
   [
@@ -15149,9 +15149,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.174
+    eigenvectorcentrality 0.00077488816226329
+    pagerank 0.000475791661429659
+    closeness 0.173801054826444
   ]
   node
   [
@@ -15164,9 +15164,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.174
+    eigenvectorcentrality 0.00077488816226329
+    pagerank 0.000475791661429659
+    closeness 0.173801054826444
   ]
   node
   [
@@ -15179,9 +15179,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.174
+    eigenvectorcentrality 0.00077488816226329
+    pagerank 0.000475791661429659
+    closeness 0.173801054826444
   ]
   node
   [
@@ -15194,9 +15194,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.174
+    eigenvectorcentrality 0.00077488816226329
+    pagerank 0.000475791661429659
+    closeness 0.173801054826444
   ]
   node
   [
@@ -15209,9 +15209,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.174
+    eigenvectorcentrality 0.00077488816226329
+    pagerank 0.000475791661429659
+    closeness 0.173801054826444
   ]
   node
   [
@@ -15224,9 +15224,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.166
+    eigenvectorcentrality 0.00174959742005609
+    pagerank 0.000548237490244348
+    closeness 0.166100105497597
   ]
   node
   [
@@ -15239,9 +15239,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.143
+    eigenvectorcentrality 0.000129183661101524
+    pagerank 0.000511682394297625
+    closeness 0.143131313131313
   ]
   node
   [
@@ -15254,9 +15254,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 2.02482626895886e-06
+    pagerank 0.000693598648877256
+    closeness 0.122313336210617
   ]
   node
   [
@@ -15269,9 +15269,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 0.00174407301781358
+    pagerank 0.00064780915742148
+    closeness 0.165190020983912
   ]
   node
   [
@@ -15284,9 +15284,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.162
+    eigenvectorcentrality 3.44314873510508e-05
+    pagerank 0.0004760376111146
+    closeness 0.161702613260299
   ]
   node
   [
@@ -15299,9 +15299,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.162
+    eigenvectorcentrality 3.70590706974142e-05
+    pagerank 0.000610914934263737
+    closeness 0.161739527451204
   ]
   node
   [
@@ -15314,9 +15314,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.164
+    eigenvectorcentrality 3.74976711665316e-05
+    pagerank 0.000529198664932817
+    closeness 0.163588085892404
   ]
   node
   [
@@ -15329,9 +15329,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.188
+    eigenvectorcentrality 0.000331605440635967
+    pagerank 0.000519726641240373
+    closeness 0.187607573149742
   ]
   node
   [
@@ -15344,9 +15344,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.162
+    eigenvectorcentrality 3.44314873510508e-05
+    pagerank 0.0004760376111146
+    closeness 0.161702613260299
   ]
   node
   [
@@ -15359,9 +15359,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.162
+    eigenvectorcentrality 6.16264588904665e-05
+    pagerank 0.000592227967303914
+    closeness 0.16175799086758
   ]
   node
   [
@@ -15374,9 +15374,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.162
+    eigenvectorcentrality 3.44314873510508e-05
+    pagerank 0.0004760376111146
+    closeness 0.161702613260299
   ]
   node
   [
@@ -15389,9 +15389,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.163
+    eigenvectorcentrality 7.02146925169787e-05
+    pagerank 0.000663818988659518
+    closeness 0.16307975601335
   ]
   node
   [
@@ -15404,9 +15404,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 3.3155621819565e-05
+    pagerank 0.000654462258045966
+    closeness 0.160621174336885
   ]
   node
   [
@@ -15419,9 +15419,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.108
+    eigenvectorcentrality 1.86462782234703e-08
+    pagerank 0.000546371032131723
+    closeness 0.108167938931298
   ]
   node
   [
@@ -15434,9 +15434,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.157
+    eigenvectorcentrality 7.69731524525431e-05
+    pagerank 0.000860502821504545
+    closeness 0.156782473998672
   ]
   node
   [
@@ -15449,9 +15449,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.151
+    eigenvectorcentrality 0.000215209268636881
+    pagerank 0.000710776520198305
+    closeness 0.151195049082373
   ]
   node
   [
@@ -15464,8 +15464,8 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
+    eigenvectorcentrality 9.40196392775035e-06
+    pagerank 0.000546152003111826
     closeness 0.13
   ]
   node
@@ -15479,9 +15479,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.149
+    eigenvectorcentrality 0.000132603993846837
+    pagerank 0.000730947388957601
+    closeness 0.149393779652082
   ]
   node
   [
@@ -15494,9 +15494,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.152
+    eigenvectorcentrality 0.000825916468581211
+    pagerank 0.000571595165042979
+    closeness 0.152250993875578
   ]
   node
   [
@@ -15509,9 +15509,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.000762887987232038
+    pagerank 0.000499180975025752
+    closeness 0.152218283381674
   ]
   node
   [
@@ -15524,9 +15524,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 6.30284813491679e-05
+    pagerank 0.000466018403114632
+    closeness 0.132244517032198
   ]
   node
   [
@@ -15539,9 +15539,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 6.30284813491679e-05
+    pagerank 0.000466018403114632
+    closeness 0.132244517032198
   ]
   node
   [
@@ -15554,9 +15554,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 6.30284813491679e-05
+    pagerank 0.000466018403114632
+    closeness 0.132244517032198
   ]
   node
   [
@@ -15569,9 +15569,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 6.30284813491679e-05
+    pagerank 0.000466018403114632
+    closeness 0.132244517032198
   ]
   node
   [
@@ -15584,9 +15584,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.116
+    eigenvectorcentrality 4.71067870505131e-07
+    pagerank 0.000757727397434935
+    closeness 0.115550844002283
   ]
   node
   [
@@ -15599,9 +15599,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.116
+    eigenvectorcentrality 4.37667947943255e-07
+    pagerank 0.000531738524515744
+    closeness 0.115541422048271
   ]
   node
   [
@@ -15614,9 +15614,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.101
+    eigenvectorcentrality 7.35219843619461e-09
+    pagerank 0.000706686739852094
+    closeness 0.101315601315601
   ]
   node
   [
@@ -15629,9 +15629,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.11
+    eigenvectorcentrality 5.558926775975e-08
+    pagerank 0.000801110135949423
+    closeness 0.110049704877291
   ]
   node
   [
@@ -15644,9 +15644,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 0.00174479739486292
+    pagerank 0.000570460046111235
+    closeness 0.165247813411079
   ]
   node
   [
@@ -15659,9 +15659,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 0.000133875772188743
+    pagerank 0.000760814553984426
+    closeness 0.14188444978472
   ]
   node
   [
@@ -15674,9 +15674,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 0.000124383635908352
+    pagerank 0.000533904950164511
+    closeness 0.141870244293152
   ]
   node
   [
@@ -15689,9 +15689,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.124
+    eigenvectorcentrality 1.04567266214313e-07
+    pagerank 0.000482789233371058
+    closeness 0.12401540346578
   ]
   node
   [
@@ -15704,9 +15704,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.124
+    eigenvectorcentrality 1.04567266214313e-07
+    pagerank 0.000482789233371058
+    closeness 0.12401540346578
   ]
   node
   [
@@ -15719,9 +15719,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.124
+    eigenvectorcentrality 1.04567266214313e-07
+    pagerank 0.000482789233371058
+    closeness 0.12401540346578
   ]
   node
   [
@@ -15734,9 +15734,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.013
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0265041786644607
+    pagerank 0.00066438023113726
+    closeness 0.169985604606526
   ]
   node
   [
@@ -15749,9 +15749,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000346277945707264
+    pagerank 0.000826831106474887
+    closeness 0.184914524337727
   ]
   node
   [
@@ -15764,9 +15764,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.02
-    pagerank 0
-    closeness 0.174
+    eigenvectorcentrality 0.0434536451233833
+    pagerank 0.000737877650725706
+    closeness 0.173737126042178
   ]
   node
   [
@@ -15779,9 +15779,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.057
-    pagerank 0
-    closeness 0.182
+    eigenvectorcentrality 0.120079786551158
+    pagerank 0.000710479067610613
+    closeness 0.182297697156825
   ]
   node
   [
@@ -15794,9 +15794,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0
-    closeness 0.173
+    eigenvectorcentrality 0.0266880626831788
+    pagerank 0.000576939922118282
+    closeness 0.173058133854421
   ]
   node
   [
@@ -15809,9 +15809,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.027
-    pagerank 0
-    closeness 0.174
+    eigenvectorcentrality 0.0588769664466999
+    pagerank 0.000881708647698051
+    closeness 0.173758430410791
   ]
   node
   [
@@ -15824,9 +15824,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.014
-    pagerank 0
-    closeness 0.17
+    eigenvectorcentrality 0.0286939079020243
+    pagerank 0.000834880094615534
+    closeness 0.17000599880024
   ]
   node
   [
@@ -15839,9 +15839,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.092
+    eigenvectorcentrality 1.04524538294136e-09
+    pagerank 0.00097050212858261
+    closeness 0.0921685963314687
   ]
   node
   [
@@ -15854,9 +15854,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0.001
-    closeness 0.192
+    eigenvectorcentrality 0.00333816678991794
+    pagerank 0.000660193994253709
+    closeness 0.191564147627417
   ]
   node
   [
@@ -15869,9 +15869,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -15884,9 +15884,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00284863484140511
+    pagerank 0.00064667824573599
+    closeness 0.185738628915979
   ]
   node
   [
@@ -15899,9 +15899,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -15914,9 +15914,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -15929,9 +15929,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -15944,9 +15944,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -15959,9 +15959,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -15974,9 +15974,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -15989,9 +15989,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -16004,9 +16004,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -16019,9 +16019,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.017
-    pagerank 0.001
-    closeness 0.223
+    eigenvectorcentrality 0.0357330329406196
+    pagerank 0.000712843667175045
+    closeness 0.222903885480573
   ]
   node
   [
@@ -16034,9 +16034,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -16049,9 +16049,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -16064,9 +16064,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -16079,9 +16079,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -16094,9 +16094,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -16109,9 +16109,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -16124,9 +16124,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -16139,9 +16139,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.186
+    eigenvectorcentrality 0.00264665931076493
+    pagerank 0.000453809295253328
+    closeness 0.185714285714286
   ]
   node
   [
@@ -16154,9 +16154,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 5.23228540454117e-05
+    pagerank 0.000823646926442741
+    closeness 0.139578408195429
   ]
   node
   [
@@ -16169,9 +16169,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 1.1547837098526e-05
+    pagerank 0.000773996857015189
+    closeness 0.135701972802145
   ]
   node
   [
@@ -16184,9 +16184,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.125
+    eigenvectorcentrality 5.16217715067144e-07
+    pagerank 0.00101369997239597
+    closeness 0.124933874096279
   ]
   node
   [
@@ -16199,9 +16199,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.111
+    eigenvectorcentrality 1.59907000354241e-08
+    pagerank 0.000836689025977263
+    closeness 0.110703125
   ]
   node
   [
@@ -16214,9 +16214,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.039
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0821371175968686
+    pagerank 0.000672933906865481
+    closeness 0.180165289256198
   ]
   node
   [
@@ -16229,9 +16229,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.111
+    eigenvectorcentrality 5.05035798222442e-08
+    pagerank 0.000677106356510172
+    closeness 0.111478247187475
   ]
   node
   [
@@ -16244,9 +16244,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.1
+    eigenvectorcentrality 3.87506639063171e-09
+    pagerank 0.000826372170637875
+    closeness 0.100325686774285
   ]
   node
   [
@@ -16259,9 +16259,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.2
+    eigenvectorcentrality 0.00989526194185325
+    pagerank 0.000651155008750465
+    closeness 0.19997177533164
   ]
   node
   [
@@ -16274,9 +16274,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.125
+    eigenvectorcentrality 2.89496945054382e-07
+    pagerank 0.000523982426269209
+    closeness 0.125154566331037
   ]
   node
   [
@@ -16289,9 +16289,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.125
+    eigenvectorcentrality 2.89496945054382e-07
+    pagerank 0.000523982426269209
+    closeness 0.125154566331037
   ]
   node
   [
@@ -16304,9 +16304,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.092
+    eigenvectorcentrality 8.8651495672312e-10
+    pagerank 0.000519818260632323
+    closeness 0.0921506145542043
   ]
   node
   [
@@ -16319,9 +16319,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.092
+    eigenvectorcentrality 8.8651495672312e-10
+    pagerank 0.000519818260632323
+    closeness 0.0921506145542043
   ]
   node
   [
@@ -16334,9 +16334,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.092
+    eigenvectorcentrality 8.8651495672312e-10
+    pagerank 0.000519818260632323
+    closeness 0.0921506145542043
   ]
   node
   [
@@ -16349,9 +16349,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.101
+    eigenvectorcentrality 7.17368485480371e-09
+    pagerank 0.000510723981698342
+    closeness 0.101380839951349
   ]
   node
   [
@@ -16364,9 +16364,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.101
+    eigenvectorcentrality 7.17368485480371e-09
+    pagerank 0.000510723981698342
+    closeness 0.101380839951349
   ]
   node
   [
@@ -16379,9 +16379,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.101
+    eigenvectorcentrality 2.41921521601752e-08
+    pagerank 0.00100099355175838
+    closeness 0.101475221999427
   ]
   node
   [
@@ -16394,9 +16394,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.113
+    eigenvectorcentrality 9.18690364914155e-08
+    pagerank 0.000831292255944745
+    closeness 0.112612254629262
   ]
   node
   [
@@ -16409,9 +16409,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.078
-    pagerank 0
-    closeness 0.183
+    eigenvectorcentrality 0.166739996123115
+    pagerank 0.000794189415080938
+    closeness 0.182626627142673
   ]
   node
   [
@@ -16424,9 +16424,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.048
-    pagerank 0
-    closeness 0.199
+    eigenvectorcentrality 0.101558717214012
+    pagerank 0.000685543625022353
+    closeness 0.199016853932584
   ]
   node
   [
@@ -16439,9 +16439,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.07
-    pagerank 0
-    closeness 0.181
+    eigenvectorcentrality 0.14858551239377
+    pagerank 0.000716339035841207
+    closeness 0.18085513720485
   ]
   node
   [
@@ -16454,9 +16454,9 @@ graph
     indegreecentrality 8
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.107
-    pagerank 0.001
-    closeness 0.202
+    eigenvectorcentrality 0.226447128810702
+    pagerank 0.00101010572348172
+    closeness 0.202486424692769
   ]
   node
   [
@@ -16469,9 +16469,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.079
-    pagerank 0
-    closeness 0.183
+    eigenvectorcentrality 0.166470386484423
+    pagerank 0.000585693950901775
+    closeness 0.183027641436321
   ]
   node
   [
@@ -16484,9 +16484,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.015
-    pagerank 0
-    closeness 0.173
+    eigenvectorcentrality 0.0314813034272423
+    pagerank 0.000480875200396822
+    closeness 0.1729736328125
   ]
   node
   [
@@ -16499,9 +16499,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.022
-    pagerank 0
-    closeness 0.166
+    eigenvectorcentrality 0.0467075589740743
+    pagerank 0.000485245018706578
+    closeness 0.166392672616252
   ]
   node
   [
@@ -16514,9 +16514,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.034
-    pagerank 0
-    closeness 0.168
+    eigenvectorcentrality 0.074325658307973
+    pagerank 0.000869301166951492
+    closeness 0.167751864567302
   ]
   node
   [
@@ -16529,9 +16529,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.022
-    pagerank 0
-    closeness 0.166
+    eigenvectorcentrality 0.0467075589740743
+    pagerank 0.000485245018706578
+    closeness 0.166392672616252
   ]
   node
   [
@@ -16544,9 +16544,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.022
-    pagerank 0
-    closeness 0.166
+    eigenvectorcentrality 0.0467075589740743
+    pagerank 0.000485245018706578
+    closeness 0.166392672616252
   ]
   node
   [
@@ -16559,9 +16559,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.046
-    pagerank 0
-    closeness 0.181
+    eigenvectorcentrality 0.0970371875631888
+    pagerank 0.000682101229856661
+    closeness 0.181248401125608
   ]
   node
   [
@@ -16574,9 +16574,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.123
+    eigenvectorcentrality 0.000165422991052434
+    pagerank 0.000543885519842004
+    closeness 0.123088950660181
   ]
   node
   [
@@ -16589,9 +16589,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.121
+    eigenvectorcentrality 2.62984519186761e-07
+    pagerank 0.00118510259191653
+    closeness 0.121266581086864
   ]
   node
   [
@@ -16604,9 +16604,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.131
+    eigenvectorcentrality 0.000589133714792406
+    pagerank 0.000672105901210415
+    closeness 0.130683390205663
   ]
   node
   [
@@ -16619,9 +16619,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.004
-    pagerank 0
-    closeness 0.148
+    eigenvectorcentrality 0.00834326221742536
+    pagerank 0.000677828584966342
+    closeness 0.148268285026682
   ]
   node
   [
@@ -16634,9 +16634,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.129
+    eigenvectorcentrality 0.000591558731621588
+    pagerank 0.000567698288352477
+    closeness 0.12914691943128
   ]
   node
   [
@@ -16649,9 +16649,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.101
+    eigenvectorcentrality 5.04811665771661e-09
+    pagerank 0.000963346450982039
+    closeness 0.100574916601604
   ]
   node
   [
@@ -16664,9 +16664,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.159
+    eigenvectorcentrality 0.0013650725131607
+    pagerank 0.000672164690992376
+    closeness 0.159088357471652
   ]
   node
   [
@@ -16679,9 +16679,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.159
+    eigenvectorcentrality 0.00126828536403212
+    pagerank 0.000471694519994651
+    closeness 0.159070498428379
   ]
   node
   [
@@ -16694,9 +16694,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.159
+    eigenvectorcentrality 0.00126828536403212
+    pagerank 0.000471694519994651
+    closeness 0.159070498428379
   ]
   node
   [
@@ -16709,9 +16709,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.008
-    pagerank 0
-    closeness 0.179
+    eigenvectorcentrality 0.0173371883669119
+    pagerank 0.000699783519124372
+    closeness 0.179253636938646
   ]
   node
   [
@@ -16724,9 +16724,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.168
+    eigenvectorcentrality 0.00150651660727223
+    pagerank 0.000555713923373182
+    closeness 0.168269801686261
   ]
   node
   [
@@ -16739,9 +16739,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.159
+    eigenvectorcentrality 0.00126828536403212
+    pagerank 0.000471694519994651
+    closeness 0.159070498428379
   ]
   node
   [
@@ -16754,9 +16754,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.159
+    eigenvectorcentrality 0.00126828536403212
+    pagerank 0.000471694519994651
+    closeness 0.159070498428379
   ]
   node
   [
@@ -16769,9 +16769,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.159
+    eigenvectorcentrality 0.00126828536403212
+    pagerank 0.000471694519994651
+    closeness 0.159070498428379
   ]
   node
   [
@@ -16784,9 +16784,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.159
+    eigenvectorcentrality 0.00126828536403212
+    pagerank 0.000471694519994651
+    closeness 0.159070498428379
   ]
   node
   [
@@ -16799,9 +16799,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.159
+    eigenvectorcentrality 0.00126828536403212
+    pagerank 0.000471694519994651
+    closeness 0.159070498428379
   ]
   node
   [
@@ -16814,9 +16814,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 3.20153421005132e-05
+    pagerank 0.000842552060212666
+    closeness 0.164690841469084
   ]
   node
   [
@@ -16829,9 +16829,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.125
+    eigenvectorcentrality 6.57916831569105e-07
+    pagerank 0.000621423432338279
+    closeness 0.125353857041755
   ]
   node
   [
@@ -16844,9 +16844,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.032
-    pagerank 0
-    closeness 0.168
+    eigenvectorcentrality 0.0686536157387333
+    pagerank 0.000724567003587992
+    closeness 0.167732007575758
   ]
   node
   [
@@ -16859,9 +16859,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.008
-    pagerank 0
-    closeness 0.148
+    eigenvectorcentrality 0.0167777998823251
+    pagerank 0.000771435366533247
+    closeness 0.148283800753453
   ]
   node
   [
@@ -16874,9 +16874,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 0.00200225691599277
+    pagerank 0.000658644738645951
+    closeness 0.14029702970297
   ]
   node
   [
@@ -16889,9 +16889,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 0.00233310289809764
+    pagerank 0.00101410380394685
+    closeness 0.140324816795405
   ]
   node
   [
@@ -16904,9 +16904,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.182
+    eigenvectorcentrality 0.00118826488300791
+    pagerank 0.00072671919657545
+    closeness 0.182485511912428
   ]
   node
   [
@@ -16919,9 +16919,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.025
-    pagerank 0.001
-    closeness 0.17
+    eigenvectorcentrality 0.0515451652326511
+    pagerank 0.0011204523295199
+    closeness 0.170292032207667
   ]
   node
   [
@@ -16934,9 +16934,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.075
-    pagerank 0
-    closeness 0.187
+    eigenvectorcentrality 0.157841866987046
+    pagerank 0.000720150094022108
+    closeness 0.187384289870405
   ]
   node
   [
@@ -16949,9 +16949,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.099
+    eigenvectorcentrality 1.52244560280577e-09
+    pagerank 0.000546990953125331
+    closeness 0.0991602519244227
   ]
   node
   [
@@ -16964,9 +16964,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.168
+    eigenvectorcentrality 0.00238017528126744
+    pagerank 0.000554365299996703
+    closeness 0.168070217056102
   ]
   node
   [
@@ -16979,9 +16979,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.178
+    eigenvectorcentrality 0.00280481348588299
+    pagerank 0.000628688211691518
+    closeness 0.17797035920623
   ]
   node
   [
@@ -16994,9 +16994,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.163
+    eigenvectorcentrality 0.00215004023206396
+    pagerank 0.00048731790935759
+    closeness 0.162854844270773
   ]
   node
   [
@@ -17009,9 +17009,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.009
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.0197679055497955
+    pagerank 0.000646241852720966
+    closeness 0.151648116438356
   ]
   node
   [
@@ -17024,9 +17024,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.026
-    pagerank 0
-    closeness 0.166
+    eigenvectorcentrality 0.0556460289823788
+    pagerank 0.000788213354602089
+    closeness 0.166470864661654
   ]
   node
   [
@@ -17039,9 +17039,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.148
+    eigenvectorcentrality 0.000121598361807808
+    pagerank 0.000621164552552945
+    closeness 0.148097826086957
   ]
   node
   [
@@ -17054,9 +17054,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.148
+    eigenvectorcentrality 0.000112976725473756
+    pagerank 0.000512300661899337
+    closeness 0.148051405286804
   ]
   node
   [
@@ -17069,9 +17069,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.138
+    eigenvectorcentrality 0.000151095863616074
+    pagerank 0.00111247929385459
+    closeness 0.137853876836268
   ]
   node
   [
@@ -17084,9 +17084,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.016
-    pagerank 0
-    closeness 0.166
+    eigenvectorcentrality 0.0350745919054574
+    pagerank 0.000478086259376772
+    closeness 0.16571161267688
   ]
   node
   [
@@ -17099,9 +17099,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.032
-    pagerank 0
-    closeness 0.177
+    eigenvectorcentrality 0.0695795627967763
+    pagerank 0.000548179292677558
+    closeness 0.176727363432277
   ]
   node
   [
@@ -17114,9 +17114,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.016
-    pagerank 0
-    closeness 0.166
+    eigenvectorcentrality 0.0350745919054574
+    pagerank 0.000478086259376772
+    closeness 0.16571161267688
   ]
   node
   [
@@ -17129,9 +17129,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.016
-    pagerank 0
-    closeness 0.166
+    eigenvectorcentrality 0.0350745919054574
+    pagerank 0.000478086259376772
+    closeness 0.16571161267688
   ]
   node
   [
@@ -17144,9 +17144,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.017
-    pagerank 0
-    closeness 0.166
+    eigenvectorcentrality 0.0377512527372004
+    pagerank 0.000681272919611841
+    closeness 0.165730994152047
   ]
   node
   [
@@ -17159,9 +17159,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.016
-    pagerank 0
-    closeness 0.166
+    eigenvectorcentrality 0.0350745919054574
+    pagerank 0.000478086259376772
+    closeness 0.16571161267688
   ]
   node
   [
@@ -17174,9 +17174,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.029
-    pagerank 0
-    closeness 0.175
+    eigenvectorcentrality 0.0614383572025878
+    pagerank 0.00053597206411957
+    closeness 0.175176165162566
   ]
   node
   [
@@ -17189,9 +17189,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.077
-    pagerank 0
-    closeness 0.178
+    eigenvectorcentrality 0.166545807275056
+    pagerank 0.000687163794081842
+    closeness 0.177903327055869
   ]
   node
   [
@@ -17204,9 +17204,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.016
-    pagerank 0
-    closeness 0.166
+    eigenvectorcentrality 0.0350745919054574
+    pagerank 0.000478086259376772
+    closeness 0.16571161267688
   ]
   node
   [
@@ -17219,9 +17219,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.144
+    eigenvectorcentrality 0.000201574661066761
+    pagerank 0.00104850436480921
+    closeness 0.143784880771182
   ]
   node
   [
@@ -17234,9 +17234,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.112
+    eigenvectorcentrality 2.66213412964678e-08
+    pagerank 0.000736317475508301
+    closeness 0.111539672544081
   ]
   node
   [
@@ -17249,9 +17249,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.172
+    eigenvectorcentrality 0.00072061950635531
+    pagerank 0.000537692049867352
+    closeness 0.172133138969874
   ]
   node
   [
@@ -17264,9 +17264,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.147
+    eigenvectorcentrality 5.13717378137203e-05
+    pagerank 0.000482829712093808
+    closeness 0.146961211366936
   ]
   node
   [
@@ -17279,9 +17279,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.147
+    eigenvectorcentrality 5.52920890136764e-05
+    pagerank 0.000619631463853719
+    closeness 0.146976454724614
   ]
   node
   [
@@ -17294,9 +17294,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.147
+    eigenvectorcentrality 5.52920890136764e-05
+    pagerank 0.000619631463853719
+    closeness 0.146976454724614
   ]
   node
   [
@@ -17309,9 +17309,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.147
+    eigenvectorcentrality 5.13717378137203e-05
+    pagerank 0.000482829712093808
+    closeness 0.146961211366936
   ]
   node
   [
@@ -17324,9 +17324,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.147
+    eigenvectorcentrality 5.13717378137203e-05
+    pagerank 0.000482829712093808
+    closeness 0.146961211366936
   ]
   node
   [
@@ -17339,9 +17339,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 1.78625570554141e-06
+    pagerank 0.000516524221861087
+    closeness 0.135714969830476
   ]
   node
   [
@@ -17354,9 +17354,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.157
+    eigenvectorcentrality 2.51931024630953e-05
+    pagerank 0.000561894754761633
+    closeness 0.156973523872826
   ]
   node
   [
@@ -17369,9 +17369,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.136
+    eigenvectorcentrality 1.78625570554141e-06
+    pagerank 0.000516524221861087
+    closeness 0.135714969830476
   ]
   node
   [
@@ -17384,9 +17384,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.004
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00762880720055248
+    pagerank 0.00084455039649438
+    closeness 0.196369179600887
   ]
   node
   [
@@ -17399,9 +17399,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.023
-    pagerank 0
-    closeness 0.179
+    eigenvectorcentrality 0.049846044781478
+    pagerank 0.000551561913167737
+    closeness 0.178756149867541
   ]
   node
   [
@@ -17414,9 +17414,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.158
+    eigenvectorcentrality 0.0109902600953811
+    pagerank 0.00049268539075594
+    closeness 0.158412520961431
   ]
   node
   [
@@ -17429,9 +17429,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.158
+    eigenvectorcentrality 0.0109902600953811
+    pagerank 0.00049268539075594
+    closeness 0.158412520961431
   ]
   node
   [
@@ -17444,9 +17444,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.158
+    eigenvectorcentrality 0.0109902600953811
+    pagerank 0.00049268539075594
+    closeness 0.158412520961431
   ]
   node
   [
@@ -17459,9 +17459,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.158
+    eigenvectorcentrality 0.0109902600953811
+    pagerank 0.00049268539075594
+    closeness 0.158412520961431
   ]
   node
   [
@@ -17474,9 +17474,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.049
-    pagerank 0
-    closeness 0.181
+    eigenvectorcentrality 0.101729396207743
+    pagerank 0.000842009100200901
+    closeness 0.180647628760836
   ]
   node
   [
@@ -17489,9 +17489,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.124
+    eigenvectorcentrality 1.0456726621439e-07
+    pagerank 0.000495737515736862
+    closeness 0.124004550625711
   ]
   node
   [
@@ -17504,9 +17504,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.124
+    eigenvectorcentrality 1.0456726621439e-07
+    pagerank 0.000495737515736862
+    closeness 0.124004550625711
   ]
   node
   [
@@ -17519,9 +17519,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.124
+    eigenvectorcentrality 1.0456726621439e-07
+    pagerank 0.000495737515736862
+    closeness 0.124004550625711
   ]
   node
   [
@@ -17534,9 +17534,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17549,9 +17549,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17564,9 +17564,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17579,9 +17579,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 2.12173407606639e-06
+    pagerank 0.000570588514961567
+    closeness 0.141530163803436
   ]
   node
   [
@@ -17594,9 +17594,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17609,9 +17609,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 1.47480220427648e-06
+    pagerank 0.000534687895340846
+    closeness 0.141501897343719
   ]
   node
   [
@@ -17624,9 +17624,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17639,9 +17639,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 1.47480220427967e-06
+    pagerank 0.000521739612975042
+    closeness 0.141501897343719
   ]
   node
   [
@@ -17654,9 +17654,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17669,9 +17669,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 1.47480220427967e-06
+    pagerank 0.000521739612975042
+    closeness 0.141501897343719
   ]
   node
   [
@@ -17684,9 +17684,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.142
+    eigenvectorcentrality 1.82817343988763e-06
+    pagerank 0.000849590555564562
+    closeness 0.141501897343719
   ]
   node
   [
@@ -17699,9 +17699,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17714,9 +17714,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17729,9 +17729,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.155
+    eigenvectorcentrality 9.17174525568934e-06
+    pagerank 0.000535868088591186
+    closeness 0.154559336823735
   ]
   node
   [
@@ -17744,9 +17744,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17759,9 +17759,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.15
+    eigenvectorcentrality 7.62183235362625e-06
+    pagerank 0.000594594626579037
+    closeness 0.150488530161427
   ]
   node
   [
@@ -17774,9 +17774,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 1.5289441706573e-06
+    pagerank 0.000513087492277276
+    closeness 0.141501897343719
   ]
   node
   [
@@ -17789,9 +17789,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17804,9 +17804,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17819,9 +17819,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.47480220427471e-06
+    pagerank 0.000651222436633081
+    closeness 0.141459518818009
   ]
   node
   [
@@ -17834,9 +17834,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17849,9 +17849,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17864,9 +17864,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 1.64562307562927e-06
+    pagerank 0.000658462281755838
+    closeness 0.141516029162089
   ]
   node
   [
@@ -17879,9 +17879,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 2.12173407606639e-06
+    pagerank 0.000570588514961567
+    closeness 0.141530163803436
   ]
   node
   [
@@ -17894,9 +17894,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17909,9 +17909,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17924,9 +17924,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.141
+    eigenvectorcentrality 1.37023493806553e-06
+    pagerank 0.000456998201146022
+    closeness 0.14144539828309
   ]
   node
   [
@@ -17939,9 +17939,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.014
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 0.0311622517230189
+    pagerank 0.000722006704110668
+    closeness 0.160766961651917
   ]
   node
   [
@@ -17954,9 +17954,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.126
+    eigenvectorcentrality 2.12666293827573e-05
+    pagerank 0.000925254068596689
+    closeness 0.12621359223301
   ]
   node
   [
@@ -17969,9 +17969,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.112
+    eigenvectorcentrality 1.50785867394507e-06
+    pagerank 0.000532860370200021
+    closeness 0.112086695143174
   ]
   node
   [
@@ -17984,9 +17984,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.151
+    eigenvectorcentrality 0.00558353469508497
+    pagerank 0.000505585135429507
+    closeness 0.151082204925898
   ]
   node
   [
@@ -17999,9 +17999,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.037
-    pagerank 0
-    closeness 0.178
+    eigenvectorcentrality 0.0778209083553623
+    pagerank 0.000629822839134465
+    closeness 0.177680250783699
   ]
   node
   [
@@ -18014,9 +18014,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.151
+    eigenvectorcentrality 0.00558353469508497
+    pagerank 0.000505585135429507
+    closeness 0.151082204925898
   ]
   node
   [
@@ -18029,9 +18029,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.014
-    pagerank 0
-    closeness 0.19
+    eigenvectorcentrality 0.029438960613511
+    pagerank 0.000594300383477769
+    closeness 0.189717498995849
   ]
   node
   [
@@ -18044,9 +18044,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0.001
-    closeness 0.177
+    eigenvectorcentrality 0.0031041389516892
+    pagerank 0.000727861730720177
+    closeness 0.176551208572141
   ]
   node
   [
@@ -18059,9 +18059,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.176
+    eigenvectorcentrality 0.00266395609438831
+    pagerank 0.000476846376055284
+    closeness 0.176441290001245
   ]
   node
   [
@@ -18074,9 +18074,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.176
+    eigenvectorcentrality 0.00266395609438831
+    pagerank 0.000476846376055284
+    closeness 0.176441290001245
   ]
   node
   [
@@ -18089,9 +18089,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.176
+    eigenvectorcentrality 0.00266395609438831
+    pagerank 0.000476846376055284
+    closeness 0.176441290001245
   ]
   node
   [
@@ -18104,9 +18104,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.176
+    eigenvectorcentrality 0.00266395609438831
+    pagerank 0.000476846376055284
+    closeness 0.176441290001245
   ]
   node
   [
@@ -18119,9 +18119,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.109
+    eigenvectorcentrality 3.10589071103778e-07
+    pagerank 0.000672344482436813
+    closeness 0.109184774233318
   ]
   node
   [
@@ -18134,9 +18134,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 1.98640182771009e-05
+    pagerank 0.000581188998083948
+    closeness 0.138676844783715
   ]
   node
   [
@@ -18149,9 +18149,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 1.40840994214164e-06
+    pagerank 0.000546362275664468
+    closeness 0.121808647812258
   ]
   node
   [
@@ -18164,9 +18164,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.125
+    eigenvectorcentrality 3.39651930257488e-07
+    pagerank 0.00116707460271992
+    closeness 0.124659100906132
   ]
   node
   [
@@ -18179,9 +18179,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.111
+    eigenvectorcentrality 5.24071072924928e-08
+    pagerank 0.000917120722068912
+    closeness 0.11088504577823
   ]
   node
   [
@@ -18194,9 +18194,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.189
+    eigenvectorcentrality 0.000422293654247328
+    pagerank 0.000790737564198457
+    closeness 0.189413180056142
   ]
   node
   [
@@ -18209,9 +18209,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.152
+    eigenvectorcentrality 0.000888944949930379
+    pagerank 0.000668766343100284
+    closeness 0.152267354395014
   ]
   node
   [
@@ -18224,9 +18224,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.152
+    eigenvectorcentrality 0.000888944949930379
+    pagerank 0.000668766343100284
+    closeness 0.152267354395014
   ]
   node
   [
@@ -18239,9 +18239,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 0.00582373271250849
+    pagerank 0.000551847545714097
+    closeness 0.152710421381614
   ]
   node
   [
@@ -18254,9 +18254,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.039
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0821371175968686
+    pagerank 0.000606034044779451
+    closeness 0.180188199389624
   ]
   node
   [
@@ -18269,9 +18269,9 @@ graph
     indegreecentrality 9
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.049
-    pagerank 0.001
-    closeness 0.174
+    eigenvectorcentrality 0.108737390967937
+    pagerank 0.00138569543304862
+    closeness 0.173950405106801
   ]
   node
   [
@@ -18284,9 +18284,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.148
+    eigenvectorcentrality 0.00770976045155192
+    pagerank 0.000526604606618925
+    closeness 0.148206254575881
   ]
   node
   [
@@ -18299,9 +18299,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.182
+    eigenvectorcentrality 0.00101836641755948
+    pagerank 0.000636428478589575
+    closeness 0.181550288276746
   ]
   node
   [
@@ -18314,9 +18314,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.154
+    eigenvectorcentrality 7.50139097218592e-05
+    pagerank 0.000487300338050097
+    closeness 0.154441416893733
   ]
   node
   [
@@ -18329,9 +18329,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.154
+    eigenvectorcentrality 8.07384750861422e-05
+    pagerank 0.000625368767164283
+    closeness 0.154475089937861
   ]
   node
   [
@@ -18344,9 +18344,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.154
+    eigenvectorcentrality 7.50139097218592e-05
+    pagerank 0.000487300338050097
+    closeness 0.154441416893733
   ]
   node
   [
@@ -18359,9 +18359,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.154
+    eigenvectorcentrality 7.50139097218592e-05
+    pagerank 0.000487300338050097
+    closeness 0.154441416893733
   ]
   node
   [
@@ -18374,9 +18374,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.154
+    eigenvectorcentrality 7.50139097218592e-05
+    pagerank 0.000487300338050097
+    closeness 0.154441416893733
   ]
   node
   [
@@ -18389,9 +18389,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.154
+    eigenvectorcentrality 7.50139097218592e-05
+    pagerank 0.000487300338050097
+    closeness 0.154441416893733
   ]
   node
   [
@@ -18404,9 +18404,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.154
+    eigenvectorcentrality 7.50139097218592e-05
+    pagerank 0.000487300338050097
+    closeness 0.154441416893733
   ]
   node
   [
@@ -18419,9 +18419,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.018
-    pagerank 0
-    closeness 0.176
+    eigenvectorcentrality 0.0403834548014246
+    pagerank 0.000771367615103644
+    closeness 0.175784642103957
   ]
   node
   [
@@ -18434,9 +18434,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0.001
-    closeness 0.18
+    eigenvectorcentrality 0.00191176951050902
+    pagerank 0.000794767239618212
+    closeness 0.180119486462438
   ]
   node
   [
@@ -18449,9 +18449,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.155
+    eigenvectorcentrality 0.000108908694412589
+    pagerank 0.00108563272818257
+    closeness 0.155202628696605
   ]
   node
   [
@@ -18464,9 +18464,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 3.83525911186657e-05
+    pagerank 0.00112347718391993
+    closeness 0.164729132759823
   ]
   node
   [
@@ -18479,9 +18479,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.11
+    eigenvectorcentrality 3.03508806099042e-08
+    pagerank 0.000803733496502284
+    closeness 0.110058252427184
   ]
   node
   [
@@ -18494,9 +18494,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0.001
-    closeness 0.179
+    eigenvectorcentrality 0.00107729694109122
+    pagerank 0.000830622694557312
+    closeness 0.178778703002776
   ]
   node
   [
@@ -18509,9 +18509,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 7.638312154696e-05
+    pagerank 0.000521117790939659
+    closeness 0.151696820468901
   ]
   node
   [
@@ -18524,9 +18524,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 1.85184578930782e-05
+    pagerank 0.000690988939224559
+    closeness 0.131764924679189
   ]
   node
   [
@@ -18539,9 +18539,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 1.72054516399669e-05
+    pagerank 0.000484904518754077
+    closeness 0.131752673175267
   ]
   node
   [
@@ -18554,9 +18554,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 1.72054516399669e-05
+    pagerank 0.000484904518754077
+    closeness 0.131752673175267
   ]
   node
   [
@@ -18569,9 +18569,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 1.85184578930783e-05
+    pagerank 0.000587946728989318
+    closeness 0.131764924679189
   ]
   node
   [
@@ -18584,9 +18584,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 1.85184578930783e-05
+    pagerank 0.000587946728989318
+    closeness 0.131764924679189
   ]
   node
   [
@@ -18599,9 +18599,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 1.85184578930783e-05
+    pagerank 0.000587946728989318
+    closeness 0.131764924679189
   ]
   node
   [
@@ -18614,9 +18614,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.064
-    pagerank 0
-    closeness 0.181
+    eigenvectorcentrality 0.133954111501703
+    pagerank 0.000898297410125216
+    closeness 0.180762852404643
   ]
   node
   [
@@ -18629,9 +18629,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.149
+    eigenvectorcentrality 0.000132603993846837
+    pagerank 0.000773648782814302
+    closeness 0.149378030782205
   ]
   node
   [
@@ -18644,9 +18644,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.14
+    eigenvectorcentrality 3.49192453827935e-06
+    pagerank 0.000975855546644599
+    closeness 0.140352614896989
   ]
   node
   [
@@ -18659,9 +18659,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 7.17263540432199e-07
+    pagerank 0.000798120877436039
+    closeness 0.125531537916371
   ]
   node
   [
@@ -18674,9 +18674,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.099
+    eigenvectorcentrality 2.35859940009752e-09
+    pagerank 0.0013834934631639
+    closeness 0.0992019042285074
   ]
   node
   [
@@ -18689,9 +18689,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 5.768970568357e-05
+    pagerank 0.000478768763790886
+    closeness 0.132084265473527
   ]
   node
   [
@@ -18704,9 +18704,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 5.768970568357e-05
+    pagerank 0.000478768763790886
+    closeness 0.132084265473527
   ]
   node
   [
@@ -18719,9 +18719,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 6.2092202397264e-05
+    pagerank 0.000682245488402011
+    closeness 0.132096578726578
   ]
   node
   [
@@ -18734,9 +18734,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 5.768970568357e-05
+    pagerank 0.000478768763790886
+    closeness 0.132084265473527
   ]
   node
   [
@@ -18749,9 +18749,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 5.768970568357e-05
+    pagerank 0.000478768763790886
+    closeness 0.132084265473527
   ]
   node
   [
@@ -18764,9 +18764,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 5.768970568357e-05
+    pagerank 0.000478768763790886
+    closeness 0.132084265473527
   ]
   node
   [
@@ -18779,9 +18779,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 5.768970568357e-05
+    pagerank 0.000478768763790886
+    closeness 0.132084265473527
   ]
   node
   [
@@ -18794,9 +18794,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.152
+    eigenvectorcentrality 0.000809245102476883
+    pagerank 0.000714481049386183
+    closeness 0.152022315202232
   ]
   node
   [
@@ -18809,9 +18809,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 5.768970568357e-05
+    pagerank 0.000478768763790886
+    closeness 0.132084265473527
   ]
   node
   [
@@ -18824,9 +18824,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 1.87966349687908e-06
+    pagerank 0.0004852388390981
+    closeness 0.122323895027624
   ]
   node
   [
@@ -18839,9 +18839,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 1.87966349687908e-06
+    pagerank 0.0004852388390981
+    closeness 0.122323895027624
   ]
   node
   [
@@ -18854,9 +18854,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.122
+    eigenvectorcentrality 4.04621396153903e-06
+    pagerank 0.000716898974030011
+    closeness 0.12235558241948
   ]
   node
   [
@@ -18869,9 +18869,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.122
+    eigenvectorcentrality 4.04789450157107e-06
+    pagerank 0.000612395445053547
+    closeness 0.122450743173177
   ]
   node
   [
@@ -18884,9 +18884,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.056
-    pagerank 0.001
-    closeness 0.191
+    eigenvectorcentrality 0.119644922751463
+    pagerank 0.00084393721582512
+    closeness 0.190893169877408
   ]
   node
   [
@@ -18899,9 +18899,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.004
-    pagerank 0
-    closeness 0.179
+    eigenvectorcentrality 0.00962822720899491
+    pagerank 0.00052118238617089
+    closeness 0.178823826350328
   ]
   node
   [
@@ -18914,9 +18914,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.004
-    pagerank 0
-    closeness 0.178
+    eigenvectorcentrality 0.00960972166402871
+    pagerank 0.000695428235320145
+    closeness 0.178238993710692
   ]
   node
   [
@@ -18929,9 +18929,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.004
-    pagerank 0
-    closeness 0.178
+    eigenvectorcentrality 0.00892836770311204
+    pagerank 0.00048801981425977
+    closeness 0.178216576531254
   ]
   node
   [
@@ -18944,9 +18944,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.004
-    pagerank 0
-    closeness 0.178
+    eigenvectorcentrality 0.00892836770311204
+    pagerank 0.00048801981425977
+    closeness 0.178216576531254
   ]
   node
   [
@@ -18959,9 +18959,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.004
-    pagerank 0
-    closeness 0.179
+    eigenvectorcentrality 0.00962254554255226
+    pagerank 0.00056598953051007
+    closeness 0.178620950460103
   ]
   node
   [
@@ -18974,9 +18974,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.006
-    pagerank 0
-    closeness 0.204
+    eigenvectorcentrality 0.0131325120951375
+    pagerank 0.000712633744853055
+    closeness 0.204443803203001
   ]
   node
   [
@@ -18989,9 +18989,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.138
+    eigenvectorcentrality 0.000136397937998796
+    pagerank 0.00089914403467127
+    closeness 0.13800155823919
   ]
   node
   [
@@ -19004,9 +19004,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.138
+    eigenvectorcentrality 0.000107270399833813
+    pagerank 0.000465298256113564
+    closeness 0.137907542579075
   ]
   node
   [
@@ -19019,9 +19019,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.138
+    eigenvectorcentrality 0.000107270399833813
+    pagerank 0.000465298256113564
+    closeness 0.137907542579075
   ]
   node
   [
@@ -19034,9 +19034,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.138
+    eigenvectorcentrality 0.000107270399833813
+    pagerank 0.000465298256113564
+    closeness 0.137907542579075
   ]
   node
   [
@@ -19049,9 +19049,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.138
+    eigenvectorcentrality 0.000107270399833813
+    pagerank 0.000465298256113564
+    closeness 0.137907542579075
   ]
   node
   [
@@ -19064,9 +19064,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.138
+    eigenvectorcentrality 0.000107270399833813
+    pagerank 0.000465298256113564
+    closeness 0.137907542579075
   ]
   node
   [
@@ -19079,9 +19079,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.138
+    eigenvectorcentrality 0.000107270399833813
+    pagerank 0.000465298256113564
+    closeness 0.137907542579075
   ]
   node
   [
@@ -19094,9 +19094,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.138
+    eigenvectorcentrality 0.000107270399833813
+    pagerank 0.000465298256113564
+    closeness 0.137907542579075
   ]
   node
   [
@@ -19109,9 +19109,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.16
+    eigenvectorcentrality 0.00148379928742379
+    pagerank 0.000614002093999072
+    closeness 0.159608019824285
   ]
   node
   [
@@ -19124,9 +19124,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.138
+    eigenvectorcentrality 0.000107270399833813
+    pagerank 0.000465298256113564
+    closeness 0.137907542579075
   ]
   node
   [
@@ -19139,9 +19139,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.138
+    eigenvectorcentrality 0.000107270399833813
+    pagerank 0.000465298256113564
+    closeness 0.137907542579075
   ]
   node
   [
@@ -19154,9 +19154,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.138
+    eigenvectorcentrality 0.000107270399833813
+    pagerank 0.000465298256113564
+    closeness 0.137907542579075
   ]
   node
   [
@@ -19169,9 +19169,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.138
+    eigenvectorcentrality 0.000107270399833813
+    pagerank 0.000465298256113564
+    closeness 0.137907542579075
   ]
   node
   [
@@ -19184,9 +19184,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.1
+    eigenvectorcentrality 2.62913729448236e-09
+    pagerank 0.00104064281545256
+    closeness 0.100425230333097
   ]
   node
   [
@@ -19199,9 +19199,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.111
+    eigenvectorcentrality 2.41204845556625e-08
+    pagerank 0.000507103112625738
+    closeness 0.11146070950995
   ]
   node
   [
@@ -19214,9 +19214,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.125
+    eigenvectorcentrality 3.38351249394187e-07
+    pagerank 0.000711703913711436
+    closeness 0.125376039639002
   ]
   node
   [
@@ -19229,9 +19229,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.111
+    eigenvectorcentrality 2.41204845556625e-08
+    pagerank 0.000507103112625738
+    closeness 0.11146070950995
   ]
   node
   [
@@ -19244,9 +19244,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.111
+    eigenvectorcentrality 2.59612003775134e-08
+    pagerank 0.000722621935491674
+    closeness 0.111469477658905
   ]
   node
   [
@@ -19259,9 +19259,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.111
+    eigenvectorcentrality 2.41204845556625e-08
+    pagerank 0.000507103112625738
+    closeness 0.11146070950995
   ]
   node
   [
@@ -19274,9 +19274,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.155
+    eigenvectorcentrality 0.00631548310801155
+    pagerank 0.000612162834659199
+    closeness 0.154931117428384
   ]
   node
   [
@@ -19289,9 +19289,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.134
+    eigenvectorcentrality 0.000447783981803908
+    pagerank 0.000525334091533829
+    closeness 0.134185606060606
   ]
   node
   [
@@ -19304,9 +19304,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.134
+    eigenvectorcentrality 0.000447783981803908
+    pagerank 0.000525334091533829
+    closeness 0.134185606060606
   ]
   node
   [
@@ -19319,9 +19319,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 2.79899737891748e-06
+    pagerank 0.000774253829322497
+    closeness 0.142326235435918
   ]
   node
   [
@@ -19334,9 +19334,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.087
-    pagerank 0.001
-    closeness 0.185
+    eigenvectorcentrality 0.185688453446001
+    pagerank 0.000852014635617971
+    closeness 0.18455326908049
   ]
   node
   [
@@ -19349,9 +19349,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.174
+    eigenvectorcentrality 0.000834022500832425
+    pagerank 0.000610599298834728
+    closeness 0.17384370015949
   ]
   node
   [
@@ -19364,9 +19364,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.148
+    eigenvectorcentrality 5.91343385691355e-05
+    pagerank 0.000552855458947107
+    closeness 0.14812878946268
   ]
   node
   [
@@ -19379,9 +19379,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.54665312336267e-05
+    pagerank 0.000656480501428101
+    closeness 0.125776673175928
   ]
   node
   [
@@ -19394,9 +19394,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.54665312336267e-05
+    pagerank 0.000656480501428101
+    closeness 0.125776673175928
   ]
   node
   [
@@ -19409,9 +19409,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.168
+    eigenvectorcentrality 0.000702919476498018
+    pagerank 0.000493192155708187
+    closeness 0.168169950154284
   ]
   node
   [
@@ -19424,9 +19424,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.168
+    eigenvectorcentrality 0.000702919476498018
+    pagerank 0.000493192155708187
+    closeness 0.168169950154284
   ]
   node
   [
@@ -19439,9 +19439,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.168
+    eigenvectorcentrality 0.000702919476498018
+    pagerank 0.000493192155708187
+    closeness 0.168169950154284
   ]
   node
   [
@@ -19454,9 +19454,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.202
+    eigenvectorcentrality 0.00991387870158255
+    pagerank 0.000605574928280159
+    closeness 0.202053329530871
   ]
   node
   [
@@ -19469,9 +19469,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.132
+    eigenvectorcentrality 8.32914312896163e-06
+    pagerank 0.00092493327669602
+    closeness 0.132293903463729
   ]
   node
   [
@@ -19484,9 +19484,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.161
+    eigenvectorcentrality 0.00030259567643764
+    pagerank 0.00105870697428901
+    closeness 0.160821700147543
   ]
   node
   [
@@ -19499,9 +19499,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.05
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.105395968606099
+    pagerank 0.000729920707086044
+    closeness 0.180165289256198
   ]
   node
   [
@@ -19514,9 +19514,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.043
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0891970450011536
+    pagerank 0.00056953229509328
+    closeness 0.180234037140677
   ]
   node
   [
@@ -19529,9 +19529,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.165
+    eigenvectorcentrality 3.41326148720441e-05
+    pagerank 0.00073438474661631
+    closeness 0.165151515151515
   ]
   node
   [
@@ -19544,9 +19544,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 2.98642983782014e-05
+    pagerank 0.000724917651062549
+    closeness 0.161059331666288
   ]
   node
   [
@@ -19559,9 +19559,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 4.23712271863399e-06
+    pagerank 0.000519779590474945
+    closeness 0.142112125162973
   ]
   node
   [
@@ -19574,9 +19574,9 @@ graph
     indegreecentrality 8
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.091
-    pagerank 0.001
-    closeness 0.181
+    eigenvectorcentrality 0.194147345462006
+    pagerank 0.00127517822114661
+    closeness 0.18085513720485
   ]
   node
   [
@@ -19589,9 +19589,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 0.0021242319577375
+    pagerank 0.000905622725688781
+    closeness 0.14028314028314
   ]
   node
   [
@@ -19604,9 +19604,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.123
+    eigenvectorcentrality 0.00015061350462709
+    pagerank 0.000576765206456543
+    closeness 0.12304619659604
   ]
   node
   [
@@ -19619,9 +19619,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.13
+    eigenvectorcentrality 5.23540851066799e-06
+    pagerank 0.000515197136306763
+    closeness 0.130454796538391
   ]
   node
   [
@@ -19634,9 +19634,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.13
+    eigenvectorcentrality 5.23540851066799e-06
+    pagerank 0.000515197136306763
+    closeness 0.130454796538391
   ]
   node
   [
@@ -19649,9 +19649,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.15
+    eigenvectorcentrality 6.73036408184186e-05
+    pagerank 0.000620510272118447
+    closeness 0.149630411826822
   ]
   node
   [
@@ -19664,9 +19664,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.15
+    eigenvectorcentrality 7.2968875123176e-05
+    pagerank 0.000719620215898182
+    closeness 0.149836100243206
   ]
   node
   [
@@ -19679,9 +19679,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 8.61515183026103e-05
+    pagerank 0.000700737100993696
+    closeness 0.151599443671766
   ]
   node
   [
@@ -19694,9 +19694,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 8.0231896526327e-05
+    pagerank 0.000752779846833506
+    closeness 0.151599443671766
   ]
   node
   [
@@ -19709,9 +19709,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.15
+    eigenvectorcentrality 6.25316397283769e-05
+    pagerank 0.000483514497754634
+    closeness 0.149598817567568
   ]
   node
   [
@@ -19724,9 +19724,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.15
+    eigenvectorcentrality 6.25316397283769e-05
+    pagerank 0.000483514497754634
+    closeness 0.149598817567568
   ]
   node
   [
@@ -19739,9 +19739,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.15
+    eigenvectorcentrality 6.25316397283769e-05
+    pagerank 0.000483514497754634
+    closeness 0.149598817567568
   ]
   node
   [
@@ -19754,9 +19754,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.174
+    eigenvectorcentrality 0.000837419801991658
+    pagerank 0.000541258337642255
+    closeness 0.174442939800566
   ]
   node
   [
@@ -19769,9 +19769,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.15
+    eigenvectorcentrality 6.25316397283769e-05
+    pagerank 0.000483514497754634
+    closeness 0.149598817567568
   ]
   node
   [
@@ -19784,9 +19784,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.039
-    pagerank 0
-    closeness 0.167
+    eigenvectorcentrality 0.0842060732957414
+    pagerank 0.000740435097526345
+    closeness 0.167197640117994
   ]
   node
   [
@@ -19799,9 +19799,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.023
-    pagerank 0
-    closeness 0.162
+    eigenvectorcentrality 0.0492828783118976
+    pagerank 0.000488338863893211
+    closeness 0.162146698706946
   ]
   node
   [
@@ -19814,9 +19814,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.026
-    pagerank 0
-    closeness 0.162
+    eigenvectorcentrality 0.0575096588051287
+    pagerank 0.00072893503115165
+    closeness 0.16246273790415
   ]
   node
   [
@@ -19829,9 +19829,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.023
-    pagerank 0
-    closeness 0.162
+    eigenvectorcentrality 0.0492828783118976
+    pagerank 0.000488338863893211
+    closeness 0.162146698706946
   ]
   node
   [
@@ -19844,9 +19844,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.023
-    pagerank 0
-    closeness 0.162
+    eigenvectorcentrality 0.0492828783118976
+    pagerank 0.000488338863893211
+    closeness 0.162146698706946
   ]
   node
   [
@@ -19859,9 +19859,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.023
-    pagerank 0
-    closeness 0.162
+    eigenvectorcentrality 0.0492828783118976
+    pagerank 0.000488338863893211
+    closeness 0.162146698706946
   ]
   node
   [
@@ -19874,9 +19874,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.023
-    pagerank 0
-    closeness 0.162
+    eigenvectorcentrality 0.0492828783118976
+    pagerank 0.000488338863893211
+    closeness 0.162146698706946
   ]
   node
   [
@@ -19889,9 +19889,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.023
-    pagerank 0
-    closeness 0.162
+    eigenvectorcentrality 0.0492828783118976
+    pagerank 0.000488338863893211
+    closeness 0.162146698706946
   ]
   node
   [
@@ -19904,9 +19904,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.138
+    eigenvectorcentrality 2.30094315808178e-06
+    pagerank 0.000873284975372214
+    closeness 0.137639630888781
   ]
   node
   [
@@ -19919,9 +19919,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.14
+    eigenvectorcentrality 3.1665125997588e-06
+    pagerank 0.00103359518227519
+    closeness 0.139867732701609
   ]
   node
   [
@@ -19934,9 +19934,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 0.00528126068280593
+    pagerank 0.000806983034051648
+    closeness 0.139660950128129
   ]
   node
   [
@@ -19949,9 +19949,9 @@ graph
     indegreecentrality 7
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.083
-    pagerank 0.001
-    closeness 0.181
+    eigenvectorcentrality 0.176218168805425
+    pagerank 0.00107967998534744
+    closeness 0.181341182492961
   ]
   node
   [
@@ -19964,9 +19964,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.06
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.126034274450553
+    pagerank 0.000738601160373248
+    closeness 0.180211115350375
   ]
   node
   [
@@ -19979,9 +19979,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.047
-    pagerank 0
-    closeness 0.18
+    eigenvectorcentrality 0.0987365919710564
+    pagerank 0.000725972075428416
+    closeness 0.180188199389624
   ]
   node
   [
@@ -19994,9 +19994,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.123
+    eigenvectorcentrality 3.57129779709674e-07
+    pagerank 0.00101775255827111
+    closeness 0.123485838779956
   ]
   node
   [
@@ -20009,9 +20009,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.092
+    eigenvectorcentrality 5.47448174237001e-10
+    pagerank 0.0005627529496896
+    closeness 0.0920727745289149
   ]
   node
   [
@@ -20024,9 +20024,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.101
+    eigenvectorcentrality 7.72113302803047e-09
+    pagerank 0.000655429109845904
+    closeness 0.101395348837209
   ]
   node
   [
@@ -20039,9 +20039,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.168
+    eigenvectorcentrality 2.96896051699672e-05
+    pagerank 0.000525415981795399
+    closeness 0.16763279309121
   ]
   node
   [
@@ -20054,9 +20054,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.153
+    eigenvectorcentrality 3.58443806260555e-06
+    pagerank 0.000511898097368112
+    closeness 0.153139522317086
   ]
   node
   [
@@ -20069,9 +20069,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.147
+    eigenvectorcentrality 2.21420312454565e-06
+    pagerank 0.000472947717764128
+    closeness 0.146793742877862
   ]
   node
   [
@@ -20084,9 +20084,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.168
+    eigenvectorcentrality 2.96896051699672e-05
+    pagerank 0.000525415981795399
+    closeness 0.16763279309121
   ]
   node
   [
@@ -20099,9 +20099,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.168
+    eigenvectorcentrality 2.96896051699672e-05
+    pagerank 0.000525415981795399
+    closeness 0.16763279309121
   ]
   node
   [
@@ -20114,9 +20114,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.168
+    eigenvectorcentrality 2.96896051699672e-05
+    pagerank 0.000525415981795399
+    closeness 0.16763279309121
   ]
   node
   [
@@ -20129,9 +20129,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.147
+    eigenvectorcentrality 2.38317645979355e-06
+    pagerank 0.000673950497813882
+    closeness 0.14680895151264
   ]
   node
   [
@@ -20144,9 +20144,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.147
+    eigenvectorcentrality 2.21420312454565e-06
+    pagerank 0.000472947717764128
+    closeness 0.146793742877862
   ]
   node
   [
@@ -20159,9 +20159,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.147
+    eigenvectorcentrality 0.00240385217217162
+    pagerank 0.000963264085101488
+    closeness 0.147251376909488
   ]
   node
   [
@@ -20174,9 +20174,9 @@ graph
     indegreecentrality 7
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.101
+    eigenvectorcentrality 1.25032838572155e-08
+    pagerank 0.00129906972250647
+    closeness 0.101475221999427
   ]
   node
   [
@@ -20189,9 +20189,9 @@ graph
     indegreecentrality 9
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.092
-    pagerank 0.001
-    closeness 0.173
+    eigenvectorcentrality 0.203389860720986
+    pagerank 0.00125467030306411
+    closeness 0.17320620950984
   ]
   node
   [
@@ -20204,9 +20204,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.11
+    eigenvectorcentrality 1.9113762020327e-08
+    pagerank 0.000528777706725794
+    closeness 0.109921650764099
   ]
   node
   [
@@ -20219,9 +20219,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.11
+    eigenvectorcentrality 2.06362076243264e-08
+    pagerank 0.000657720838309086
+    closeness 0.109998447446049
   ]
   node
   [
@@ -20234,9 +20234,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.123
+    eigenvectorcentrality 2.68055400131324e-07
+    pagerank 0.000633139019387274
+    closeness 0.123367577920947
   ]
   node
   [
@@ -20249,9 +20249,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.000753268153720288
+    pagerank 0.000642974810670748
+    closeness 0.152152904542038
   ]
   node
   [
@@ -20264,9 +20264,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.116
+    eigenvectorcentrality 4.71067870506789e-07
+    pagerank 0.000682397773128538
+    closeness 0.115560267493068
   ]
   node
   [
@@ -20279,9 +20279,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.104
+    eigenvectorcentrality 3.3399922563454e-08
+    pagerank 0.000568707070154832
+    closeness 0.103604591650216
   ]
   node
   [
@@ -20294,9 +20294,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 4.28225301332545e-05
+    pagerank 0.00117811332839769
+    closeness 0.164767441860465
   ]
   node
   [
@@ -20309,9 +20309,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.142
+    eigenvectorcentrality 5.5433314164583e-06
+    pagerank 0.000641758662987313
+    closeness 0.141558441558442
   ]
   node
   [
@@ -20324,9 +20324,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.053
-    pagerank 0
-    closeness 0.187
+    eigenvectorcentrality 0.10989678469716
+    pagerank 0.000624717690026023
+    closeness 0.186668423132657
   ]
   node
   [
@@ -20339,9 +20339,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.012
-    pagerank 0.001
-    closeness 0.163
+    eigenvectorcentrality 0.0254101816739838
+    pagerank 0.000983570911720338
+    closeness 0.16302346985734
   ]
   node
   [
@@ -20354,9 +20354,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.149
+    eigenvectorcentrality 9.95131912748472e-05
+    pagerank 0.000856680992254445
+    closeness 0.149126499684277
   ]
   node
   [
@@ -20369,9 +20369,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.131
+    eigenvectorcentrality 0.000502391321205286
+    pagerank 0.000749336056038255
+    closeness 0.131471516051215
   ]
   node
   [
@@ -20384,9 +20384,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.151
+    eigenvectorcentrality 0.00651202444849146
+    pagerank 0.00078718021147657
+    closeness 0.151227321237994
   ]
   node
   [
@@ -20399,9 +20399,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.131
+    eigenvectorcentrality 0.000466770485493185
+    pagerank 0.000525849863886503
+    closeness 0.131459319046294
   ]
   node
   [
@@ -20414,9 +20414,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.131
+    eigenvectorcentrality 0.000502391321205288
+    pagerank 0.000637592959962379
+    closeness 0.131495916852264
   ]
   node
   [
@@ -20429,9 +20429,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.143
+    eigenvectorcentrality 4.03417041429377e-06
+    pagerank 0.00128913153140135
+    closeness 0.142713264175647
   ]
   node
   [
@@ -20444,9 +20444,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 3.31556218195651e-05
+    pagerank 0.000556867009039112
+    closeness 0.160639383289876
   ]
   node
   [
@@ -20459,9 +20459,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.161
+    eigenvectorcentrality 3.31556218195651e-05
+    pagerank 0.000556867009039112
+    closeness 0.160639383289876
   ]
   node
   [
@@ -20474,9 +20474,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.138
+    eigenvectorcentrality 2.35081878989237e-06
+    pagerank 0.000515643070548893
+    closeness 0.138446507083537
   ]
   node
   [
@@ -20489,9 +20489,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.025
-    pagerank 0
-    closeness 0.182
+    eigenvectorcentrality 0.0533990665357863
+    pagerank 0.000850646073086216
+    closeness 0.181736565345646
   ]
   node
   [
@@ -20504,9 +20504,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.151
+    eigenvectorcentrality 0.000238392294498971
+    pagerank 0.000716442516008547
+    closeness 0.150616496598639
   ]
   node
   [
@@ -20519,9 +20519,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 9.82128103890398e-07
+    pagerank 0.00125484134790169
+    closeness 0.126112495550018
   ]
   node
   [
@@ -20534,9 +20534,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.112
+    eigenvectorcentrality 6.96354064287356e-08
+    pagerank 0.000553922362394178
+    closeness 0.11200695597186
   ]
   node
   [
@@ -20549,9 +20549,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.165
+    eigenvectorcentrality 3.50455877846107e-05
+    pagerank 0.000917349454079688
+    closeness 0.165305646290247
   ]
   node
   [
@@ -20564,9 +20564,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.125
+    eigenvectorcentrality 5.16217715067184e-07
+    pagerank 0.00101369997239597
+    closeness 0.124933874096279
   ]
   node
   [
@@ -20579,9 +20579,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.076
-    pagerank 0.001
-    closeness 0.179
+    eigenvectorcentrality 0.164136358692439
+    pagerank 0.000738895508432431
+    closeness 0.178553427419355
   ]
   node
   [
@@ -20594,9 +20594,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.006
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.0129596957453251
+    pagerank 0.000742998292912475
+    closeness 0.151664347639944
   ]
   node
   [
@@ -20609,9 +20609,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.008
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.0168076392818695
+    pagerank 0.00124498102786568
+    closeness 0.151713062098501
   ]
   node
   [
@@ -20624,9 +20624,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.006
-    pagerank 0
-    closeness 0.152
+    eigenvectorcentrality 0.012040820013325
+    pagerank 0.000521402310815812
+    closeness 0.151648116438356
   ]
   node
   [
@@ -20639,9 +20639,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.131
+    eigenvectorcentrality 6.10600812587419e-06
+    pagerank 0.000807072727076602
+    closeness 0.130550948958909
   ]
   node
   [
@@ -20654,9 +20654,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.124
+    eigenvectorcentrality 2.08406131360136e-07
+    pagerank 0.000914283375853778
+    closeness 0.124440151049442
   ]
   node
   [
@@ -20669,9 +20669,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.185
+    eigenvectorcentrality 0.000319852303559549
+    pagerank 0.000657975013626621
+    closeness 0.184890396659708
   ]
   node
   [
@@ -20684,9 +20684,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.13
+    eigenvectorcentrality 8.31907082895256e-06
+    pagerank 0.00104110331042841
+    closeness 0.129845138825254
   ]
   node
   [
@@ -20699,9 +20699,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.142
+    eigenvectorcentrality 2.49175164816302e-06
+    pagerank 0.000786025827770891
+    closeness 0.14196974251077
   ]
   node
   [
@@ -20714,9 +20714,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.101
+    eigenvectorcentrality 7.35219843623797e-09
+    pagerank 0.000706686739852094
+    closeness 0.101315601315601
   ]
   node
   [
@@ -20729,9 +20729,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0
-    closeness 0.14
+    eigenvectorcentrality 0.00484261080163298
+    pagerank 0.000832066276871026
+    closeness 0.140075128509292
   ]
   node
   [
@@ -20744,9 +20744,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.112
+    eigenvectorcentrality 6.00552442540955e-08
+    pagerank 0.000811918278733884
+    closeness 0.111733165115912
   ]
   node
   [
@@ -20759,9 +20759,9 @@ graph
     indegreecentrality 8
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.002
-    pagerank 0.001
-    closeness 0.15
+    eigenvectorcentrality 0.00413005005579094
+    pagerank 0.00147979919025328
+    closeness 0.150233248515691
   ]
   node
   [
@@ -20774,9 +20774,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.188
+    eigenvectorcentrality 0.000357061562604004
+    pagerank 0.000632435049557757
+    closeness 0.188105668392407
   ]
   node
   [
@@ -20789,9 +20789,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.159
+    eigenvectorcentrality 2.74241692152258e-05
+    pagerank 0.00067402022578013
+    closeness 0.158999102333932
   ]
   node
   [
@@ -20804,9 +20804,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0.001
-    closeness 0.18
+    eigenvectorcentrality 0.00178867346485193
+    pagerank 0.000826990641324558
+    closeness 0.179982217706084
   ]
   node
   [
@@ -20819,9 +20819,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.126
+    eigenvectorcentrality 1.63003368953589e-05
+    pagerank 0.000671253692241267
+    closeness 0.126134947480862
   ]
   node
   [
@@ -20834,9 +20834,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.139
+    eigenvectorcentrality 2.74206937949945e-06
+    pagerank 0.00115090752641337
+    closeness 0.138839898099157
   ]
   node
   [
@@ -20849,9 +20849,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.142
+    eigenvectorcentrality 2.54310977881345e-06
+    pagerank 0.00080074373456406
+    closeness 0.141629185407296
   ]
   node
   [
@@ -20864,9 +20864,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.124
+    eigenvectorcentrality 2.01077804754323e-07
+    pagerank 0.000510132244357628
+    closeness 0.124156663453956
   ]
   node
   [
@@ -20879,9 +20879,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.142
+    eigenvectorcentrality 1.83095100575401e-06
+    pagerank 0.000845412928956768
+    closeness 0.141558441558442
   ]
   node
   [
@@ -20894,9 +20894,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.124
+    eigenvectorcentrality 3.81390823321524e-07
+    pagerank 0.000609494605580906
+    closeness 0.124167542937259
   ]
   node
   [
@@ -20909,9 +20909,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.124
+    eigenvectorcentrality 2.34303203184056e-07
+    pagerank 0.000913492623617148
+    closeness 0.124178424327403
   ]
   node
   [
@@ -20924,9 +20924,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.133
+    eigenvectorcentrality 3.84461700661732e-05
+    pagerank 0.000786441186575956
+    closeness 0.133126644118752
   ]
   node
   [
@@ -20939,9 +20939,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.154
+    eigenvectorcentrality 0.000501067342336928
+    pagerank 0.00100150587595491
+    closeness 0.15350449572094
   ]
   node
   [
@@ -20954,9 +20954,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.0109908752282474
+    pagerank 0.000716087297941501
+    closeness 0.196423620737455
   ]
   node
   [
@@ -20969,9 +20969,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.003
-    pagerank 0
-    closeness 0.196
+    eigenvectorcentrality 0.00704662710044814
+    pagerank 0.000672075656431085
+    closeness 0.19634197034779
   ]
   node
   [
@@ -20984,9 +20984,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.031
-    pagerank 0
-    closeness 0.162
+    eigenvectorcentrality 0.0688304517710682
+    pagerank 0.00112850918681563
+    closeness 0.162258101454254
   ]
   node
   [
@@ -20999,9 +20999,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.11
+    eigenvectorcentrality 3.15259124703202e-05
+    pagerank 0.00058193942246392
+    closeness 0.109522337300974
   ]
   node
   [
@@ -21014,9 +21014,9 @@ graph
     indegreecentrality 4
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.123
+    eigenvectorcentrality 0.000444637092351707
+    pagerank 0.00112795984163887
+    closeness 0.122971448407533
   ]
   node
   [
@@ -21029,9 +21029,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.136
+    eigenvectorcentrality 2.808300325034e-06
+    pagerank 0.00122275737233908
+    closeness 0.136001535656013
   ]
   node
   [
@@ -21044,9 +21044,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.117
+    eigenvectorcentrality 1.42148455073619e-06
+    pagerank 0.000559952021845604
+    closeness 0.116827438370847
   ]
   node
   [
@@ -21059,9 +21059,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.132
+    eigenvectorcentrality 1.85261492831477e-05
+    pagerank 0.000594757593228097
+    closeness 0.131936685288641
   ]
   node
   [
@@ -21074,9 +21074,9 @@ graph
     indegreecentrality 11
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.222
-    pagerank 0.001
-    closeness 0.192
+    eigenvectorcentrality 0.478274341818285
+    pagerank 0.00123082460524143
+    closeness 0.191875423155044
   ]
   node
   [
@@ -21089,9 +21089,9 @@ graph
     indegreecentrality 10
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.143
+    eigenvectorcentrality 8.5707472340853e-06
+    pagerank 0.00150798889244226
+    closeness 0.143087953145511
   ]
   node
   [
@@ -21104,9 +21104,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.11
+    eigenvectorcentrality 2.8034702175553e-08
+    pagerank 0.000726043273159893
+    closeness 0.110032613759901
   ]
   node
   [
@@ -21119,9 +21119,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 1.83886229576382e-06
+    pagerank 0.000480583017785787
+    closeness 0.122207848210436
   ]
   node
   [
@@ -21134,9 +21134,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 1.83886229576382e-06
+    pagerank 0.000480583017785787
+    closeness 0.122207848210436
   ]
   node
   [
@@ -21149,9 +21149,9 @@ graph
     indegreecentrality 5
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0.001
-    closeness 0.139
+    eigenvectorcentrality 2.59350585076049e-05
+    pagerank 0.000724672568236384
+    closeness 0.139153491112639
   ]
   node
   [
@@ -21164,9 +21164,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 1.83886229576382e-06
+    pagerank 0.000480583017785787
+    closeness 0.122207848210436
   ]
   node
   [
@@ -21179,9 +21179,9 @@ graph
     indegreecentrality 1
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.122
+    eigenvectorcentrality 1.83886229576382e-06
+    pagerank 0.000480583017785787
+    closeness 0.122207848210436
   ]
   node
   [
@@ -21194,9 +21194,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0.001
-    closeness 0.177
+    eigenvectorcentrality 0.00310695690188649
+    pagerank 0.000668396960450403
+    closeness 0.177169292323081
   ]
   node
   [
@@ -21209,9 +21209,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.151
+    eigenvectorcentrality 0.000238716590936552
+    pagerank 0.000591736246790498
+    closeness 0.151340382356082
   ]
   node
   [
@@ -21224,9 +21224,9 @@ graph
     indegreecentrality 3
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.174
+    eigenvectorcentrality 0.00158478641380115
+    pagerank 0.000650703116931702
+    closeness 0.173651960784314
   ]
   node
   [
@@ -21239,9 +21239,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.001
-    pagerank 0
-    closeness 0.174
+    eigenvectorcentrality 0.0014718096883274
+    pagerank 0.000556450276574402
+    closeness 0.173524369336272
   ]
   node
   [
@@ -21254,9 +21254,9 @@ graph
     indegreecentrality 6
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0.005
-    pagerank 0.001
-    closeness 0.206
+    eigenvectorcentrality 0.0104757511764356
+    pagerank 0.000900639955850378
+    closeness 0.206319161327897
   ]
   node
   [
@@ -21269,9 +21269,9 @@ graph
     indegreecentrality 2
     outdegreecentrality 0
     betweennesscentrality 0
-    eigenvectorcentrality 0
-    pagerank 0
-    closeness 0.172
+    eigenvectorcentrality 0.000863808136463953
+    pagerank 0.000714762812791222
+    closeness 0.172300583657588
   ]
   edge
   [
