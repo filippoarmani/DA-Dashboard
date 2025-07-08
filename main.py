@@ -1,5 +1,6 @@
 import colorsys
 import copy
+import re
 from copy import deepcopy
 
 import dash
@@ -176,7 +177,7 @@ def render_content(tab):
                 cyto.Cytoscape(
                     id='cytoscape-graph',
                     layout={'name': 'preset'},
-                    style={'width': '70%', 'height': '800px'},
+                    style={'width': '70%', 'height': '1000px'},
                     elements=[],
                     stylesheet=[]
                 ),
@@ -298,6 +299,7 @@ def render_content(tab):
             html.H4("Metrics Progression"),
             dcc.Graph(id='metric-table', figure=go.Figure(), style={'height': '500px'}),
             dcc.Graph(id='metric-sizes', figure=go.Figure(), style={'height': '500px'}),
+            dcc.Graph(id='metric-assortativity', figure=go.Figure(), style={'height': '500px'}),
             dcc.Graph(id='metric-graph', figure=go.Figure(), style={'height': '500px'}),
         ])
     return None
@@ -409,11 +411,8 @@ def update_graph(tab, selected_values, n, legend_clicks, all_elements, selected_
             selected_categories.append(cat)
 
         if selected_categories:
-            selected_nodes = {el['data']['id'] for el in all_elements if el['data'].get('category') in selected_categories}
-            filtered_elements = [el for el in all_elements if 'data' in el and el['data'].get('id') in selected_nodes]
-            filtered_edges = [el for el in all_elements if 'data' in el and 'source' in el['data'] and
-                              el['data']['source'] in selected_nodes and el['data']['target'] in selected_nodes]
-            elements = filtered_elements + filtered_edges
+            selected_nodes = {int(float(el['data']['id'])) for el in all_elements if el['data'].get('category') in selected_categories}
+            elements, stylesheet = get_elements_filtered(all_elements, selected_nodes, stylesheet)
         else:
             elements = deepcopy(all_elements)
 
@@ -443,46 +442,9 @@ def update_graph(tab, selected_values, n, legend_clicks, all_elements, selected_
 
         return elements, stylesheet, legend_items, elements, [], dash.no_update, {'display': 'none', 'height': '500px'}
     elif trigger == "apply-threshold":
-        selected_nodes = {el['data']['id'] for el in all_elements if prop in el['data'].keys() and float(el['data'].get(prop, "")) >= float(threshold)}
+        selected_nodes = {int(float(el['data']['id'])) for el in all_elements if prop in el['data'].keys() and float(el['data'].get(prop, "")) >= float(threshold)}
 
-        highlight_elements = [{'data' : el['data'], 'classes': 'highlight'} for el in all_elements if 'data' in el and el['data'].get('id', "") in selected_nodes]
-        faded_elements = [{'data': el['data'], 'classes': 'faded'} for el in all_elements if 'data' in el and el['data'].get('id', "") not in selected_nodes]
-
-        highlight_edge = [{'data' : el['data'], 'classes': 'highlight'} for el in all_elements if 'data' in el and 'source' in el['data'] and 'target' in el['data'] and
-                          (el['data']['source'] in selected_nodes or el['data']['target'] in selected_nodes)]
-
-        faded_edge = [{'data': el['data'], 'classes': 'faded'} for el in all_elements if 'data' in el and 'source' in el['data'].keys() and 'target' in el['data'].keys() and
-                          ((not el['data']['source'] in selected_nodes) and (not el['data']['target'] in selected_nodes))]
-
-        elements = highlight_elements + faded_elements + highlight_edge + faded_edge
-
-        edge_stylesheet = get_edge_stylesheet(selected_values)
-        edge_stylesheet['style'].update({'opacity': 0.2})
-
-        stylesheet = [
-            {
-                'selector': 'node',
-                'style': {
-                    'background-color': 'data(color)',
-                    'color': 'data(color)',
-                    'opacity': 0.2,
-                    'font-size': '12px'
-                }
-            },
-            edge_stylesheet,
-            {
-                'selector': '.highlight',
-                'style': {
-                    'opacity': 1
-                }
-            },
-            {
-                'selector': 'edge.highlight',
-                'style': {
-                    'opacity': 1
-                }
-            }
-        ]
+        elements, stylesheet = get_elements_filtered(all_elements, selected_nodes, stylesheet)
 
         boxplot = go.Figure(
             data=[
@@ -515,6 +477,7 @@ list_table = []
     Output('c-full', 'data'),
     Output('metric-graph', 'style'),
     Output('metric-sizes', 'figure'),
+    Output('metric-assortativity', 'figure'),
     Input('apply-clustering', 'n_clicks'),
     Input({'type': 'c-legend-cat', 'index': dash.ALL}, 'n_clicks'),
     Input({'type': 'c-legend-clu', 'index': dash.ALL}, 'n_clicks'),
@@ -528,20 +491,20 @@ list_table = []
 def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categories, selected_clusters, all_elements):
     trigger = ctx.triggered_id
 
+    stylesheet = [{
+        'selector': 'node',
+        'style': {
+            'background-color': 'data(fill_color)',
+            'border-width': 4,
+            'border-color': 'data(border_color)'
+        }
+    }, get_edge_stylesheet(selected_graph[0])]
+
     if trigger == "apply-clustering":
         if not selected_graph or selected_graph[0] == "gene":
             return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
 
         g = selected_graph[1].copy()
-
-        stylesheet = [{
-            'selector': 'node',
-            'style': {
-                'background-color': 'data(fill_color)',
-                'border-width': 4,
-                'border-color': 'data(border_color)'
-            }
-        }, get_edge_stylesheet(selected_graph[0])]
 
         method_name = ""
         clustering = None
@@ -618,8 +581,9 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
 
         g.vs['fill_color'] = [colors[c] for c in g.vs['cluster']]
         g.vs['border_color'] = g.vs['color']
+        g.vs['assortativity cluster'] = [clustering.subgraph(i).assortativity_degree() for i in g.vs['cluster']]
 
-        elements = get_elements_from_graph(g, mode=True)
+        elements = get_elements_from_graph(g, mode=False)
         selected_categories = []
         selected_clusters = []
 
@@ -671,7 +635,7 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
         legend_category = get_category_legend([], elements, 'c-legend-cat')
         legend_clusters = get_cluster_legend([], elements, 'c-legend-clu')
 
-        boxplot = go.Figure(
+        boxplot_s = go.Figure(
             data=[
                 go.Box(
                     y=sorted(clustering.sizes()),
@@ -681,11 +645,26 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
             ]
         )
 
-        boxplot.update_layout(
+        boxplot_s.update_layout(
             title="Boxplot cluster size distribution"
         )
 
-        return elements, stylesheet, fig_graph, fig_table, legend_category, legend_clusters, selected_categories, selected_clusters, elements, style_graph, boxplot
+        assortativity = [a for a in g.vs['assortativity cluster'] if a >= -1]
+        boxplot_a = go.Figure(
+            data=[
+                go.Box(
+                    y=sorted(assortativity),
+                    name="",
+                    boxmean=True
+                )
+            ]
+        )
+
+        boxplot_a.update_layout(
+            title=f"Boxplot assortativity distribution ({len(clustering) - len(list(set(assortativity)))} cluster with NaN value)\n{round(g.assortativity_degree(), 5)} is the global assortativity degree"
+        )
+
+        return elements, stylesheet, fig_graph, fig_table, legend_category, legend_clusters, selected_categories, selected_clusters, elements, style_graph, boxplot_s, boxplot_a
 
     if isinstance(trigger, dict) and (trigger.get('type') == 'c-legend-cat' or trigger.get('type') == 'c-legend-clu') and all_elements:
         to_do = False
@@ -710,24 +689,21 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
             if  (not selected_categories) and (not selected_clusters):
                 elements = copy.deepcopy(all_elements)
             else:
-                selected_nodes = {el['data']['id'] for el in all_elements if
+                selected_nodes = {int(float(el['data']['id'])) for el in all_elements if
                                   ((el['data'].get('category') in selected_categories) or (el['data'].get('cluster') in selected_clusters))}
-                filtered_elements = [el for el in all_elements if ('data' in el and el['data'].get('id') in selected_nodes)]
-                filtered_edges = [el for el in all_elements if ('data' in el and 'source' in el['data'] and
-                                                                el['data']['source'] in selected_nodes and
-                                                                el['data']['target'] in selected_nodes)]
-                elements = filtered_elements + filtered_edges
+
+                elements, stylesheet = get_elements_filtered(all_elements, selected_nodes, stylesheet)
 
             legend_category = get_category_legend(selected_categories, all_elements, 'c-legend-cat')
             legend_clusters = get_cluster_legend(selected_clusters, all_elements, 'c-legend-clu')
 
-            return elements, dash.no_update, dash.no_update, dash.no_update, legend_category, legend_clusters, selected_categories, selected_clusters, all_elements, dash.no_update, dash.no_update
+            return elements, stylesheet, dash.no_update, dash.no_update, legend_category, legend_clusters, selected_categories, selected_clusters, all_elements, dash.no_update, dash.no_update, dash.no_update
         else:
             legend_category = get_category_legend(selected_categories, all_elements, 'c-legend-cat')
             legend_clusters = get_cluster_legend(selected_clusters, all_elements, 'c-legend-clu')
 
-            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, legend_category, legend_clusters, selected_categories, selected_clusters, all_elements, dash.no_update, dash.no_update
-    return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
+            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, legend_category, legend_clusters, selected_categories, selected_clusters, all_elements, dash.no_update, dash.no_update, dash.no_update
+    return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
 
 
 # Utility function to generate distinct colors
@@ -794,10 +770,13 @@ def get_node_info(tapped_node):
                     "cluster_str": "most frequent category in the cluster"
                 }
                 new_key = labels.get(key, key)
-                node_info += f"{new_key}: {value}\n"
+
+                new_value = value
+                if type(value) != str or len(re.findall(r'\d*\.\d+', value))>0:
+                    new_value = round(float(value), 5)
+                node_info += f"{new_key}: {new_value}\n"
 
     return node_info
-
 
 def get_edge_stylesheet(selected_values):
     return {
@@ -807,7 +786,7 @@ def get_edge_stylesheet(selected_values):
             'width': 2,
             'curve-style': 'bezier',
             'target-arrow-shape': 'triangle' if selected_values == 'all' else 'none',
-            'target-arrow-color': '#888' if selected_values == 'all' else '#888'
+            'target-arrow-color': '#888'
         }
     }
 
@@ -847,6 +826,44 @@ def get_cluster_legend(selected_clusters, all_elements, types):
         }.items()
     ]
 
+def get_elements_filtered(all_elements, selected_nodes, stylesheet):
+    nodes = []
+    for el in all_elements:
+        if 'data' in el and 'source' not in el['data']:
+            if float(el['data']['id']) in selected_nodes:
+                nodes.append({'data': el['data'], 'classes': 'highlight'})
+            else:
+                nodes.append({'data': el['data'], 'classes': 'faded'})
+
+    edges = []
+    for el in all_elements:
+        if 'data' in el and 'source' in el['data'] and 'target' in el['data']:
+            if int(float(el['data']['source'])) in selected_nodes or int(float(el['data']['target'])) in selected_nodes:
+                edges.append({'data': el['data'], 'classes': 'highlight'})
+            else:
+                edges.append({'data': el['data'], 'classes': 'faded'})
+
+    elements = nodes + edges
+
+    stylesheet.append(
+        {
+            'selector': '.highlight',
+            'style': {
+                'opacity': 1
+            }
+        }
+    )
+
+    stylesheet.append(
+        {
+            'selector': '.faded',
+            'style': {
+                'opacity': 0.2
+            }
+        }
+    )
+
+    return elements, stylesheet
 
 if __name__ == '__main__':
     app.run_server(debug=True)
