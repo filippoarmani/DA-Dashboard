@@ -172,6 +172,7 @@ def render_content(tab):
                 ),
                 html.Button("Apply", id='apply-threshold', n_clicks=0, disabled=True,
                             style={'margin-left': '10px', 'margin-right': '10px'}),
+                html.Label('', id='minmax1', style={'margin-left': '10px', 'margin-right': '10px'}),
             ], id="t_div", style={'display': 'none', 'align-items': 'center', 'margin-top': '20px', 'margin-bottom': '20px'}),
             html.Div([
                 cyto.Cytoscape(
@@ -650,6 +651,8 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
         )
 
         assortativity = [a for a in g.vs['assortativity cluster'] if a >= -1]
+        global_assortativity = round(g.assortativity_degree(), 5)
+
         boxplot_a = go.Figure(
             data=[
                 go.Box(
@@ -660,8 +663,22 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
             ]
         )
 
+        boxplot_a.add_shape(
+            type="line",
+            x0=-0.5,  # Va bene per singolo boxplot
+            x1=0.5,
+            y0=global_assortativity,
+            y1=global_assortativity,
+            line=dict(color="red", dash="dash")
+        )
+
         boxplot_a.update_layout(
-            title=f"Boxplot assortativity distribution ({len(clustering) - len(list(set(assortativity)))} cluster with NaN value)\n{round(g.assortativity_degree(), 5)} is the global assortativity degree"
+            title=(
+                f"Boxplot assortativity distribution "
+                f"({len(clustering) - len(list(set(assortativity)))} cluster with NaN value)\n"
+                f"{global_assortativity} is the global assortativity degree"
+            ),
+            yaxis=dict(range=[-1.1, 1.1])
         )
 
         return elements, stylesheet, fig_graph, fig_table, legend_category, legend_clusters, selected_categories, selected_clusters, elements, style_graph, boxplot_s, boxplot_a
@@ -825,6 +842,19 @@ def get_cluster_legend(selected_clusters, all_elements, types):
             for el in all_elements if 'data' in el and 'cluster' in el['data']
         }.items()
     ]
+
+@app.callback(
+    Output("minmax1", "children"),
+    Input('properties-method', 'value')
+)
+def update_label(prop):
+    if selected_graph is None or len(selected_graph) != 2 or prop is None or prop == "None":
+        return ""
+
+    g = selected_graph[1].copy()
+    prop_v = [round(float(p), 5) for p in g.vs[prop]]
+    return f"Min: {min(prop_v)} Max: {max(prop_v)}"
+
 
 def get_elements_filtered(all_elements, selected_nodes, stylesheet):
     nodes = []
