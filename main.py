@@ -253,6 +253,32 @@ def render_content(tab):
 
                 html.Button("Apply", id='apply-clustering', n_clicks=0, disabled=True, style={'margin-top': '10px'})
             ], id='clustering-container'),
+            html.Div([
+                html.Label('Filter by properties:', style={'margin-right': '10px'}),
+                dcc.Dropdown(
+                    id='properties-c',
+                    options=[
+                        {'label': 'size', 'value': 'size'},
+                        {'label': 'assortativity', 'value': 'assortativity'},
+                        {'label': 'none', 'value': 'None'}
+                    ],
+                    placeholder="Select Properties",
+                    value=None,
+                    style={'width': '200px', 'display': 'inline-block'}
+                ),
+                html.Label('Select threshold:', style={'margin-left': '10px', 'margin-right': '10px'}),
+                dcc.Input(
+                    id='threshold-number-c',
+                    type='number',
+                    placeholder='Enter a number',
+                    value=0,
+                    style={'width': '150px'}
+                ),
+                html.Button("Apply", id='apply-threshold-c', n_clicks=0, disabled=True,
+                            style={'margin-left': '10px', 'margin-right': '10px'}),
+                html.Label('', id='minmax2', style={'margin-left': '10px', 'margin-right': '10px'}),
+            ], id="c_div",
+                style={'display': 'none', 'align-items': 'center', 'margin-top': '20px', 'margin-bottom': '20px'}),
             html.H4("Partition Visualization"),
             html.Div([
                 cyto.Cytoscape(
@@ -341,6 +367,13 @@ def toggle_button(method, number):
 )
 def toggle_button2(prop, selector):
     return (prop is None) or (selector is None) or (selector == 'None')
+
+@app.callback(
+    Output('apply-threshold-c', 'disabled'),
+    Input('properties-c', 'value')
+)
+def toggle_button3(prop):
+    return prop is None
 
 # Enable/disable "Apply" button based on inputs
 @app.callback(
@@ -479,7 +512,9 @@ list_table = []
     Output('metric-graph', 'style'),
     Output('metric-sizes', 'figure'),
     Output('metric-assortativity', 'figure'),
+    Output('c_div', 'style'),
     Input('apply-clustering', 'n_clicks'),
+    Input('apply-threshold-c', 'n_clicks'),
     Input({'type': 'c-legend-cat', 'index': dash.ALL}, 'n_clicks'),
     Input({'type': 'c-legend-clu', 'index': dash.ALL}, 'n_clicks'),
     State('clustering-method', 'value'),
@@ -487,9 +522,11 @@ list_table = []
     State('c-selected-categories', 'data'),
     State('c-selected-clusters', 'data'),
     State('c-full', 'data'),
+    State('properties-c', 'value'),
+    State('threshold-number-c', 'value'),
     prevent_initial_call=True
 )
-def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categories, selected_clusters, all_elements):
+def apply_clustering(n_clicks, n_clicks_c, l1, l2, method, cluster_number, selected_categories, selected_clusters, all_elements, prop, threshold):
     trigger = ctx.triggered_id
 
     stylesheet = [{
@@ -503,7 +540,7 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
 
     if trigger == "apply-clustering":
         if not selected_graph or selected_graph[0] == "gene":
-            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
+            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
 
         g = selected_graph[1].copy()
 
@@ -563,7 +600,7 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
             clustering = leidenalg.find_partition(g_all, leidenalg.ModularityVertexPartition)
 
         if not clustering:
-            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
+            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
 
         g.vs['cluster'] = list(clustering.membership)
         g.vs['cluster_str'] = most_common_in_cluster(g, g.vs['cluster'])
@@ -681,7 +718,23 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
             yaxis=dict(range=[-1.1, 1.1])
         )
 
-        return elements, stylesheet, fig_graph, fig_table, legend_category, legend_clusters, selected_categories, selected_clusters, elements, style_graph, boxplot_s, boxplot_a
+        return elements, stylesheet, fig_graph, fig_table, legend_category, legend_clusters, selected_categories, selected_clusters, elements, style_graph, boxplot_s, boxplot_a, {'display': 'block', 'align-items': 'center', 'margin-top': '20px', 'margin-bottom': '20px'}
+
+    if trigger == "apply-threshold-c":
+        if prop != "None":
+            if prop == "assortativity":
+                prop2 = "assortativity cluster"
+            else:
+                prop2 = "size cluster"
+
+            selected_nodes = {int(float(el['data']['id'])) for el in all_elements if
+                              prop2 in el['data'].keys() and float(el['data'].get(prop2, "")) >= float(threshold)}
+        else:
+            selected_nodes = {int(float(el['data']['id'])) for el in all_elements}
+
+        elements, stylesheet = get_elements_filtered(all_elements, selected_nodes, stylesheet)
+
+        return elements, stylesheet, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, all_elements, dash.no_update, dash.no_update, dash.no_update, dash.no_update
 
     if isinstance(trigger, dict) and (trigger.get('type') == 'c-legend-cat' or trigger.get('type') == 'c-legend-clu') and all_elements:
         to_do = False
@@ -714,13 +767,13 @@ def apply_clustering(n_clicks, l1, l2, method, cluster_number, selected_categori
             legend_category = get_category_legend(selected_categories, all_elements, 'c-legend-cat')
             legend_clusters = get_cluster_legend(selected_clusters, all_elements, 'c-legend-clu')
 
-            return elements, stylesheet, dash.no_update, dash.no_update, legend_category, legend_clusters, selected_categories, selected_clusters, all_elements, dash.no_update, dash.no_update, dash.no_update
+            return elements, stylesheet, dash.no_update, dash.no_update, legend_category, legend_clusters, selected_categories, selected_clusters, all_elements, dash.no_update, dash.no_update, dash.no_update, dash.no_update
         else:
             legend_category = get_category_legend(selected_categories, all_elements, 'c-legend-cat')
             legend_clusters = get_cluster_legend(selected_clusters, all_elements, 'c-legend-clu')
 
-            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, legend_category, legend_clusters, selected_categories, selected_clusters, all_elements, dash.no_update, dash.no_update, dash.no_update
-    return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
+            return dash.no_update, dash.no_update, dash.no_update, dash.no_update, legend_category, legend_clusters, selected_categories, selected_clusters, all_elements, dash.no_update, dash.no_update, dash.no_update, dash.no_update
+    return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, selected_categories, selected_clusters, all_elements, dash.no_update, dash.no_update, dash.no_update, dash.no_update
 
 
 # Utility function to generate distinct colors
@@ -847,13 +900,31 @@ def get_cluster_legend(selected_clusters, all_elements, types):
     Output("minmax1", "children"),
     Input('properties-method', 'value')
 )
-def update_label(prop):
+def update_label1(prop):
     if selected_graph is None or len(selected_graph) != 2 or prop is None or prop == "None":
         return ""
 
     g = selected_graph[1].copy()
     prop_v = [round(float(p), 5) for p in g.vs[prop]]
     return f"Min: {min(prop_v)} Max: {max(prop_v)}"
+
+@app.callback(
+    Output("minmax2", "children"),
+    Input('properties-c', 'value'),
+    State('c-full', 'data'),
+)
+def update_label2(prop, all_elements):
+    if selected_graph is None or len(selected_graph) != 2 or prop is None or prop == "None" or all_elements is None or all_elements == []:
+        return ""
+
+    if prop == "assortativity":
+        prop2 = "assortativity cluster"
+    else:
+        prop2 = "size cluster"
+
+    selected_value = [round(float(el['data'].get(prop2, "")), 5) for el in all_elements if "source" not in el['data'].keys()]
+
+    return f"Min: {min(selected_value)} Max: {max(selected_value)}"
 
 
 def get_elements_filtered(all_elements, selected_nodes, stylesheet):
