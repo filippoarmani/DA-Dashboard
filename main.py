@@ -1,6 +1,7 @@
 import colorsys
 import copy
 import re
+from collections import Counter, defaultdict
 from copy import deepcopy
 
 import dash
@@ -252,7 +253,7 @@ def render_content(tab):
                         style={'width': '150px'}
                     )
                 ], id='cluster-number-container'),
-
+                html.Button("Find Best", id='find-best-clustering', n_clicks=0, style={'display': 'none', 'margin-top': '10px', 'margin-right': '10px'}),
                 html.Button("Apply", id='apply-clustering', n_clicks=0, disabled=True, style={'margin-top': '10px'})
             ], id='clustering-container'),
             html.Div([
@@ -551,6 +552,7 @@ list_table = []
     Output('c_div', 'style'),
     Input('apply-clustering', 'n_clicks'),
     Input('apply-threshold-c', 'n_clicks'),
+    Input('find-best-clustering', 'n_clicks'),
     Input({'type': 'c-legend-cat', 'index': dash.ALL}, 'n_clicks'),
     Input({'type': 'c-legend-clu', 'index': dash.ALL}, 'n_clicks'),
     State('clustering-method', 'value'),
@@ -562,7 +564,7 @@ list_table = []
     State('threshold-number-c', 'value'),
     prevent_initial_call=True
 )
-def apply_clustering(n_clicks, n_clicks_c, l1, l2, method, cluster_number, selected_categories, selected_clusters, all_elements, prop, threshold):
+def apply_clustering(n_clicks, n_clicks_c, n_clicks_f, l1, l2, method, cluster_number, selected_categories, selected_clusters, all_elements, prop, threshold):
     trigger = ctx.triggered_id
 
     stylesheet = [{
@@ -574,7 +576,7 @@ def apply_clustering(n_clicks, n_clicks_c, l1, l2, method, cluster_number, selec
         }
     }, get_edge_stylesheet(selected_graph[0])]
 
-    if trigger == "apply-clustering":
+    if trigger == "apply-clustering" or trigger == "find-best-clustering":
         if not selected_graph or selected_graph[0] == "gene":
             return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
 
@@ -587,7 +589,10 @@ def apply_clustering(n_clicks, n_clicks_c, l1, l2, method, cluster_number, selec
         # Clustering method selection
         if method == '1':
             method_name = 'Edge Betweenness'
-            clustering = g.community_edge_betweenness(clusters=cluster_number).as_clustering(n=cluster_number)
+            if trigger == "find-best-clustering":
+                clustering = g.community_edge_betweenness().as_clustering()
+            else:
+                clustering = g.community_edge_betweenness(clusters=cluster_number).as_clustering(n=cluster_number)
         elif method == '2':
             method_name = 'Infomap'
             clustering = g.community_infomap()
@@ -645,8 +650,8 @@ def apply_clustering(n_clicks, n_clicks_c, l1, l2, method, cluster_number, selec
         # Metrics calculation
         NMI = normalized_mutual_info_score(g.vs['category'], g.vs['cluster'])
         ARI = adjusted_rand_score(g.vs['category'], g.vs['cluster'])
-        NMI_LM = normalized_mutual_info_score(g.vs['category'], g.vs['cluster'])
-        ARI_LM = adjusted_rand_score(g.vs['category'], g.vs['cluster'])
+
+        purity = purity_score(g.vs['category'], g.vs['cluster'])
 
         modularity = clustering.modularity
 
@@ -668,9 +673,8 @@ def apply_clustering(n_clicks, n_clicks_c, l1, l2, method, cluster_number, selec
             'Clusters': len(clustering),
             'NMI': NMI,
             'ARI': ARI,
-            'NMI LM': NMI_LM,
-            'ARI LM': ARI_LM,
-            'Modularity': modularity
+            'Modularity': modularity,
+            'Purity': purity
         }
 
         if method == '1':
@@ -692,14 +696,13 @@ def apply_clustering(n_clicks, n_clicks_c, l1, l2, method, cluster_number, selec
             'Clusters': len(clustering),
             'NMI': round(NMI, 5),
             'ARI': round(ARI, 5),
-            'NMI LM': round(NMI_LM, 5),
-            'ARI LM': round(ARI_LM, 5),
-            'Modularity': round(modularity, 5)
+            'Modularity': round(modularity, 5),
+            'Purity': round(purity, 5)
         })
 
         list_table = [dict(t) for t in {frozenset(d.items()) for d in list_table}]
         table = pd.DataFrame(list_table)
-        table = table[['Method', 'Clusters', 'Modularity', 'NMI', 'ARI', 'NMI LM', 'ARI LM']]
+        table = table[['Method', 'Clusters', 'Modularity', 'NMI', 'ARI', "Purity"]]
 
         fig_table = go.Figure(data=[go.Table(
             header=dict(values=list(table.columns)),
@@ -1001,6 +1004,32 @@ def get_elements_filtered(all_elements, selected_nodes, stylesheet):
     )
 
     return elements, stylesheet
+
+@app.callback(
+    Output('find-best-clustering', 'style'),
+    Input('clustering-method', 'value'),
+    prevent_initial_call=True
+)
+def update_button(value):
+    if value == "1":
+        return {'display': 'block', 'margin-top': '10px', 'margin-right': '10px'}
+    else:
+        return {'display': 'none', 'margin-top': '10px', 'margin-right': '10px'}
+
+
+def purity_score(true_labels, cluster_labels):
+    cluster_to_labels = defaultdict(list)
+    for true_label, cluster_label in zip(true_labels, cluster_labels):
+        cluster_to_labels[cluster_label].append(true_label)
+
+    total = 0
+    for cluster, labels in cluster_to_labels.items():
+        label_counts = Counter(labels)
+        max_count = max(label_counts.values())
+        total += max_count
+
+    return total / len(true_labels)
+
 
 if __name__ == '__main__':
     app.run_server(debug=True)

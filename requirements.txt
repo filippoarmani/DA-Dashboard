@@ -1,4 +1,4 @@
-dash>=2.16.1
+dash
 dash-cytoscape>=0.3.0
 igraph>=0.10.8
 leidenalg>=0.10.2
