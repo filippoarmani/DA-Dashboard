@@ -209,6 +209,8 @@ def render_content(tab):
                 })
             ], style={'display': 'flex'}),
             dcc.Graph(id='distribution', figure=go.Figure(), style={'display': 'none', 'height': '500px'}),
+            dcc.Graph(id='freq-types', figure=go.Figure(), style={'display': 'none', 'height': '500px'}),
+            dcc.Graph(id='freq-categories', figure=go.Figure(), style={'display': 'none', 'height': '500px'}),
             dcc.Store(id='full-elements')
         ])
     elif tab == 'page-2':
@@ -398,6 +400,10 @@ def update_t_div(selector):
     Output('selected-categories', 'data'),
     Output('distribution', 'figure'),
     Output('distribution', 'style'),
+    Output('freq-types', 'figure'),
+    Output('freq-types', 'style'),
+    Output('freq-categories', 'figure'),
+    Output('freq-categories', 'style'),
     Input('tabs', 'value'),
     Input('graph-selector', 'value'),
     Input('apply-threshold', 'n_clicks'),
@@ -452,7 +458,7 @@ def update_graph(tab, selected_values, n, legend_clicks, all_elements, selected_
 
         legend_items = get_category_legend(selected_categories, all_elements, "legend-button")
 
-        return elements, stylesheet, legend_items, all_elements, selected_categories, dash.no_update, dash.no_update
+        return elements, stylesheet, legend_items, all_elements, selected_categories, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
     elif trigger == "graph-selector":
         # Graph selector or node tap
         if selected_values == 'all':
@@ -474,7 +480,37 @@ def update_graph(tab, selected_values, n, legend_clicks, all_elements, selected_
 
         legend_items = get_category_legend(selected_categories, elements, "legend-button")
 
-        return elements, stylesheet, legend_items, elements, [], dash.no_update, {'display': 'none', 'height': '500px'}
+        if selected_graph:
+            vis_hist = 'block'
+
+            types_data = [v for v in selected_graph[1].vs['types']]
+            cat_data = [v for v in selected_graph[1].vs['category'] if v != "gene"]
+
+            types_hist = go.Figure(
+                data=[go.Histogram(x=types_data, nbinsx=len(set(types_data)), marker_color='skyblue')],
+                layout=go.Layout(
+                    title="Histogram of types",
+                    xaxis_title="Value",
+                    yaxis_title="Count",
+                    bargap=0.2
+                )
+            )
+
+            cat_hist = go.Figure(
+                data=[go.Histogram(x=cat_data, nbinsx=len(set(cat_data)), marker_color='skyblue')],
+                layout=go.Layout(
+                    title="Histogram of category (excluded gene)",
+                    xaxis_title="Value",
+                    yaxis_title="Count",
+                    bargap=0.2
+                )
+            )
+        else:
+            vis_hist = 'none'
+            types_hist = None
+            cat_hist = None
+
+        return elements, stylesheet, legend_items, elements, [], dash.no_update, {'display': 'none', 'height': '500px'}, types_hist, {'display': vis_hist, 'height': '500px'}, cat_hist, {'display': vis_hist, 'height': '500px'}
     elif trigger == "apply-threshold":
         selected_nodes = {int(float(el['data']['id'])) for el in all_elements if prop in el['data'].keys() and float(el['data'].get(prop, "")) >= float(threshold)}
 
@@ -493,8 +529,8 @@ def update_graph(tab, selected_values, n, legend_clicks, all_elements, selected_
         boxplot.update_layout(
             title="Boxplot of " + prop + " distribution"
         )
-        return elements, stylesheet, dash.no_update, dash.no_update, dash.no_update, boxplot, {'display': 'block', 'height': '500px'}
-    return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
+        return elements, stylesheet, dash.no_update, dash.no_update, dash.no_update, boxplot, {'display': 'block', 'height': '500px'}, dash.no_update, dash.no_update, dash.no_update, dash.no_update
+    return dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update, dash.no_update
 
 list_table = []
 
